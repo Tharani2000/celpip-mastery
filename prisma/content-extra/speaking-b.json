@@ -1,0 +1,74 @@
+[
+ {
+  "id": "S3-2",
+  "task": 3,
+  "type": "Describing a Scene",
+  "prep": 30,
+  "speak": 60,
+  "image": "parkday",
+  "prompt": "Describe some things that are happening in the picture below as well as you can. The person you are speaking to cannot see the picture."
+ },
+ {
+  "id": "S3-3",
+  "task": 3,
+  "type": "Describing a Scene",
+  "prep": 30,
+  "speak": 60,
+  "image": "busstop",
+  "prompt": "Describe some things that are happening in the picture below as well as you can. The person you are speaking to cannot see the picture."
+ },
+ {
+  "id": "S3-4",
+  "task": 3,
+  "type": "Describing a Scene",
+  "prep": 30,
+  "speak": 60,
+  "image": "kitchen",
+  "prompt": "Describe some things that are happening in the picture below as well as you can. The person you are speaking to cannot see the picture."
+ },
+ {
+  "id": "S3-5",
+  "task": 3,
+  "type": "Describing a Scene",
+  "prep": 30,
+  "speak": 60,
+  "image": "lobby",
+  "prompt": "Describe some things that are happening in the picture below as well as you can. The person you are speaking to cannot see the picture."
+ },
+ {
+  "id": "S4-2",
+  "task": 4,
+  "type": "Making Predictions",
+  "prep": 30,
+  "speak": 60,
+  "image": "parkday",
+  "prompt": "In this picture, what do you think will most probably happen next?"
+ },
+ {
+  "id": "S4-3",
+  "task": 4,
+  "type": "Making Predictions",
+  "prep": 30,
+  "speak": 60,
+  "image": "busstop",
+  "prompt": "In this picture, what do you think will most probably happen next?"
+ },
+ {
+  "id": "S4-4",
+  "task": 4,
+  "type": "Making Predictions",
+  "prep": 30,
+  "speak": 60,
+  "image": "kitchen",
+  "prompt": "In this picture, what do you think will most probably happen next?"
+ },
+ {
+  "id": "S4-5",
+  "task": 4,
+  "type": "Making Predictions",
+  "prep": 30,
+  "speak": 60,
+  "image": "lobby",
+  "prompt": "In this picture, what do you think will most probably happen next?"
+ }
+]

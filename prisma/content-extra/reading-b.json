@@ -1,0 +1,922 @@
+[
+  {
+    "id": "R3-2",
+    "part": 3,
+    "type": "Reading for Information",
+    "difficulty": "Intermediate",
+    "timeLimit": 600,
+    "title": "The neighbourhood tool library",
+    "paragraphs": true,
+    "passage": [
+      "A. In 2019, a group of neighbours in Saskatoon’s Riversdale area grew tired of buying expensive tools that they used only once or twice a year. One of them had just spent $180 on a tile saw to redo a bathroom floor and then stored it in a closet for months. Over coffee, the group asked a simple question: why not share? They collected donated drills, ladders and wheelbarrows, found space in a church basement, and opened the Riversdale Tool Library with about two hundred items.",
+      "B. Today the library holds more than three thousand items, from garden shovels to carpet cleaners, and members pay an annual fee of $40 to borrow them. Most users are renters, first-time homeowners and students furnishing a first apartment. Volunteers repair broken tools in a workshop at the back, and every second Saturday they run a free repair session where residents can bring a toaster, a bicycle or a lamp and learn how to fix it with help from experienced neighbours.",
+      "C. Running the library is not without difficulties. Tools wear out or come back damaged, and the organizers worry about injuries. For this reason, anyone who wants to borrow a power saw or a sander must first attend a fifteen-minute safety demonstration. Items are loaned for one week, and late returns cost two dollars a day. The most popular equipment, such as the tile saw and the pressure washer, often has a waiting list of several weeks in spring, when many people start home projects.",
+      "D. The library’s board now has bigger plans. A $60,000 grant from the city, announced this year, will allow the organization to open a second location in the east end of Saskatoon, where there are many older homes in need of maintenance. The board also intends to widen the collection to include camping equipment and sewing machines. To cover running costs, volunteers plan to hold a fundraising dinner each autumn and to invite local hardware stores to sponsor new purchases."
+    ],
+    "instructions": "Choose the paragraph that best fits each statement. Choose E if the information is not given.",
+    "questions": [
+      {
+        "q": "Borrowers must take part in a short training session before using certain equipment.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 2,
+        "cat": "detail",
+        "e": "Paragraph C says anyone borrowing a power saw or sander must first attend a fifteen-minute safety demonstration."
+      },
+      {
+        "q": "The project was started by ordinary residents rather than by an organization.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "Paragraph A describes a group of neighbours who decided to share tools over coffee."
+      },
+      {
+        "q": "People can learn how to repair household objects at regular events.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 1,
+        "cat": "detail",
+        "e": "Paragraph B mentions free repair sessions every second Saturday with help from experienced neighbours."
+      },
+      {
+        "q": "The organization hopes to offer a wider range of equipment in the future.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 3,
+        "cat": "detail",
+        "e": "Paragraph D says the board intends to add camping equipment and sewing machines."
+      },
+      {
+        "q": "Members receive discounts at local hardware stores.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 4,
+        "cat": "evidence",
+        "e": "Hardware stores appear only as possible sponsors in paragraph D; no member discount is mentioned anywhere."
+      },
+      {
+        "q": "Why does the writer mention the waiting list for the tile saw and pressure washer?",
+        "o": [
+          "To show that some of the equipment is in high demand",
+          "To criticize the volunteers for poor organization",
+          "To explain why the annual fee was raised",
+          "To suggest that these tools are unsafe to use"
+        ],
+        "a": 0,
+        "cat": "intention",
+        "e": "The waiting list of several weeks in spring shows that the most popular items are often all borrowed; nothing suggests poor management or higher fees."
+      }
+    ]
+  },
+  {
+    "id": "R3-3",
+    "part": 3,
+    "type": "Reading for Information",
+    "difficulty": "Intermediate",
+    "timeLimit": 600,
+    "title": "A specialist on the screen",
+    "paragraphs": true,
+    "passage": [
+      "A. For people who live in remote parts of northern Ontario, seeing a medical specialist has traditionally meant a long journey. A resident of Pine Narrows, for example, might drive three hours each way to see a heart doctor for a twenty-minute appointment. In 2022, the regional health authority began a pilot project to change this. A private room in each community health centre is equipped with a camera and screen, and a local nurse helps the patient connect with a specialist in a distant city.",
+      "B. The benefits have been clear. Patients spend less money on gas, meals and hotel rooms, and they miss fewer days of work. Perhaps most importantly, follow-up visits are more likely to happen. In winter, snow and ice can make the highways dangerous, and some patients used to cancel appointments rather than risk the drive. In a survey of two hundred participants, the great majority said they were satisfied or very satisfied with the service. Staff also report that patients arrive less tired and better prepared to discuss their treatment.",
+      "C. The programme does have limits. Internet service in the north can be slow, and during heavy storms the connection sometimes fails halfway through a consultation, forcing the appointment to be rescheduled. Doctors also point out that certain conditions cannot be properly judged on a screen; a specialist who needs to feel a swollen joint or listen to a patient’s lungs may still need to see the patient in person. Some older residents say they find the technology confusing.",
+      "D. The health authority plans to expand the service during the next two years. Mental health counselling and diabetes care will be added to the list of available appointments, and two more technical support workers will be hired to keep the equipment running. Nurses already take a two-day training course on the system, and the authority wants all clinic staff to complete it, so that no appointment depends on a single person being on shift. The authority has also promised to publish its results each year so that other regions can learn from them."
+    ],
+    "instructions": "Choose the paragraph that best fits each statement. Choose E if the information is not given.",
+    "questions": [
+      {
+        "q": "Severe weather can interrupt an appointment.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 2,
+        "cat": "detail",
+        "e": "Paragraph C says that during heavy storms the connection can fail, forcing the appointment to be rescheduled."
+      },
+      {
+        "q": "A health worker in the patient’s own community assists with the technology.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "Paragraph A says a local nurse helps the patient connect with the specialist."
+      },
+      {
+        "q": "Dangerous road conditions used to lead some people to skip medical visits.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 1,
+        "cat": "inference",
+        "e": "Paragraph B says some patients cancelled appointments in winter rather than risk the drive."
+      },
+      {
+        "q": "The service will soon cover additional kinds of care.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 3,
+        "cat": "detail",
+        "e": "Paragraph D says mental health counselling and diabetes care will be added."
+      },
+      {
+        "q": "A screen cannot always replace a hands-on examination.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 2,
+        "cat": "inference",
+        "e": "Paragraph C notes that doctors cannot judge some conditions on a screen, such as a swollen joint or the sound of the lungs."
+      },
+      {
+        "q": "Which statement best describes the writer’s overall attitude toward the programme?",
+        "o": [
+          "Strongly opposed, because of the cost",
+          "Completely uncritical, ignoring any difficulties",
+          "Neutral and uninterested in the results",
+          "Positive, while acknowledging some limitations"
+        ],
+        "a": 3,
+        "cat": "attitude",
+        "e": "Paragraph B highlights clear benefits, and paragraph C fairly lists problems, so the attitude is positive but balanced."
+      }
+    ]
+  },
+  {
+    "id": "R3-4",
+    "part": 3,
+    "type": "Reading for Information",
+    "difficulty": "Advanced",
+    "timeLimit": 600,
+    "title": "A freezer for the fishing co-op",
+    "paragraphs": true,
+    "passage": [
+      "A. The Tidewater Fish Co-operative, owned by forty harvesters on the south shore of Nova Scotia, has always sold its haddock and halibut within two days of landing. Without freezing facilities, there was little alternative: unsold fish spoils quickly. The arrangement works well in slow weeks, but in the peak of the season, when every boat returns heavily loaded, the market is flooded and prices fall. Members have repeatedly accepted poor offers rather than throw away fish they could not store.",
+      "B. Last winter the board proposed a solution: a blast freezer costing $480,000, financed in part by a provincial loan that would cover sixty per cent of the price. The board’s projections suggest that freezing the surplus from peak weeks and selling it in the off-season, when supply is thin, could raise the co-operative’s average price by roughly a fifth. The projections acknowledge, however, that the freezer’s electricity consumption will be substantial and that sales of frozen product must be developed from scratch.",
+      "C. Not every member was persuaded. Several worried about taking on debt after a difficult year, and one pointed to a co-operative in a neighbouring bay that abandoned a similar project after a mechanical failure ruined a season’s stock. The manager replied that Tidewater’s plan includes insurance and a backup generator for exactly that scenario. A further concern, raised by a restaurant buyer, was that many chefs prefer fresh fish; whether they would pay a premium for frozen fillets remains untested.",
+      "D. At a meeting in March, the members voted twenty-seven to eleven in favour of proceeding, but only on a condition proposed from the floor. After two full seasons, the board must report whether revenue has risen by at least ten per cent. If it has not, members will decide whether to sell the equipment or keep operating it. Supporters say the condition shows prudence; sceptics see it as an admission that the board’s forecast may be optimistic."
+    ],
+    "instructions": "Choose the paragraph that best fits each statement. Choose E if the information is not given.",
+    "questions": [
+      {
+        "q": "The organization’s current practice of selling quickly is a consequence of its inability to store its product.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 0,
+        "cat": "inference",
+        "e": "Paragraph A says there was little alternative to selling within two days because fish spoils without freezing facilities."
+      },
+      {
+        "q": "A comparable venture elsewhere ran into serious difficulty with its equipment.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 2,
+        "cat": "detail",
+        "e": "Paragraph C describes a neighbouring co-operative that abandoned a similar project after a mechanical failure."
+      },
+      {
+        "q": "Harvesters will be guaranteed a minimum price for every kilogram they deliver.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 4,
+        "cat": "evidence",
+        "e": "No paragraph mentions a guaranteed minimum price, so the information is not given."
+      },
+      {
+        "q": "The projected financial gain depends on selling when fish is less plentiful.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 1,
+        "cat": "inference",
+        "e": "Paragraph B links the higher average price to selling frozen surplus in the off-season, when supply is thin."
+      },
+      {
+        "q": "Continued ownership of the new equipment will be reviewed against a specific performance target.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 3,
+        "cat": "detail",
+        "e": "Paragraph D requires a report after two seasons on whether revenue rose by at least ten per cent, after which members decide whether to sell."
+      },
+      {
+        "q": "In paragraph C, the manager’s reply to the worry about breakdowns is intended to:",
+        "o": [
+          "admit that the project is too risky to continue",
+          "blame the neighbouring co-operative for its failure",
+          "reassure members that the main risk has been planned for",
+          "persuade chefs to buy frozen fillets"
+        ],
+        "a": 2,
+        "cat": "intention",
+        "e": "By mentioning insurance and a backup generator, the manager shows the breakdown risk has been addressed; the reply says nothing about chefs or blame."
+      }
+    ]
+  },
+  {
+    "id": "R3-5",
+    "part": 3,
+    "type": "Reading for Information",
+    "difficulty": "Advanced",
+    "timeLimit": 600,
+    "title": "Who clears the sidewalk?",
+    "paragraphs": true,
+    "passage": [
+      "A. In most Canadian cities, a familiar rule governs winter: roads are plowed by the municipality, while sidewalks are the duty of the people who own the property beside them. Bylaws typically require owners to clear the snow within a day or so of a storm, and fines exist for those who do not. In theory this spreads the work evenly. In practice, the result is a patchwork of clear and buried stretches, and for seniors, wheelchair users and parents with strollers, one neglected property can block a whole street.",
+      "B. In 2021, the town of Kingsmere tested a different arrangement in two neighbourhoods. Small plow-tractors operated by the town cleared every sidewalk within twelve hours of snowfall ending, and households paid a levy of roughly sixty dollars a year. After two winters, complaints about blocked sidewalks had dropped by about two-thirds, and a survey found that residents of the pilot areas were noticeably more likely to walk to shops and bus stops in January than residents elsewhere in town.",
+      "C. The approach has its critics. Equipment, fuel and operators add to the municipal budget, and some councillors question whether the cost will stay at sixty dollars once the programme grows. Apartment dwellers, who rarely shovel anything, ask why they should pay the same levy as a homeowner with a long frontage. Others note that residents who used to clear their own sidewalks now find that the town’s plow has pushed a heavy ridge of snow across their driveway, replacing one chore with another.",
+      "D. Planners add that technique matters as much as timing. A sidewalk that is technically cleared can still be unusable if the curb ramp at the corner is blocked by the ridge left by a road plow. Some designers recommend wider boulevards where snow can be stored, and ramps positioned so that plows do not bury them. Kingsmere’s council will decide next spring whether to extend the service across the whole town, after considering the results of a further residents’ survey."
+    ],
+    "instructions": "Choose the paragraph that best fits each statement. Choose E if the information is not given.",
+    "questions": [
+      {
+        "q": "The way the programme is funded strikes some residents as unfair.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 2,
+        "cat": "inference",
+        "e": "Paragraph C reports apartment dwellers asking why they should pay the same levy as a homeowner with a long frontage."
+      },
+      {
+        "q": "Fewer residents suffered fall injuries in the areas that took part in the trial.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 4,
+        "cat": "evidence",
+        "e": "Injuries are never discussed; paragraph B reports complaints and walking habits only."
+      },
+      {
+        "q": "Responsibility for this task has traditionally rested with the owners of adjoining property.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "Paragraph A states that sidewalks are the duty of the people who own the property beside them."
+      },
+      {
+        "q": "The physical layout of a street can determine how effectively snow is handled.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 3,
+        "cat": "inference",
+        "e": "Paragraph D discusses wider boulevards and the placement of curb ramps as design features affecting snow management."
+      },
+      {
+        "q": "The trial seems to have encouraged people to be more active outdoors in winter.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 1,
+        "cat": "inference",
+        "e": "Paragraph B says residents of the pilot areas were more likely to walk to shops and bus stops in January."
+      },
+      {
+        "q": "What does the writer imply in paragraph D about cleared sidewalks?",
+        "o": [
+          "Speed of clearing is the only factor that matters",
+          "A sidewalk can be cleared and still be hard to use",
+          "Curb ramps are not part of the sidewalk system",
+          "Road plows should be removed from residential streets"
+        ],
+        "a": 1,
+        "cat": "implied",
+        "e": "The phrase “technically cleared can still be unusable” shows that clearing alone does not guarantee access, because of blocked curb ramps."
+      }
+    ]
+  },
+  {
+    "id": "R3-6",
+    "part": 3,
+    "type": "Reading for Information",
+    "difficulty": "Advanced",
+    "timeLimit": 600,
+    "title": "Warmth beneath the street",
+    "paragraphs": true,
+    "passage": [
+      "A. Even on the coldest January day, the wastewater flowing through a city’s large sewer pipes is surprisingly warm, usually between ten and twenty degrees, because it carries the heat of showers, dishwashers and laundry. Engineers have long recognized this as an untapped resource. A heat exchanger fitted to the wall of a large pipe transfers warmth to a circulating fluid, and a heat pump then concentrates it to a temperature suitable for heating buildings. The technique is not experimental: several Scandinavian cities have operated such systems for decades.",
+      "B. In Fairhaven’s Riverside district, a pilot connected a community centre and three apartment towers to a sewer main. Natural gas consumption in those buildings fell by about forty per cent, and the associated greenhouse gas emissions dropped accordingly. Yet the technology cannot simply be installed anywhere. It performs best where a pipe is wide and carries a steady flow, which excludes many residential side streets, and the heat must be used close to its source, since warmth is lost as it travels.",
+      "C. Obstacles remain. The initial investment is considerably higher than the cost of a gas boiler, and savings arrive only gradually. Building owners and the utility must negotiate who owns and maintains the equipment, and regulators have not yet decided whether selling recovered heat counts as a public utility. There is also an ecological constraint: if too much heat is extracted, the sewage reaching the treatment plant becomes too cold for the bacteria that break down waste to work efficiently, so engineers cap the permitted drop in temperature.",
+      "D. The city’s energy office remains optimistic. A proposed guideline would require developers of large new buildings near major sewer lines to assess whether a connection is feasible, though they would not be obliged to build one. Officials expect costs to fall as more systems are installed and as local contractors gain experience. They caution, nonetheless, that the benefits will be concentrated in dense districts, where many buildings stand close to the same large pipes. For now, the office is seeking a second pilot site to confirm the first results."
+    ],
+    "instructions": "Choose the paragraph that best fits each statement. Choose E if the information is not given.",
+    "questions": [
+      {
+        "q": "The suitability of this approach is restricted by characteristics of the location.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 1,
+        "cat": "inference",
+        "e": "Paragraph B says it performs best where pipes are wide with a steady flow and where heat is used close to its source."
+      },
+      {
+        "q": "Homeowners who connect to the system can claim a rebate from the city.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 4,
+        "cat": "evidence",
+        "e": "No rebate or financial incentive for connecting is mentioned in any paragraph."
+      },
+      {
+        "q": "Developers may soon be expected to consider the technology, but not to adopt it.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 3,
+        "cat": "detail",
+        "e": "Paragraph D describes a guideline requiring an assessment of feasibility without any obligation to build a connection."
+      },
+      {
+        "q": "The idea has already been shown to work over a long period in other countries.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "Paragraph A says several Scandinavian cities have operated such systems for decades."
+      },
+      {
+        "q": "The needs of another municipal service limit how much heat can be removed.",
+        "o": [
+          "A",
+          "B",
+          "C",
+          "D",
+          "E"
+        ],
+        "a": 2,
+        "cat": "inference",
+        "e": "Paragraph C explains that over-cooling harms the treatment plant’s bacteria, so engineers cap the temperature drop."
+      },
+      {
+        "q": "In paragraph C, “the initial investment” refers to:",
+        "o": [
+          "the money that must be spent before any savings begin",
+          "the first group of buildings connected to the system",
+          "the profit made by the utility in its first year",
+          "the temperature of the wastewater at the start"
+        ],
+        "a": 0,
+        "cat": "vocabulary",
+        "e": "The sentence contrasts the high starting cost with savings that arrive only gradually, so it means the up-front spending."
+      }
+    ]
+  },
+  {
+    "id": "R4-2",
+    "part": 4,
+    "type": "Reading for Viewpoints",
+    "difficulty": "Intermediate",
+    "timeLimit": 720,
+    "title": "Homework in the early grades",
+    "passage": [
+      "When my daughter started Grade 2, our evenings quietly changed. Dinner became hurried, because a spelling list, a math worksheet and a reading log were waiting on the table. By seven o’clock she was often in tears, and I was playing the role of an unpaid and impatient tutor. Her school is a good one, and her teacher is kind and hard-working. That is exactly why I began to wonder whether homework for seven-year-olds is really worth what it costs our families.",
+      "The evidence for homework in the early grades is thin. Many education researchers have found that, for young children, daily assignments do little to improve how well they learn, although the benefits grow in high school, when students are older and can study on their own. What homework does produce in young children, quite reliably, is fatigue, arguments at home and, for some, a growing dislike of school. A child who decides at the age of seven that learning is a chore may carry that belief for years.",
+      "Supporters make fair points. Practice matters: children do need to memorize their number facts, and a few minutes of repetition at home can help. Homework also gives parents a window into the classroom, and some teachers say it builds a sense of responsibility. These are real benefits, and I do not want to dismiss them. But they can be achieved with far less. A parent can see what a child is learning without a nightly worksheet, and responsibility can be taught by asking a child to pack her own school bag.",
+      "My proposal is modest. Elementary schools should replace routine homework in the early grades with one simple expectation: twenty minutes of reading each evening, whether the child reads alone, reads aloud or is read to. Teachers could still send home an occasional project, but nothing should be required on a school night. Families with time and energy could do more, and those without would not be penalized. If test results truly suffer, we can revisit the idea, though I doubt they will. Childhood is short, and evenings are among the few hours families share. We should protect them."
+    ],
+    "comment": "Reader comment from Daniel O.: I teach Grade 5, and I agree that endless worksheets are pointless. But I would not remove homework altogether. Ten minutes of math practice a few nights a week makes a visible difference when we start fractions, and children enjoy showing a parent what they can do. The real problem is not homework itself but poorly designed homework. I would rather see schools set clear limits on time than ban it outright.",
+    "questions": [
+      {
+        "q": "Why does the writer begin with a story about her daughter in Grade 2?",
+        "o": [
+          "To complain about her daughter’s teacher",
+          "To give a personal reason for questioning homework",
+          "To prove that all Grade 2 students are overworked",
+          "To explain how she helps with spelling"
+        ],
+        "a": 1,
+        "cat": "intention",
+        "e": "The anecdote describes the stress homework caused at home and leads to the writer’s doubts; she says the teacher is kind, so it is not a complaint."
+      },
+      {
+        "q": "According to the writer, when do the benefits of homework grow?",
+        "o": [
+          "During the first years of school",
+          "When parents help with every assignment",
+          "When teachers mark each worksheet",
+          "In high school"
+        ],
+        "a": 3,
+        "cat": "detail",
+        "e": "The second paragraph says the benefits grow in high school, when students can study on their own."
+      },
+      {
+        "q": "Which of the following is the writer’s opinion rather than a fact?",
+        "o": [
+          "Evenings are among the few hours families share and should be protected.",
+          "Researchers have found that benefits grow in high school.",
+          "Her daughter’s teacher is kind and hard-working.",
+          "Some teachers say homework builds responsibility."
+        ],
+        "a": 0,
+        "cat": "fact-opinion",
+        "e": "“We should protect them” is a value judgment; the other options report findings or statements that can be checked."
+      },
+      {
+        "q": "What does the writer suggest by calling herself an “unpaid and impatient tutor”?",
+        "o": [
+          "She would like to be paid for helping her daughter.",
+          "She believes the school’s teachers are poorly qualified.",
+          "She was doing a job at home that she was not suited for or prepared to do.",
+          "She enjoys teaching her daughter after dinner."
+        ],
+        "a": 2,
+        "cat": "implied",
+        "e": "The phrase, together with her daughter’s tears, suggests she felt pushed into a role that made evenings stressful."
+      },
+      {
+        "q": "What does the writer propose instead of routine homework?",
+        "o": [
+          "Twenty minutes of reading each evening",
+          "A weekly project that is marked by the teacher",
+          "A longer school day with extra practice time",
+          "Optional worksheets for every subject"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "The final paragraph proposes replacing routine homework with twenty minutes of reading each evening."
+      },
+      {
+        "q": "How does the reader’s view relate to the writer’s?",
+        "o": [
+          "He supports the writer completely and wants homework ended.",
+          "He thinks homework should be increased in every grade.",
+          "He believes parents rarely help their children.",
+          "He agrees that worksheets are a problem but wants some homework kept."
+        ],
+        "a": 3,
+        "cat": "opinion",
+        "e": "Daniel agrees endless worksheets are pointless but says he would not remove homework altogether and prefers time limits."
+      }
+    ]
+  },
+  {
+    "id": "R4-3",
+    "part": 4,
+    "type": "Reading for Viewpoints",
+    "difficulty": "Intermediate",
+    "timeLimit": 720,
+    "title": "When the card machine asks for a tip",
+    "passage": [
+      "Last week I bought a coffee, and the card machine asked whether I wanted to add a tip of 18, 20 or 25 per cent. The barista was watching. I tapped 18 and felt vaguely annoyed. I had been handed a cup across a counter, not served a meal. Tipping screens now appear at bakeries, takeout windows and even self-serve shops, and I think the practice has drifted a long way from its original purpose. Nobody told me the amount was optional, and it did not feel optional.",
+      "Tipping began as a way to reward good table service, and in restaurants it still makes sense. Servers often depend on tips to earn a decent income, and attentive service deserves recognition. I tip fifteen to twenty per cent without complaint when someone brings my food, refills my water and checks that everything is fine. The problem is that digital payment screens have made tipping the default almost everywhere, which turns a thank-you into a form of pressure, and pressure is a poor reason to be generous.",
+      "Defenders of the new screens have a point. Many counter workers earn modest wages, and a few extra dollars an hour can help them pay rent. Some customers say the prompt simply reminds them to be kind, and a number of workers report that their tip income has risen. I do not doubt it. But if a business model relies on customers’ discomfort to pay staff properly, that is a problem for the employer to solve, not for the customer to quietly absorb at every till.",
+      "My solution is simple. Reserve tipping for situations where someone provides personal, extended service, and let businesses build fair wages into their prices, as many already do. Until then, I will keep tipping my server, and I will keep pressing the “no tip” button at the bakery counter, politely and without apology. I hope more customers will do the same, because businesses tend to change their habits only when they notice that their customers have changed theirs."
+    ],
+    "comment": "Reader comment from Priya N.: I worked at a bakery counter for two years while studying, and the tips from the screen made the difference between paying rent and not. Customers who press “no tip” never see that. I accept that employers should pay more, but until they do, a small tip is cheap for the customer and matters a great deal to the worker. Maybe the answer is a lower default, not none at all.",
+    "questions": [
+      {
+        "q": "Why does the writer describe buying a cup of coffee?",
+        "o": [
+          "To complain about the price of coffee",
+          "To criticize the barista’s behaviour",
+          "To show how tipping prompts have spread beyond table service",
+          "To explain how card machines work"
+        ],
+        "a": 2,
+        "cat": "intention",
+        "e": "The example leads straight into the point that tipping screens now appear at bakeries and takeout windows, far from restaurants."
+      },
+      {
+        "q": "In which situation does the writer say he tips willingly?",
+        "o": [
+          "When a server brings food, refills water and checks on him",
+          "When a card machine suggests 25 per cent",
+          "When he picks up a takeout order",
+          "When a business announces that staff are underpaid"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "The second paragraph describes tipping fifteen to twenty per cent without complaint for attentive table service."
+      },
+      {
+        "q": "What does the writer imply when he says he “tapped 18 and felt vaguely annoyed”?",
+        "o": [
+          "He believed the service had been excellent.",
+          "He felt pressured to tip even though little service had been given.",
+          "He wanted to give a larger tip but could not.",
+          "He did not understand how the machine worked."
+        ],
+        "a": 1,
+        "cat": "implied",
+        "e": "He adds that he had only been handed a cup across a counter, so the annoyance comes from feeling pressured."
+      },
+      {
+        "q": "Which word best describes the writer’s tone?",
+        "o": [
+          "Angry and insulting",
+          "Humorous and carefree",
+          "Indifferent and detached",
+          "Frustrated but polite"
+        ],
+        "a": 3,
+        "cat": "tone",
+        "e": "He is annoyed at the practice yet says he acts “politely” and gives fair credit to defenders, so the tone is frustrated but courteous."
+      },
+      {
+        "q": "According to the writer, who should be responsible for paying staff fairly?",
+        "o": [
+          "Customers",
+          "The employer",
+          "The government",
+          "The workers themselves"
+        ],
+        "a": 1,
+        "cat": "detail",
+        "e": "The third paragraph says unfair pay is “a problem for the employer to solve.”"
+      },
+      {
+        "q": "How does the reader’s view relate to the writer’s?",
+        "o": [
+          "She completely agrees that people should stop tipping.",
+          "She believes workers prefer to be paid only by their employer.",
+          "She understands his concern but argues that tipping still helps workers.",
+          "She thinks restaurants should be exempt from tipping."
+        ],
+        "a": 2,
+        "cat": "opinion",
+        "e": "Priya accepts that employers should pay more but says tips matter greatly to workers and suggests a lower default."
+      }
+    ]
+  },
+  {
+    "id": "R4-4",
+    "part": 4,
+    "type": "Reading for Viewpoints",
+    "difficulty": "Advanced",
+    "timeLimit": 720,
+    "title": "Closing the street at the school gate",
+    "passage": [
+      "At 8:40 on a school morning, the street outside my son’s elementary school becomes the most dangerous place in the neighbourhood. Cars double-park, drivers reverse without looking, and children weave between bumpers. Nearly every parent behind a wheel is, individually, careful and caring. Collectively, we create a hazard that none of us would tolerate if someone else were responsible for it. This is why I support a growing idea: closing the street directly outside a school to through traffic for thirty minutes at the start and end of the day.",
+      "Cities that have tried these “school streets” report encouraging early results: fewer near-misses, quieter mornings and more children arriving on foot or by bike. Part of the logic is behavioural. When parents see a street full of walkers instead of idling cars, driving to the gate begins to feel odd rather than normal. Part of it is practical. Parents who still need to drive can park a few blocks away, and a short walk is hardly a hardship for a healthy adult.",
+      "The objections are not trivial, and I would not wave them away. Some children have mobility challenges and cannot walk several blocks; others live too far from school for any alternative. Residents of the closed street may fear being locked out of their own driveways. Parents with shift work or tight schedules may say that a longer walk will make them late. A scheme that ignored these people would be unfair, and it would also fail, because resentment is the quickest way to kill a good policy.",
+      "Yet each concern has a workable answer. Permits can allow residents and accessible vehicles through at walking speed. A drop-off zone at the edge of the closure can serve families with disabilities. A trial lasting one term, with surveys before and after, would let schools learn what works rather than argue in theory. What I do not accept is that the present arrangement is the neutral option. Choosing to leave things as they are is also a choice, and the cost is carried by the smallest people on the street."
+    ],
+    "comment": "Reader comment from Hamid R.: I live on a street beside a school, and I would welcome fewer cars in the morning. My worry is the afternoon. Pick-up is staggered, and my elderly mother, who uses a walker, relies on a taxi that would be stopped at the barrier. The writer says permits could solve this, but permits only work if the people enforcing them are reliable. I would support a trial if it came with a clear way to report problems.",
+    "questions": [
+      {
+        "q": "In the first paragraph, why does the writer say each parent is “careful and caring”?",
+        "o": [
+          "To suggest that most drivers obey the speed limit",
+          "To excuse parents who park illegally",
+          "To praise the school’s traffic rules",
+          "To show that the danger comes from the combined behaviour of many people"
+        ],
+        "a": 3,
+        "cat": "intention",
+        "e": "The next sentence contrasts individual care with the collective hazard, so the point is that the danger is created by everyone together, not by bad individuals."
+      },
+      {
+        "q": "According to the second paragraph, how can parents who must drive still manage under the plan?",
+        "o": [
+          "They can drive through the closure at low speed.",
+          "They can park a few blocks away and walk.",
+          "They can leave their children at home.",
+          "They can ask the school to change its hours."
+        ],
+        "a": 1,
+        "cat": "detail",
+        "e": "The writer says parents who still need to drive can park a few blocks away."
+      },
+      {
+        "q": "What does the writer imply with the phrase “resentment is the quickest way to kill a good policy”?",
+        "o": [
+          "Residents will never accept street closures.",
+          "Policies should be abandoned once someone complains.",
+          "A policy has to address people’s concerns in order to survive.",
+          "Anger is a sign that a policy is working."
+        ],
+        "a": 2,
+        "cat": "implied",
+        "e": "The sentence follows a list of objections and implies that ignoring them would doom the policy, which is why the writer then offers answers."
+      },
+      {
+        "q": "Which statement is presented as the result of other cities’ experience?",
+        "o": [
+          "Some places have recorded fewer near-misses near schools.",
+          "Driving to the gate begins to feel odd rather than normal.",
+          "A short walk is hardly a hardship.",
+          "The present arrangement is not neutral."
+        ],
+        "a": 0,
+        "cat": "evidence",
+        "e": "Only the near-miss claim is attributed to cities that have tried school streets; the other options are the writer’s own reasoning or judgment."
+      },
+      {
+        "q": "Which best describes the writer’s tone toward people who oppose the idea?",
+        "o": [
+          "Dismissive and sarcastic",
+          "Fearful and uncertain",
+          "Casual and uninterested",
+          "Respectful but firm"
+        ],
+        "a": 3,
+        "cat": "tone",
+        "e": "The writer says the objections “are not trivial” and offers solutions, yet insists that the present arrangement is not acceptable."
+      },
+      {
+        "q": "How does the reader’s view relate to the writer’s?",
+        "o": [
+          "He is open to the idea but doubts that the permit system would work reliably.",
+          "He rejects the idea because he prefers heavy traffic.",
+          "He agrees fully and sees no need for a trial.",
+          "He thinks the plan should apply only in the mornings."
+        ],
+        "a": 0,
+        "cat": "opinion",
+        "e": "Hamid welcomes fewer cars and would support a trial, but questions whether permits would be enforced reliably."
+      }
+    ]
+  },
+  {
+    "id": "R4-5",
+    "part": 4,
+    "type": "Reading for Viewpoints",
+    "difficulty": "Advanced",
+    "timeLimit": 720,
+    "title": "The unpaid shift at the self-checkout",
+    "passage": [
+      "Self-checkout was sold to us as a convenience, and for a quick purchase of milk and bread it often is. But somewhere along the way the convenience became an expectation. At my local grocery store, three of the five staffed lanes are now closed even at five o’clock, and a cheerful employee waves customers toward a row of machines. I scan my own groceries, bag them, and then wait for a worker to come and fix a mistake the machine has made. I am doing the job. The store is keeping the savings.",
+      "Retailers argue that customers prefer self-checkout, and surveys do show that many shoppers value speed. But a preference measured while a staffed lane is available tells us little about preference when none is. If the line at the human cashier is made longer by closing lanes, the choice has been tilted. Stores also point to difficulty hiring, and I accept that some are genuinely struggling. Yet that explanation is harder to accept from companies that continue to open new locations.",
+      "There are fair counterarguments. Self-checkout suits shy or rushed customers and people who simply prefer not to chat. Many shoppers say they value the speed. It can also free staff to stock shelves and answer questions. Theft is a related concern: stores say losses rise, which is why attendants hover and receipts are checked, and honest customers sometimes feel treated as suspects. That friction is a cost too, and it rarely appears in the stores’ calculations.",
+      "I am not asking for the machines to disappear. I am asking for three modest things: that stores always keep a few staffed lanes open during peak hours, that customers who scan their own items receive a discount reflecting the work, and that retailers admit plainly that this shift is about reducing payroll. Honesty would not cost them a cent. And it would remind us that behind every checkout is a job that someone once did for a living, and which should not be given away for nothing."
+    ],
+    "comment": "Reader comment from Lena B.: I use self-checkout nearly every time, and I don’t resent it. I am in and out in two minutes, and I have never felt cheated. What does bother me is when the machine freezes and I wait five minutes for help. I think stores should offer both options and let people decide with their feet. If most customers prefer the staffed lane, stores will bring it back without being told.",
+    "questions": [
+      {
+        "q": "Why does the writer describe waiting for a worker to fix the machine’s mistake?",
+        "o": [
+          "To show that customers do the work yet still depend on staff",
+          "To argue that machines never make mistakes",
+          "To criticize the employees’ training",
+          "To explain why self-checkout is faster"
+        ],
+        "a": 0,
+        "cat": "intention",
+        "e": "The next sentence, “I am doing the job,” shows the point: customers take over the labour but still need employees when something goes wrong."
+      },
+      {
+        "q": "What is the writer’s objection to survey results showing that shoppers value speed?",
+        "o": [
+          "The surveys were paid for by customers.",
+          "Shoppers always prefer staffed lanes.",
+          "They measure preference when no real alternative is offered.",
+          "They ignore the cost of the machines."
+        ],
+        "a": 2,
+        "cat": "detail",
+        "e": "The writer says a preference measured while a staffed lane is available tells us little about preference when none is."
+      },
+      {
+        "q": "Which best describes the writer’s attitude toward the stores’ explanation about hiring difficulty?",
+        "o": [
+          "Enthusiastic and fully convinced",
+          "Bored and indifferent",
+          "Angry and accusing",
+          "Partly sympathetic but sceptical"
+        ],
+        "a": 3,
+        "cat": "attitude",
+        "e": "The writer accepts that some stores struggle but finds the explanation hard to accept from companies still opening new locations."
+      },
+      {
+        "q": "Which of the following is an opinion rather than a fact?",
+        "o": [
+          "Three of the five staffed lanes are closed at five o’clock.",
+          "Honesty would not cost the stores a cent.",
+          "Stores say theft losses rise at self-checkouts.",
+          "Many shoppers say they value the speed of self-checkout."
+        ],
+        "a": 1,
+        "cat": "fact-opinion",
+        "e": "The statement about honesty is the writer’s own judgment; the others report an observation, a claim attributed to stores, or what shoppers say."
+      },
+      {
+        "q": "Which of the following does the writer ask for?",
+        "o": [
+          "A complete ban on self-checkout machines",
+          "A law requiring stores to hire more security staff",
+          "A discount for customers who scan their own items",
+          "A public report of each store’s profits"
+        ],
+        "a": 2,
+        "cat": "detail",
+        "e": "The last paragraph lists keeping staffed lanes, a discount for self-scanning customers, and honesty about payroll."
+      },
+      {
+        "q": "How does the reader’s view relate to the writer’s?",
+        "o": [
+          "She agrees that self-checkout is unfair to customers.",
+          "She does not share the complaint but supports offering both options.",
+          "She thinks staffed lanes should be removed.",
+          "She believes stores should increase prices."
+        ],
+        "a": 1,
+        "cat": "opinion",
+        "e": "Lena says she does not resent self-checkout or feel cheated, yet she wants stores to offer both options, which overlaps with the writer’s request for staffed lanes."
+      }
+    ]
+  },
+  {
+    "id": "R4-6",
+    "part": 4,
+    "type": "Reading for Viewpoints",
+    "difficulty": "Advanced",
+    "timeLimit": 720,
+    "title": "A bed for tourists or a home for tenants?",
+    "passage": [
+      "Every few months a new story appears about a neighbour who has had enough: strangers dragging suitcases at midnight, or a downstairs unit that was once a family’s home converted into a tourist rental. Short-term rentals booked through online platforms are neither a villain nor a miracle. They help homeowners earn income and give travellers affordable choices. But in cities where vacancy rates are very low, I believe the balance has tilted too far, and municipalities should limit these rentals to a host’s principal residence.",
+      "The case for restriction rests on a simple observation: a unit can be a home for a tenant or a bed for tourists, but not both. When investors buy several units and offer them by the night, they remove housing from a market that is already tight. Researchers in several cities have linked heavy concentrations of short-term rentals to higher rents in the surrounding neighbourhoods, although the size of the effect varies and is still argued over. Even a modest effect matters when families compete for a handful of available apartments.",
+      "Opponents deserve a hearing. Many hosts are ordinary people renting a spare room or a basement suite to help cover a mortgage, and a blunt ban would punish them for the behaviour of large operators. Tourism businesses, from cafés to tour guides, depend on visitors who prefer an apartment to a hotel. And enforcement is difficult: cities that passed strict rules have sometimes found that unlicensed listings simply reappeared under new names.",
+      "None of this persuades me to do nothing. A principal-residence rule leaves ordinary hosts untouched while discouraging investors, and a mandatory licence number on every listing makes enforcement far easier by allowing platforms to remove illegal ads themselves. Cities could also let hosts rent a secondary suite for a limited number of nights each year. The goal is not to end a useful service but to ensure that it does not come at the expense of people trying to find somewhere to live. Housing, after all, is not just another market. It is the one we cannot do without."
+    ],
+    "comment": "Reader comment from Greg A.: I rent out the basement of my house in Halifax on weekends, because the mortgage is a stretch for me. The writer’s rule would let me continue, and I accept licensing. What worries me is the cost. If the city charges high licence fees, small hosts will quit while large operators absorb the cost easily. A fee that reflects a host’s income would be fairer.",
+    "questions": [
+      {
+        "q": "Why does the writer call short-term rentals “neither a villain nor a miracle”?",
+        "o": [
+          "To argue that they should be banned immediately",
+          "To signal a balanced view before taking a position",
+          "To suggest that they have no effect on housing",
+          "To explain why tourists prefer hotels"
+        ],
+        "a": 1,
+        "cat": "intention",
+        "e": "The phrase acknowledges both benefits and problems before the writer states a position, using “But” to introduce the argument."
+      },
+      {
+        "q": "What do researchers in several cities link to heavy concentrations of short-term rentals?",
+        "o": [
+          "Higher rents in nearby neighbourhoods",
+          "Lower tourism spending",
+          "Fewer licensed hosts",
+          "A rise in vacancy rates"
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "The second paragraph says researchers have linked heavy concentrations of rentals to higher rents in surrounding areas."
+      },
+      {
+        "q": "What does the writer imply by saying unlicensed listings “simply reappeared under new names”?",
+        "o": [
+          "Platforms refuse to remove listings.",
+          "Hosts usually obey the rules once they are explained.",
+          "Strict rules alone cannot be relied on to stop illegal rentals.",
+          "Cities should stop writing rules about rentals."
+        ],
+        "a": 2,
+        "cat": "implied",
+        "e": "The example shows that tough rules did not end illegal listings, which is why the writer later proposes licence numbers to ease enforcement."
+      },
+      {
+        "q": "Which of the following is the writer’s opinion rather than a fact?",
+        "o": [
+          "Some hosts rent basement suites to help with mortgage payments.",
+          "Some cities found that unlicensed listings reappeared.",
+          "Investors buy several units and offer them nightly.",
+          "In cities with low vacancy rates, the balance has tilted too far."
+        ],
+        "a": 3,
+        "cat": "fact-opinion",
+        "e": "The first paragraph introduces this statement with “I believe,” marking it as a judgment; the others describe things that can be checked."
+      },
+      {
+        "q": "According to the writer, how would a mandatory licence number help?",
+        "o": [
+          "Platforms could remove illegal listings themselves.",
+          "Hosts would be allowed to rent more nights each year.",
+          "Tourists would pay lower prices.",
+          "Cities would no longer need inspectors."
+        ],
+        "a": 0,
+        "cat": "detail",
+        "e": "The last paragraph says a licence number makes enforcement easier by allowing platforms to remove illegal ads themselves."
+      },
+      {
+        "q": "How does the reader’s view relate to the writer’s?",
+        "o": [
+          "He opposes any rule limiting short-term rentals.",
+          "He thinks the licence number is unnecessary.",
+          "He accepts the proposal but worries it could be unfair to small hosts.",
+          "He believes hosts should be allowed to own several units."
+        ],
+        "a": 2,
+        "cat": "opinion",
+        "e": "Greg says the rule would let him continue and he accepts licensing, but he fears high fees would drive out small hosts."
+      }
+    ]
+  }
+]

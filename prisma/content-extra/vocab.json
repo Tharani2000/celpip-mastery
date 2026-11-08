@@ -1,0 +1,1728 @@
+[
+  {
+    "w": "correlation",
+    "ipa": "/ˌkɔːrəˈleɪʃən/",
+    "pos": "noun",
+    "cat": "Academic",
+    "lvl": "C2",
+    "m": "A relationship in which two things change together, without necessarily one causing the other.",
+    "ex": "The study found a strong correlation between sleep and test scores.",
+    "syn": [
+      "link",
+      "connection",
+      "association"
+    ],
+    "ant": [
+      "independence"
+    ],
+    "use": "Common in reports and essays about data; do not confuse with causation."
+  },
+  {
+    "w": "hypothesis",
+    "ipa": "/haɪˈpɑːθəsɪs/",
+    "pos": "noun",
+    "cat": "Academic",
+    "lvl": "C2",
+    "m": "A proposed explanation that can be tested by research or evidence.",
+    "ex": "Our hypothesis was that cheaper transit fares would increase ridership.",
+    "syn": [
+      "theory",
+      "proposition",
+      "assumption"
+    ],
+    "ant": [
+      "fact"
+    ],
+    "use": "Academic and scientific register; plural is hypotheses."
+  },
+  {
+    "w": "undermine",
+    "ipa": "/ˌʌndərˈmaɪn/",
+    "pos": "verb",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "To weaken something gradually, such as confidence, authority or an argument.",
+    "ex": "Constant delays can undermine public trust in the transit system.",
+    "syn": [
+      "weaken",
+      "erode",
+      "sabotage"
+    ],
+    "ant": [
+      "strengthen",
+      "support"
+    ],
+    "use": "Neutral to formal; useful for opinion writing."
+  },
+  {
+    "w": "corroborate",
+    "ipa": "/kəˈrɑːbəreɪt/",
+    "pos": "verb",
+    "cat": "Academic",
+    "lvl": "C2",
+    "m": "To confirm a statement or finding by providing supporting evidence.",
+    "ex": "Two independent witnesses corroborated her account of the accident.",
+    "syn": [
+      "confirm",
+      "verify",
+      "back up"
+    ],
+    "ant": [
+      "contradict",
+      "refute"
+    ],
+    "use": "Formal; used with evidence, testimony and findings."
+  },
+  {
+    "w": "ambiguous",
+    "ipa": "/æmˈbɪɡjuəs/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "Open to more than one interpretation; not clear.",
+    "ex": "The wording of the lease was ambiguous, so we asked the landlord to clarify it.",
+    "syn": [
+      "unclear",
+      "vague",
+      "equivocal"
+    ],
+    "ant": [
+      "clear",
+      "explicit"
+    ],
+    "use": "Formal; describes wording, instructions or situations."
+  },
+  {
+    "w": "prevalent",
+    "ipa": "/ˈprɛvələnt/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "Widespread or common in a particular place or at a particular time.",
+    "ex": "Remote work has become prevalent in many Canadian offices.",
+    "syn": [
+      "widespread",
+      "common",
+      "rife"
+    ],
+    "ant": [
+      "rare",
+      "uncommon"
+    ],
+    "use": "Formal; often followed by in or among."
+  },
+  {
+    "w": "consequently",
+    "ipa": "/ˈkɑːnsəkwɛntli/",
+    "pos": "adverb",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "As a result; therefore.",
+    "ex": "The bridge was closed for repairs; consequently, traffic was heavily delayed.",
+    "syn": [
+      "as a result",
+      "therefore",
+      "hence"
+    ],
+    "ant": [],
+    "use": "Formal linking word that begins or joins clauses in writing."
+  },
+  {
+    "w": "underlying",
+    "ipa": "/ˌʌndərˈlaɪɪŋ/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "Forming the basic or hidden cause of something.",
+    "ex": "We need to identify the underlying cause of the staff shortage.",
+    "syn": [
+      "root",
+      "fundamental",
+      "basic"
+    ],
+    "ant": [
+      "superficial"
+    ],
+    "use": "Formal; usually appears before nouns like cause, issue or problem."
+  },
+  {
+    "w": "elaborate on",
+    "ipa": "/ɪˈlæbəreɪt ɑːn/",
+    "pos": "phrasal verb",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "To give more detail or explanation about something.",
+    "ex": "Could you elaborate on your proposal for the new bike lanes?",
+    "syn": [
+      "expand on",
+      "explain further",
+      "develop"
+    ],
+    "ant": [
+      "summarize"
+    ],
+    "use": "Useful in polite requests during discussions and interviews."
+  },
+  {
+    "w": "hinder",
+    "ipa": "/ˈhɪndər/",
+    "pos": "verb",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "To make it harder for something to happen or progress.",
+    "ex": "Heavy snow hindered the crews trying to clear the roads.",
+    "syn": [
+      "hamper",
+      "impede",
+      "obstruct"
+    ],
+    "ant": [
+      "help",
+      "facilitate"
+    ],
+    "use": "Neutral to formal; often used with progress or development."
+  },
+  {
+    "w": "plausible",
+    "ipa": "/ˈplɔːzəbəl/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "Seeming reasonable and likely to be true.",
+    "ex": "Her explanation for the delay sounded plausible to everyone.",
+    "syn": [
+      "believable",
+      "credible",
+      "reasonable"
+    ],
+    "ant": [
+      "implausible",
+      "far-fetched"
+    ],
+    "use": "Used when judging explanations, arguments and excuses."
+  },
+  {
+    "w": "paradigm",
+    "ipa": "/ˈpɛrədaɪm/",
+    "pos": "noun",
+    "cat": "Academic",
+    "lvl": "C2",
+    "m": "A typical model or pattern of how something is done or understood.",
+    "ex": "Online learning has changed the paradigm of higher education.",
+    "syn": [
+      "model",
+      "framework",
+      "pattern"
+    ],
+    "ant": [],
+    "use": "Academic; often appears in the phrase paradigm shift."
+  },
+  {
+    "w": "advocate",
+    "ipa": "/ˈædvəkeɪt/",
+    "pos": "verb",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "To publicly support or recommend a particular idea or policy.",
+    "ex": "Many residents advocate for more affordable housing downtown.",
+    "syn": [
+      "champion",
+      "promote",
+      "support"
+    ],
+    "ant": [
+      "oppose",
+      "condemn"
+    ],
+    "use": "Formal; often followed by for or by a gerund; the noun is pronounced /ˈædvəkɪt/."
+  },
+  {
+    "w": "trend",
+    "ipa": "/trɛnd/",
+    "pos": "noun",
+    "cat": "Academic",
+    "lvl": "B1",
+    "m": "A general direction in which something is changing or developing.",
+    "ex": "There is a growing trend toward working from home.",
+    "syn": [
+      "tendency",
+      "pattern",
+      "movement"
+    ],
+    "ant": [],
+    "use": "Everyday and formal; ideal for describing change in writing tasks."
+  },
+  {
+    "w": "significant",
+    "ipa": "/sɪɡˈnɪfɪkənt/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "Large or important enough to be noticed or to have an effect.",
+    "ex": "The new bus route led to a significant drop in commute times.",
+    "syn": [
+      "considerable",
+      "substantial",
+      "notable"
+    ],
+    "ant": [
+      "minor",
+      "trivial"
+    ],
+    "use": "Neutral; very common in describing data and change."
+  },
+  {
+    "w": "attribute to",
+    "ipa": "/əˈtrɪbjuːt tuː/",
+    "pos": "phrasal verb",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "To say that something is caused by or belongs to a particular person or thing.",
+    "ex": "The manager attributed the sales increase to the new advertising campaign.",
+    "syn": [
+      "credit to",
+      "ascribe to",
+      "put down to"
+    ],
+    "ant": [],
+    "use": "Formal; the noun attribute is stressed on the first syllable."
+  },
+  {
+    "w": "negligible",
+    "ipa": "/ˈnɛɡlɪdʒəbəl/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C2",
+    "m": "So small or unimportant that it is not worth considering.",
+    "ex": "The cost of switching providers was negligible compared with the savings.",
+    "syn": [
+      "insignificant",
+      "minimal",
+      "trivial"
+    ],
+    "ant": [
+      "significant",
+      "considerable"
+    ],
+    "use": "Formal; used with effects, costs and differences."
+  },
+  {
+    "w": "sustainable",
+    "ipa": "/səˈsteɪnəbəl/",
+    "pos": "adjective",
+    "cat": "Academic",
+    "lvl": "C1",
+    "m": "Able to continue over time without harming the environment or running out of resources.",
+    "ex": "The city is investing in sustainable public transportation.",
+    "syn": [
+      "eco-friendly",
+      "renewable",
+      "maintainable"
+    ],
+    "ant": [
+      "unsustainable",
+      "wasteful"
+    ],
+    "use": "Common in discussions of environment, business and policy."
+  },
+  {
+    "w": "meticulous",
+    "ipa": "/məˈtɪkjələs/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "Showing great care and attention to detail.",
+    "ex": "She kept meticulous records of every expense.",
+    "syn": [
+      "thorough",
+      "painstaking",
+      "careful"
+    ],
+    "ant": [
+      "careless",
+      "sloppy"
+    ],
+    "use": "Positive; describes people, work and planning."
+  },
+  {
+    "w": "ubiquitous",
+    "ipa": "/juːˈbɪkwɪtəs/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C2",
+    "m": "Seeming to be present everywhere at the same time.",
+    "ex": "Smartphones are now ubiquitous in classrooms and workplaces.",
+    "syn": [
+      "omnipresent",
+      "widespread",
+      "pervasive"
+    ],
+    "ant": [
+      "rare",
+      "scarce"
+    ],
+    "use": "Formal; common in essays about technology and society."
+  },
+  {
+    "w": "pivotal",
+    "ipa": "/ˈpɪvətəl/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "Of central importance because other things depend on it.",
+    "ex": "The mayor played a pivotal role in approving the new library.",
+    "syn": [
+      "crucial",
+      "key",
+      "critical"
+    ],
+    "ant": [
+      "minor",
+      "peripheral"
+    ],
+    "use": "Formal; usually before nouns such as role, moment or decision."
+  },
+  {
+    "w": "tenacious",
+    "ipa": "/təˈneɪʃəs/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C2",
+    "m": "Holding firmly to a goal and refusing to give up.",
+    "ex": "A tenacious tenant, he kept pressing the landlord until the heating was fixed.",
+    "syn": [
+      "determined",
+      "persistent",
+      "dogged"
+    ],
+    "ant": [
+      "half-hearted",
+      "indecisive"
+    ],
+    "use": "Positive, formal; describes people or efforts."
+  },
+  {
+    "w": "candid",
+    "ipa": "/ˈkændɪd/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "Honest and direct, especially about something difficult.",
+    "ex": "I appreciated her candid feedback on my presentation.",
+    "syn": [
+      "frank",
+      "forthright",
+      "honest"
+    ],
+    "ant": [
+      "evasive",
+      "guarded"
+    ],
+    "use": "Neutral to formal; often used about feedback and conversations."
+  },
+  {
+    "w": "imperative",
+    "ipa": "/ɪmˈpɛrətɪv/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "Absolutely necessary and urgent.",
+    "ex": "It is imperative that we submit the form before Friday.",
+    "syn": [
+      "essential",
+      "vital",
+      "crucial"
+    ],
+    "ant": [
+      "optional",
+      "unnecessary"
+    ],
+    "use": "Formal; often used in the pattern it is imperative that."
+  },
+  {
+    "w": "fluctuate",
+    "ipa": "/ˈflʌktʃueɪt/",
+    "pos": "verb",
+    "cat": "Advanced",
+    "lvl": "B2",
+    "m": "To rise and fall irregularly, especially in amount or level.",
+    "ex": "Rental prices fluctuate throughout the year in student areas.",
+    "syn": [
+      "vary",
+      "shift",
+      "swing"
+    ],
+    "ant": [
+      "stay constant",
+      "stabilize"
+    ],
+    "use": "Useful for describing changing numbers in writing and speaking."
+  },
+  {
+    "w": "culminate in",
+    "ipa": "/ˈkʌlmɪneɪt ɪn/",
+    "pos": "phrasal verb",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "To reach a final, highest or most important point.",
+    "ex": "Months of planning culminated in a successful neighbourhood festival.",
+    "syn": [
+      "end in",
+      "result in",
+      "peak in"
+    ],
+    "ant": [
+      "begin with"
+    ],
+    "use": "Formal; describes a series of events leading to a result."
+  },
+  {
+    "w": "inevitable",
+    "ipa": "/ɪnˈɛvɪtəbəl/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "B2",
+    "m": "Certain to happen and impossible to avoid.",
+    "ex": "With so many new residents, higher traffic was inevitable.",
+    "syn": [
+      "unavoidable",
+      "certain",
+      "inescapable"
+    ],
+    "ant": [
+      "avoidable",
+      "preventable"
+    ],
+    "use": "Neutral to formal; common in opinions about change."
+  },
+  {
+    "w": "perceptive",
+    "ipa": "/pərˈsɛptɪv/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "Quick to notice and understand things that are not obvious.",
+    "ex": "The teacher made a perceptive comment about my essay.",
+    "syn": [
+      "insightful",
+      "observant",
+      "astute"
+    ],
+    "ant": [
+      "oblivious",
+      "unobservant"
+    ],
+    "use": "Positive; describes people and remarks."
+  },
+  {
+    "w": "formidable",
+    "ipa": "/ˈfɔːrmɪdəbəl/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C1",
+    "m": "Causing respect or fear because of being strong, large or difficult.",
+    "ex": "Learning a new language at forty is a formidable challenge.",
+    "syn": [
+      "daunting",
+      "impressive",
+      "challenging"
+    ],
+    "ant": [
+      "easy",
+      "weak"
+    ],
+    "use": "Formal; usually describes challenges, opponents or skills."
+  },
+  {
+    "w": "serendipity",
+    "ipa": "/ˌsɛrənˈdɪpɪti/",
+    "pos": "noun",
+    "cat": "Advanced",
+    "lvl": "C2",
+    "m": "The happy chance of finding something good without looking for it.",
+    "ex": "It was pure serendipity that we met our new neighbour at the library.",
+    "syn": [
+      "good fortune",
+      "happy accident",
+      "luck"
+    ],
+    "ant": [
+      "misfortune"
+    ],
+    "use": "Somewhat literary; used in storytelling and reflection."
+  },
+  {
+    "w": "scrupulous",
+    "ipa": "/ˈskruːpjələs/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C2",
+    "m": "Extremely careful, honest and fair, with strong attention to what is right.",
+    "ex": "The accountant was scrupulous about following every tax regulation.",
+    "syn": [
+      "conscientious",
+      "principled",
+      "meticulous"
+    ],
+    "ant": [
+      "careless",
+      "unscrupulous"
+    ],
+    "use": "Formal; describes honesty and attention to detail."
+  },
+  {
+    "w": "ephemeral",
+    "ipa": "/ɪˈfɛmərəl/",
+    "pos": "adjective",
+    "cat": "Advanced",
+    "lvl": "C2",
+    "m": "Lasting for only a very short time.",
+    "ex": "The fame of an internet trend is often ephemeral.",
+    "syn": [
+      "fleeting",
+      "short-lived",
+      "transient"
+    ],
+    "ant": [
+      "lasting",
+      "permanent"
+    ],
+    "use": "Formal or literary; describes trends, beauty and moments."
+  },
+  {
+    "w": "deadline",
+    "ipa": "/ˈdɛdlaɪn/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B1",
+    "m": "The time or date by which something must be finished.",
+    "ex": "We have a deadline of Friday at noon to submit the report.",
+    "syn": [
+      "due date",
+      "cut-off",
+      "time limit"
+    ],
+    "ant": [],
+    "use": "Everyday workplace and school word; often used with meet or miss."
+  },
+  {
+    "w": "colleague",
+    "ipa": "/ˈkɑːliːɡ/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B1",
+    "m": "A person you work with.",
+    "ex": "My colleague covered my shift when I had a dentist appointment.",
+    "syn": [
+      "coworker",
+      "workmate",
+      "associate"
+    ],
+    "ant": [],
+    "use": "Neutral and slightly formal; coworker is more casual in Canada."
+  },
+  {
+    "w": "agenda",
+    "ipa": "/əˈdʒɛndə/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B1",
+    "m": "A list of the items to be discussed at a meeting.",
+    "ex": "Please add the budget update to the agenda for Monday.",
+    "syn": [
+      "schedule",
+      "programme",
+      "timetable"
+    ],
+    "ant": [],
+    "use": "Standard workplace word for meetings."
+  },
+  {
+    "w": "supervisor",
+    "ipa": "/ˈsuːpərvaɪzər/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "A person who directs and oversees the work of others.",
+    "ex": "I asked my supervisor for permission to leave an hour early.",
+    "syn": [
+      "manager",
+      "overseer",
+      "team lead"
+    ],
+    "ant": [
+      "subordinate"
+    ],
+    "use": "Neutral; common in workplace conversations and complaints."
+  },
+  {
+    "w": "overtime",
+    "ipa": "/ˈoʊvərtaɪm/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "Time worked beyond normal hours, often paid at a higher rate.",
+    "ex": "Staff were offered overtime during the busy holiday season.",
+    "syn": [
+      "extra hours",
+      "additional time"
+    ],
+    "ant": [],
+    "use": "Neutral; also used as an adverb, as in working overtime."
+  },
+  {
+    "w": "onboarding",
+    "ipa": "/ˈɑːnbɔːrdɪŋ/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "The process of helping a new employee learn the job and join the team.",
+    "ex": "The onboarding takes two weeks and includes safety training.",
+    "syn": [
+      "induction",
+      "orientation",
+      "training"
+    ],
+    "ant": [],
+    "use": "Common in modern workplaces and job postings."
+  },
+  {
+    "w": "workload",
+    "ipa": "/ˈwɜːrkloʊd/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "The amount of work a person is expected to do.",
+    "ex": "My workload has doubled since two colleagues left.",
+    "syn": [
+      "work",
+      "assignments",
+      "responsibilities"
+    ],
+    "ant": [],
+    "use": "Used in complaints, requests and performance discussions."
+  },
+  {
+    "w": "delegate",
+    "ipa": "/ˈdɛlɪɡeɪt/",
+    "pos": "verb",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "To give part of your work or authority to someone else.",
+    "ex": "A good manager knows when to delegate tasks to the team.",
+    "syn": [
+      "assign",
+      "entrust",
+      "hand over"
+    ],
+    "ant": [
+      "do yourself"
+    ],
+    "use": "Neutral; the noun is pronounced /ˈdɛlɪɡɪt/."
+  },
+  {
+    "w": "prioritize",
+    "ipa": "/praɪˈɔːrɪtaɪz/",
+    "pos": "verb",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "To decide which things are most important and deal with them first.",
+    "ex": "We need to prioritize the urgent customer requests.",
+    "syn": [
+      "rank",
+      "put first",
+      "triage"
+    ],
+    "ant": [
+      "neglect"
+    ],
+    "use": "Neutral; very common in workplace speaking tasks."
+  },
+  {
+    "w": "bandwidth",
+    "ipa": "/ˈbændwɪdθ/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "C1",
+    "m": "The time and energy a person has available to take on more work.",
+    "ex": "I do not have the bandwidth to take on another project this month.",
+    "syn": [
+      "capacity",
+      "availability",
+      "time"
+    ],
+    "ant": [],
+    "use": "Informal to neutral workplace use; politely declines extra work."
+  },
+  {
+    "w": "streamline",
+    "ipa": "/ˈstriːmlaɪn/",
+    "pos": "verb",
+    "cat": "Workplace",
+    "lvl": "C1",
+    "m": "To make a process simpler and more efficient.",
+    "ex": "The clinic streamlined its booking process to reduce wait times.",
+    "syn": [
+      "simplify",
+      "optimize",
+      "rationalize"
+    ],
+    "ant": [
+      "complicate"
+    ],
+    "use": "Business register; used with process, system and procedure."
+  },
+  {
+    "w": "accountability",
+    "ipa": "/əˌkaʊntəˈbɪləti/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "C1",
+    "m": "The responsibility to explain and take ownership of your actions and decisions.",
+    "ex": "Clear roles create accountability within the team.",
+    "syn": [
+      "responsibility",
+      "answerability",
+      "liability"
+    ],
+    "ant": [
+      "irresponsibility"
+    ],
+    "use": "Formal workplace and civic word."
+  },
+  {
+    "w": "probation period",
+    "ipa": "/proʊˈbeɪʃən ˈpɪriəd/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "C1",
+    "m": "An initial period of employment during which a worker is assessed before becoming permanent.",
+    "ex": "She passed her three-month probation period and was offered a permanent contract.",
+    "syn": [
+      "trial period",
+      "initial period"
+    ],
+    "ant": [],
+    "use": "Used in job offers and employment contracts."
+  },
+  {
+    "w": "performance review",
+    "ipa": "/pərˈfɔːrməns rɪˈvjuː/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "B2",
+    "m": "A formal meeting in which a manager evaluates an employee’s work.",
+    "ex": "My performance review is scheduled for next Tuesday.",
+    "syn": [
+      "evaluation",
+      "appraisal",
+      "assessment"
+    ],
+    "ant": [],
+    "use": "Common in HR and workplace speaking tasks."
+  },
+  {
+    "w": "turnaround time",
+    "ipa": "/ˈtɜːrnəraʊnd taɪm/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "C1",
+    "m": "The time it takes to complete a task or service from start to finish.",
+    "ex": "The print shop promises a 24-hour turnaround time.",
+    "syn": [
+      "processing time",
+      "completion time"
+    ],
+    "ant": [],
+    "use": "Used in customer service and business emails."
+  },
+  {
+    "w": "due diligence",
+    "ipa": "/duː ˈdɪlɪdʒəns/",
+    "pos": "noun",
+    "cat": "Workplace",
+    "lvl": "C2",
+    "m": "Careful research and checking carried out before making a decision or agreement.",
+    "ex": "The landlord did his due diligence before renting out the basement.",
+    "syn": [
+      "thorough checking",
+      "careful investigation"
+    ],
+    "ant": [
+      "negligence"
+    ],
+    "use": "Formal business and legal register."
+  },
+  {
+    "w": "on the same page",
+    "ipa": "/ɑːn ðə seɪm peɪdʒ/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "Sharing the same understanding or opinion about something.",
+    "ex": "Before we start, let us make sure everyone is on the same page.",
+    "syn": [
+      "in agreement",
+      "aligned",
+      "of one mind"
+    ],
+    "ant": [
+      "at odds"
+    ],
+    "use": "Informal to neutral; common in meetings and teamwork."
+  },
+  {
+    "w": "hit the ground running",
+    "ipa": "/hɪt ðə ɡraʊnd ˈrʌnɪŋ/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "C1",
+    "m": "To start a new activity quickly and with energy and success.",
+    "ex": "The new coordinator hit the ground running and organized three events in her first month.",
+    "syn": [
+      "get off to a flying start",
+      "start strong"
+    ],
+    "ant": [
+      "start slowly"
+    ],
+    "use": "Informal; common in job interviews and workplace talk."
+  },
+  {
+    "w": "get the ball rolling",
+    "ipa": "/ɡɛt ðə bɔːl ˈroʊlɪŋ/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "To start a process or activity so that others can join in.",
+    "ex": "Let us get the ball rolling with a quick round of introductions.",
+    "syn": [
+      "kick things off",
+      "begin",
+      "start"
+    ],
+    "ant": [
+      "wrap up"
+    ],
+    "use": "Informal; typically used at the start of a meeting or project."
+  },
+  {
+    "w": "back to square one",
+    "ipa": "/bæk tuː skwɛr wʌn/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "Back at the very beginning after a failed attempt.",
+    "ex": "When the funding fell through, we were back to square one.",
+    "syn": [
+      "start over",
+      "back to the drawing board"
+    ],
+    "ant": [
+      "make progress"
+    ],
+    "use": "Informal; describes setbacks."
+  },
+  {
+    "w": "a piece of cake",
+    "ipa": "/ə piːs əv keɪk/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B1",
+    "m": "Something that is very easy to do.",
+    "ex": "The driving test was a piece of cake after all that practice.",
+    "syn": [
+      "a breeze",
+      "easy",
+      "child’s play"
+    ],
+    "ant": [
+      "a nightmare"
+    ],
+    "use": "Informal; positive description of an easy task."
+  },
+  {
+    "w": "under the weather",
+    "ipa": "/ˈʌndər ðə ˈwɛðər/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B1",
+    "m": "Feeling slightly ill.",
+    "ex": "I am feeling a bit under the weather, so I will work from home today.",
+    "syn": [
+      "unwell",
+      "off colour",
+      "sick"
+    ],
+    "ant": [
+      "in good health"
+    ],
+    "use": "Informal and polite way to explain minor illness."
+  },
+  {
+    "w": "call it a day",
+    "ipa": "/kɔːl ɪt ə deɪ/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "To stop working for the day or to stop an activity.",
+    "ex": "We have done enough for now, so let us call it a day.",
+    "syn": [
+      "wrap up",
+      "stop",
+      "finish up"
+    ],
+    "ant": [
+      "carry on"
+    ],
+    "use": "Informal; used at work or when ending an activity."
+  },
+  {
+    "w": "go the extra mile",
+    "ipa": "/ɡoʊ ði ˈɛkstrə maɪl/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "To make more effort than is expected.",
+    "ex": "Nurses are willing to go the extra mile to make the patients comfortable.",
+    "syn": [
+      "make an extra effort",
+      "do more than required"
+    ],
+    "ant": [
+      "do the bare minimum"
+    ],
+    "use": "Positive; used in praise, reviews and reference letters."
+  },
+  {
+    "w": "break the ice",
+    "ipa": "/breɪk ði aɪs/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "To say or do something that makes people feel more relaxed when they first meet.",
+    "ex": "He told a joke to break the ice at the start of the workshop.",
+    "syn": [
+      "warm things up",
+      "get people talking"
+    ],
+    "ant": [],
+    "use": "Informal; used for social situations and meetings."
+  },
+  {
+    "w": "the last straw",
+    "ipa": "/ðə læst strɔː/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "C1",
+    "m": "The final problem that makes a situation impossible to accept.",
+    "ex": "When the bus was late for the third time, it was the last straw, and I filed a complaint.",
+    "syn": [
+      "the final blow",
+      "the breaking point"
+    ],
+    "ant": [],
+    "use": "Informal; useful in complaint narratives."
+  },
+  {
+    "w": "once in a blue moon",
+    "ipa": "/wʌns ɪn ə bluː muːn/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "Very rarely.",
+    "ex": "We only eat out once in a blue moon because of the cost.",
+    "syn": [
+      "rarely",
+      "hardly ever",
+      "seldom"
+    ],
+    "ant": [
+      "all the time",
+      "frequently"
+    ],
+    "use": "Informal; describes rare frequency."
+  },
+  {
+    "w": "cost an arm and a leg",
+    "ipa": "/kɔːst ən ɑːrm ənd ə lɛɡ/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "B2",
+    "m": "To be very expensive.",
+    "ex": "Renting a downtown apartment costs an arm and a leg these days.",
+    "syn": [
+      "be very expensive",
+      "cost a fortune"
+    ],
+    "ant": [
+      "be dirt cheap"
+    ],
+    "use": "Informal; useful when discussing prices and housing."
+  },
+  {
+    "w": "burn the midnight oil",
+    "ipa": "/bɜːrn ðə ˈmɪdnaɪt ɔɪl/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "C1",
+    "m": "To work or study late into the night.",
+    "ex": "She burned the midnight oil to finish her thesis.",
+    "syn": [
+      "work late",
+      "pull an all-nighter"
+    ],
+    "ant": [
+      "turn in early"
+    ],
+    "use": "Informal; slightly old-fashioned but widely understood."
+  },
+  {
+    "w": "the writing on the wall",
+    "ipa": "/ðə ˈraɪtɪŋ ɑːn ðə wɔːl/",
+    "pos": "idiom",
+    "cat": "Idioms",
+    "lvl": "C2",
+    "m": "A clear sign that something unpleasant will happen soon.",
+    "ex": "When sales kept falling, the staff could see the writing on the wall for the shop.",
+    "syn": [
+      "a clear warning",
+      "an ominous sign"
+    ],
+    "ant": [],
+    "use": "Neutral to formal; usually about unwelcome outcomes."
+  },
+  {
+    "w": "sort out",
+    "ipa": "/sɔːrt aʊt/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B1",
+    "m": "To solve a problem or arrange something properly.",
+    "ex": "I called the bank to sort out the mistake on my statement.",
+    "syn": [
+      "resolve",
+      "fix",
+      "settle"
+    ],
+    "ant": [
+      "create a problem"
+    ],
+    "use": "Everyday; polite and flexible in speaking."
+  },
+  {
+    "w": "carry out",
+    "ipa": "/ˈkæri aʊt/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To do or complete a task, plan or study.",
+    "ex": "Inspectors will carry out a safety check on Monday.",
+    "syn": [
+      "perform",
+      "conduct",
+      "execute"
+    ],
+    "ant": [
+      "abandon"
+    ],
+    "use": "Neutral to formal; common in reports."
+  },
+  {
+    "w": "look into",
+    "ipa": "/lʊk ˈɪntuː/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To investigate or examine something.",
+    "ex": "The landlord promised to look into the noise complaints.",
+    "syn": [
+      "investigate",
+      "examine",
+      "explore"
+    ],
+    "ant": [
+      "ignore"
+    ],
+    "use": "Neutral; polite response to complaints."
+  },
+  {
+    "w": "set up",
+    "ipa": "/sɛt ʌp/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To arrange, create or establish something.",
+    "ex": "We set up a meeting with the program director for Thursday.",
+    "syn": [
+      "establish",
+      "arrange",
+      "organize"
+    ],
+    "ant": [
+      "dismantle"
+    ],
+    "use": "Very common in workplace and technology contexts."
+  },
+  {
+    "w": "put off",
+    "ipa": "/pʊt ɔːf/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B1",
+    "m": "To delay something until a later time.",
+    "ex": "I keep putting off my dentist appointment.",
+    "syn": [
+      "postpone",
+      "delay",
+      "defer"
+    ],
+    "ant": [
+      "do right away"
+    ],
+    "use": "Everyday; casual to neutral."
+  },
+  {
+    "w": "turn down",
+    "ipa": "/tɜːrn daʊn/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To refuse an offer or request, or to lower the volume or heat.",
+    "ex": "She turned down the job because the commute was too long.",
+    "syn": [
+      "decline",
+      "reject",
+      "refuse"
+    ],
+    "ant": [
+      "accept"
+    ],
+    "use": "Neutral; polite refusals in writing and speaking."
+  },
+  {
+    "w": "figure out",
+    "ipa": "/ˈfɪɡjər aʊt/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B1",
+    "m": "To understand or find the answer to something after thinking.",
+    "ex": "It took me a while to figure out the new ticket machine.",
+    "syn": [
+      "work out",
+      "solve",
+      "understand"
+    ],
+    "ant": [
+      "be baffled"
+    ],
+    "use": "Informal to neutral; very common in conversation."
+  },
+  {
+    "w": "bring up",
+    "ipa": "/brɪŋ ʌp/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To mention a topic or raise a subject for discussion.",
+    "ex": "I will bring up the parking issue at the next residents’ meeting.",
+    "syn": [
+      "mention",
+      "raise",
+      "broach"
+    ],
+    "ant": [
+      "avoid"
+    ],
+    "use": "Neutral; also means to raise a child."
+  },
+  {
+    "w": "take over",
+    "ipa": "/teɪk ˈoʊvər/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To assume control or responsibility from someone else.",
+    "ex": "Maria will take over the project when Daniel goes on leave.",
+    "syn": [
+      "assume control",
+      "take charge"
+    ],
+    "ant": [
+      "hand over"
+    ],
+    "use": "Neutral; workplace handover situations."
+  },
+  {
+    "w": "come up with",
+    "ipa": "/kʌm ʌp wɪð/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To think of or produce an idea or solution.",
+    "ex": "Our team will come up with a plan to reduce waiting times.",
+    "syn": [
+      "devise",
+      "think of",
+      "propose"
+    ],
+    "ant": [],
+    "use": "Neutral; common in brainstorming and opinion tasks."
+  },
+  {
+    "w": "narrow down",
+    "ipa": "/ˈnæroʊ daʊn/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "C1",
+    "m": "To reduce the number of possibilities or choices.",
+    "ex": "We narrowed down the list to three apartments.",
+    "syn": [
+      "shortlist",
+      "reduce",
+      "limit"
+    ],
+    "ant": [
+      "broaden"
+    ],
+    "use": "Neutral; useful when describing decisions."
+  },
+  {
+    "w": "call off",
+    "ipa": "/kɔːl ɔːf/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B2",
+    "m": "To cancel something that was planned.",
+    "ex": "The outdoor concert was called off because of the thunderstorm.",
+    "syn": [
+      "cancel",
+      "abandon",
+      "scrap"
+    ],
+    "ant": [
+      "go ahead with"
+    ],
+    "use": "Neutral; announcements and event updates."
+  },
+  {
+    "w": "step down",
+    "ipa": "/stɛp daʊn/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "C1",
+    "m": "To leave an important position or job.",
+    "ex": "The chair of the board will step down at the end of the year.",
+    "syn": [
+      "resign",
+      "withdraw",
+      "quit"
+    ],
+    "ant": [
+      "take office"
+    ],
+    "use": "Formal to neutral; used in news and workplace contexts."
+  },
+  {
+    "w": "run out of",
+    "ipa": "/rʌn aʊt əv/",
+    "pos": "phrasal verb",
+    "cat": "Phrasal verbs",
+    "lvl": "B1",
+    "m": "To use up all of something so that none is left.",
+    "ex": "We might run out of paper before the meeting.",
+    "syn": [
+      "use up",
+      "exhaust",
+      "deplete"
+    ],
+    "ant": [
+      "stock up on"
+    ],
+    "use": "Everyday; common in problems and complaints."
+  },
+  {
+    "w": "conduct a survey",
+    "ipa": "/kənˈdʌkt ə ˈsɜːrveɪ/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "To carry out a set of questions to gather opinions or information.",
+    "ex": "The council conducted a survey to learn how residents use the park.",
+    "syn": [
+      "carry out a poll",
+      "run a questionnaire"
+    ],
+    "ant": [],
+    "use": "Neutral to formal; common in reports and school tasks."
+  },
+  {
+    "w": "meet the requirements",
+    "ipa": "/miːt ðə rɪˈkwaɪərmənts/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "To have or do everything that is officially needed.",
+    "ex": "Applicants must meet the requirements listed on the website.",
+    "syn": [
+      "satisfy the conditions",
+      "qualify"
+    ],
+    "ant": [
+      "fall short of"
+    ],
+    "use": "Formal; used with jobs, programs and applications."
+  },
+  {
+    "w": "reach a consensus",
+    "ipa": "/riːtʃ ə kənˈsɛnsəs/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "C1",
+    "m": "To arrive at an agreement that everyone in a group accepts.",
+    "ex": "After a long debate, the committee reached a consensus on the budget.",
+    "syn": [
+      "agree",
+      "come to an agreement"
+    ],
+    "ant": [
+      "disagree"
+    ],
+    "use": "Formal; used in meetings and discussions."
+  },
+  {
+    "w": "draw a conclusion",
+    "ipa": "/drɔː ə kənˈkluːʒən/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "To form an opinion or judgment based on the evidence.",
+    "ex": "It is hard to draw a conclusion from such a small sample.",
+    "syn": [
+      "deduce",
+      "infer",
+      "decide"
+    ],
+    "ant": [],
+    "use": "Formal; common in essays and analysis."
+  },
+  {
+    "w": "raise awareness",
+    "ipa": "/reɪz əˈwɛrnəs/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "To help more people notice and understand an issue.",
+    "ex": "The campaign aims to raise awareness about recycling.",
+    "syn": [
+      "publicize",
+      "inform the public",
+      "draw attention"
+    ],
+    "ant": [
+      "ignore"
+    ],
+    "use": "Common in community and environment topics."
+  },
+  {
+    "w": "strike a balance",
+    "ipa": "/straɪk ə ˈbæləns/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "C1",
+    "m": "To find a fair middle point between two competing things.",
+    "ex": "It is difficult to strike a balance between work and family time.",
+    "syn": [
+      "find a compromise",
+      "balance"
+    ],
+    "ant": [
+      "go to extremes"
+    ],
+    "use": "Neutral to formal; useful in opinion writing."
+  },
+  {
+    "w": "file a complaint",
+    "ipa": "/faɪl ə kəmˈpleɪnt/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "To make a formal statement that you are unhappy about something.",
+    "ex": "I filed a complaint with the airline about my lost luggage.",
+    "syn": [
+      "lodge a complaint",
+      "make a complaint"
+    ],
+    "ant": [
+      "compliment"
+    ],
+    "use": "Formal; used for service problems and official procedures."
+  },
+  {
+    "w": "shed light on",
+    "ipa": "/ʃɛd laɪt ɑːn/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "C1",
+    "m": "To make something clearer or easier to understand.",
+    "ex": "The report sheds light on why housing costs are rising.",
+    "syn": [
+      "clarify",
+      "explain",
+      "illuminate"
+    ],
+    "ant": [
+      "obscure"
+    ],
+    "use": "Formal; common in writing about research and news."
+  },
+  {
+    "w": "take responsibility for",
+    "ipa": "/teɪk rɪˌspɑːnsəˈbɪləti fɔːr/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "To accept that you are the one who must deal with or answer for something.",
+    "ex": "Every manager should take responsibility for scheduling errors.",
+    "syn": [
+      "be accountable for",
+      "own",
+      "answer for"
+    ],
+    "ant": [
+      "blame others"
+    ],
+    "use": "Neutral to formal; used in apologies and complaints."
+  },
+  {
+    "w": "come to terms with",
+    "ipa": "/kʌm tuː tɜːrmz wɪð/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "C1",
+    "m": "To gradually accept a difficult situation.",
+    "ex": "It took him a while to come to terms with moving to a new country.",
+    "syn": [
+      "accept",
+      "reconcile oneself to"
+    ],
+    "ant": [
+      "deny"
+    ],
+    "use": "Neutral; emotional or reflective topics."
+  },
+  {
+    "w": "a growing concern",
+    "ipa": "/ə ˈɡroʊɪŋ kənˈsɜːrn/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "A worry that is becoming more serious or more widely shared.",
+    "ex": "Rising rents are a growing concern for young renters.",
+    "syn": [
+      "increasing worry",
+      "mounting anxiety"
+    ],
+    "ant": [],
+    "use": "Common in opinion and news writing."
+  },
+  {
+    "w": "in the long run",
+    "ipa": "/ɪn ðə lɔːŋ rʌn/",
+    "pos": "collocation",
+    "cat": "Collocations",
+    "lvl": "B2",
+    "m": "Over a long period of time; eventually.",
+    "ex": "Buying a transit pass saves money in the long run.",
+    "syn": [
+      "eventually",
+      "over time",
+      "ultimately"
+    ],
+    "ant": [
+      "in the short term"
+    ],
+    "use": "Neutral; used when weighing costs and benefits."
+  },
+  {
+    "w": "loonie",
+    "ipa": "/ˈluːni/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B1",
+    "m": "The Canadian one-dollar coin, named after the loon on one side.",
+    "ex": "I only had a loonie, so I could not buy a coffee.",
+    "syn": [
+      "one-dollar coin",
+      "dollar coin"
+    ],
+    "ant": [],
+    "use": "Informal; widely used across Canada."
+  },
+  {
+    "w": "washroom",
+    "ipa": "/ˈwɑːʃruːm/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B1",
+    "m": "A public or private room with a toilet; the usual Canadian polite word.",
+    "ex": "Excuse me, where is the washroom?",
+    "syn": [
+      "restroom",
+      "bathroom",
+      "lavatory"
+    ],
+    "ant": [],
+    "use": "Standard polite Canadian word; restroom is more American."
+  },
+  {
+    "w": "eh",
+    "ipa": "/eɪ/",
+    "pos": "interjection",
+    "cat": "Canadian English",
+    "lvl": "B2",
+    "m": "A word added to the end of a sentence to check agreement or invite a response.",
+    "ex": "It is a beautiful day, eh?",
+    "syn": [
+      "right",
+      "don’t you think",
+      "isn’t it"
+    ],
+    "ant": [],
+    "use": "Informal, friendly; typical in casual Canadian speech but not formal writing."
+  },
+  {
+    "w": "poutine",
+    "ipa": "/puːˈtiːn/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B2",
+    "m": "A Canadian dish of fries topped with cheese curds and gravy, originating in Quebec.",
+    "ex": "We shared a plate of poutine after the hockey game.",
+    "syn": [
+      "fries with gravy and curds"
+    ],
+    "ant": [],
+    "use": "Informal; a well-known food in Canadian culture."
+  },
+  {
+    "w": "chesterfield",
+    "ipa": "/ˈtʃɛstərfiːld/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "C1",
+    "m": "An older Canadian word for a sofa or couch.",
+    "ex": "My grandparents still call the sofa a chesterfield.",
+    "syn": [
+      "sofa",
+      "couch",
+      "settee"
+    ],
+    "ant": [],
+    "use": "Somewhat old-fashioned; used by older speakers, especially in Ontario and the Prairies."
+  },
+  {
+    "w": "parkade",
+    "ipa": "/pɑːrˈkeɪd/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "C1",
+    "m": "A multi-storey building for parking cars, especially in western Canada.",
+    "ex": "I left my car in the parkade next to the mall.",
+    "syn": [
+      "parking garage",
+      "parking structure"
+    ],
+    "ant": [],
+    "use": "Informal; common in British Columbia and the Prairies."
+  },
+  {
+    "w": "pencil crayon",
+    "ipa": "/ˈpɛnsəl ˈkreɪɑːn/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B2",
+    "m": "A coloured pencil used for drawing and colouring.",
+    "ex": "My daughter packed pencil crayons for art class.",
+    "syn": [
+      "coloured pencil"
+    ],
+    "ant": [],
+    "use": "Standard Canadian term in schools and everyday talk."
+  },
+  {
+    "w": "runners",
+    "ipa": "/ˈrʌnərz/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B2",
+    "m": "Athletic shoes worn for sports or casual wear.",
+    "ex": "Please take off your runners at the door.",
+    "syn": [
+      "sneakers",
+      "trainers",
+      "gym shoes"
+    ],
+    "ant": [],
+    "use": "Informal; common in Canada, where sneakers is also used."
+  },
+  {
+    "w": "snowbird",
+    "ipa": "/ˈsnoʊbɜːrd/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "C1",
+    "m": "A Canadian, usually retired, who spends the winter in a warmer place such as Florida or Arizona.",
+    "ex": "Many snowbirds leave Ontario in January and return in April.",
+    "syn": [
+      "winter traveller",
+      "seasonal migrant"
+    ],
+    "ant": [],
+    "use": "Informal and friendly; common in news and conversation."
+  },
+  {
+    "w": "cottage country",
+    "ipa": "/ˈkɑːtɪdʒ ˈkʌntri/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B2",
+    "m": "The lakeside region where many city dwellers have vacation homes, especially north of Toronto.",
+    "ex": "Traffic to cottage country is heavy on long weekends.",
+    "syn": [
+      "lake district",
+      "vacation region"
+    ],
+    "ant": [],
+    "use": "Informal; widely used in Ontario and across Canada."
+  },
+  {
+    "w": "Maritimes",
+    "ipa": "/ˈmærɪtaɪmz/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "B2",
+    "m": "The Canadian provinces of Nova Scotia, New Brunswick and Prince Edward Island.",
+    "ex": "We spent two weeks driving through the Maritimes last summer.",
+    "syn": [
+      "Atlantic provinces"
+    ],
+    "ant": [],
+    "use": "Proper noun, always capitalized; the Atlantic provinces also include Newfoundland and Labrador."
+  },
+  {
+    "w": "Chinook",
+    "ipa": "/ʃɪˈnʊk/",
+    "pos": "noun",
+    "cat": "Canadian English",
+    "lvl": "C1",
+    "m": "A warm, dry wind that blows down the eastern side of the Rocky Mountains, bringing sudden melting.",
+    "ex": "A Chinook arrived overnight, and the snow in Calgary melted by noon.",
+    "syn": [
+      "warm wind",
+      "warm front"
+    ],
+    "ant": [],
+    "use": "Proper noun; used in weather reports in Alberta."
+  }
+]

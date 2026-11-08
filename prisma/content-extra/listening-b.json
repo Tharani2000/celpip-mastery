@@ -1,0 +1,1426 @@
+[
+ {
+  "id": "L4-2",
+  "part": 4,
+  "type": "Listening to a News Item",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "The Mill Street Bridge reopens",
+  "context": "A regional radio news report about a bridge in Nova Scotia.",
+  "speakers": {
+   "N": {
+    "name": "Reporter",
+    "voice": "f"
+   },
+   "L": {
+    "name": "Lucia",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "N",
+    "Good morning. After eleven months of repairs, the Mill Street Bridge in the Nova Scotia town of Sandy Harbour reopens to traffic this afternoon."
+   ],
+   [
+    "N",
+    "The bridge was closed last December, when inspectors found cracks in two of its main support beams. Since then, drivers have had to take a detour of nearly twelve kilometres, which added about twenty minutes to the trip for many commuters. The repairs cost three point two million dollars, shared between the province and the town."
+   ],
+   [
+    "N",
+    "Local businesses say the closure hurt. Lucia Ferraro owns a bakery on the east side of the river, and her morning customers from the west side almost disappeared."
+   ],
+   [
+    "L",
+    "We lost about a third of our weekday sales. I’m not angry about it, because the bridge had to be fixed. I’m just very happy to see those orange barriers come down."
+   ],
+   [
+    "N",
+    "The mayor says the work finished six weeks later than planned, because a shipment of steel arrived late. Even so, the project came in about two hundred thousand dollars under budget."
+   ],
+   [
+    "N",
+    "A short ceremony will be held at one thirty, and the bridge will open to cars at two o’clock. Cyclists and pedestrians can cross as soon as the ceremony ends. Heavy trucks over ten tonnes, however, will not be allowed on the bridge until a final inspection next month. Drivers should expect some delays near the bridge this afternoon as traffic returns to its old route."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the report mainly about?",
+    "o": [
+     "A town debating whether to replace a bridge",
+     "The cost of a provincial road project",
+     "The reopening of a repaired bridge",
+     "A traffic detour that begins next week"
+    ],
+    "a": 2,
+    "cat": "main",
+    "e": "The opening line says the Mill Street Bridge reopens this afternoon after eleven months of repairs. The cost is only one detail, and the detour is in the past."
+   },
+   {
+    "q": "Why was the bridge closed last December?",
+    "o": [
+     "Inspectors found cracks in its support beams",
+     "A flood damaged the road surface",
+     "It was too narrow for heavy traffic",
+     "Work started on a new bridge nearby"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "The reporter says inspectors found cracks in two of its main support beams."
+   },
+   {
+    "q": "What caused the project to finish late?",
+    "o": [
+     "Winter storms stopped work for weeks",
+     "The town ran out of money",
+     "Inspectors asked for extra repairs",
+     "A shipment of steel arrived late"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "The mayor says the work ended six weeks late because a shipment of steel arrived late. The project was under budget, so money was not the problem."
+   },
+   {
+    "q": "According to the report, which traffic will be kept off the bridge until next month?",
+    "o": [
+     "Bicycles",
+     "Trucks over ten tonnes",
+     "Passenger cars",
+     "Delivery vans of any size"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Heavy trucks over ten tonnes are banned until a final inspection next month. Cars cross at two o’clock and cyclists after the ceremony."
+   },
+   {
+    "q": "How does Lucia feel about the closure now?",
+    "o": [
+     "Relieved and understanding",
+     "Angry that it took so long",
+     "Doubtful that the repairs will last",
+     "Disappointed that the bridge was fixed"
+    ],
+    "a": 0,
+    "cat": "attitude",
+    "e": "She says she is not angry because the bridge had to be fixed, and that she is very happy to see the barriers come down."
+   }
+  ]
+ },
+ {
+  "id": "L4-3",
+  "part": 4,
+  "type": "Listening to a News Item",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "A dental clinic on wheels",
+  "context": "A local radio report about a health programme in northern Ontario.",
+  "speakers": {
+   "N": {
+    "name": "Reporter",
+    "voice": "f"
+   },
+   "O": {
+    "name": "Omar",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "N",
+    "Children in the Thunder Bay area will soon get dental care without leaving school. Starting Monday, a mobile dental clinic, a converted van with two treatment chairs, will visit fourteen elementary schools across the district."
+   ],
+   [
+    "N",
+    "The service is free for children under twelve whose families have no dental insurance. Each day, the team expects to see about thirty students for a check-up, a cleaning and a fluoride treatment. The programme is funded by four hundred and fifty thousand dollars from the regional health unit and a children’s charity."
+   ],
+   [
+    "N",
+    "A local survey last year found that one in five children in the district had at least one untreated cavity. Hygienist Omar Haddad, who will work in the van, says families often find out too late."
+   ],
+   [
+    "O",
+    "Kids rarely tell their parents when a tooth hurts. They just stop chewing on that side, or they stop smiling. By the time a parent notices, a small problem has become a big one. If we can catch it at school, we can save a lot of pain."
+   ],
+   [
+    "N",
+    "There is one limit. The van cannot do fillings or extractions. Children who need that work will be referred to partner dentists in town, who have agreed to charge reduced fees."
+   ],
+   [
+    "N",
+    "Parents must return a signed consent form to their child’s school by this Friday for their child to take part. Forms are available at the school office and on the health unit’s website. Organizers say that children whose forms arrive late can still be seen when the van returns in the spring."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the main news in this report?",
+    "o": [
+     "A school is opening a permanent dental office",
+     "A van will offer free dental care at schools",
+     "Dental fees for children are being reduced",
+     "A survey shows that cavities are becoming more common"
+    ],
+    "a": 1,
+    "cat": "main",
+    "e": "The report opens by saying a mobile dental clinic will visit fourteen elementary schools starting Monday. The survey is only background."
+   },
+   {
+    "q": "Which children can use the service for free?",
+    "o": [
+     "Any student at one of the fourteen schools",
+     "Children who already have a cavity",
+     "Children of health unit employees",
+     "Children under twelve without dental insurance"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "The service is free for children under twelve whose families have no dental insurance."
+   },
+   {
+    "q": "What must parents do for their child to take part?",
+    "o": [
+     "Return a signed consent form by Friday",
+     "Book an appointment online before Monday",
+     "Pay a small registration fee at school",
+     "Send proof of income to the health unit"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "The reporter says a signed consent form must reach the school by this Friday."
+   },
+   {
+    "q": "What will happen if a child needs a filling?",
+    "o": [
+     "The van team will do it on its next visit",
+     "The family will pay full price at the van",
+     "The child will be sent to a partner dentist",
+     "The child will wait for the spring visit"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "The van cannot do fillings, so children are referred to partner dentists who charge reduced fees."
+   },
+   {
+    "q": "What does Omar suggest about children with a sore tooth?",
+    "o": [
+     "They are afraid of dentists",
+     "They usually tell a teacher first",
+     "They cannot chew any food",
+     "They often hide the problem without meaning to"
+    ],
+    "a": 3,
+    "cat": "implied",
+    "e": "He says kids rarely tell their parents; they just chew on the other side or stop smiling, so adults notice late."
+   }
+  ]
+ },
+ {
+  "id": "L4-4",
+  "part": 4,
+  "type": "Listening to a News Item",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "Vans instead of the number twelve",
+  "context": "A radio news report about a public transit change in British Columbia.",
+  "speakers": {
+   "N": {
+    "name": "Reporter",
+    "voice": "m"
+   },
+   "P": {
+    "name": "Pauline",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "N",
+    "In the Kootenay town of Larch Valley, the number twelve bus, which has run the same route since 1998, made its last trip on Saturday. Starting Monday, it is replaced by a pilot project: small vans that residents book through a phone app or by calling a dispatcher."
+   ],
+   [
+    "N",
+    "Transit officials say the change is about numbers. The old route carried an average of nine passengers per trip, and each ride cost taxpayers about forty-one dollars. Under the on-demand model, they estimate that figure drops to seventeen dollars. The vans will also reach neighbourhoods that the fixed route never served."
+   ],
+   [
+    "N",
+    "There is a trade-off, though. Riders can no longer walk to a stop and simply wait for a bus. Instead, they must book a ride, and officials admit the average wait will be around twenty-two minutes. Seniors without smartphones can phone the dispatcher, but that line is open only until six in the evening."
+   ],
+   [
+    "N",
+    "Pauline Marchetti, who has used the number twelve since she retired, is cautiously open to the idea."
+   ],
+   [
+    "P",
+    "I’ll try it, I really will. But I liked that the bus came whether or not anybody remembered to book it. It was predictable. If the vans turn up late in January, I’ll be the first to say so."
+   ],
+   [
+    "N",
+    "Town council will review ridership figures and rider surveys after six months. The pilot will become permanent only if the cost per ride stays under twenty dollars and at least sixty percent of riders say they are satisfied. Otherwise, the old route could return next fall."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the report mainly about?",
+    "o": [
+     "A fixed bus route being replaced by an on-demand trial",
+     "A fare increase on a long-standing route",
+     "A new app that tracks buses in real time",
+     "A plan to extend bus service to a nearby town"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "The reporter describes the number twelve route ending and a pilot of booked vans starting Monday. No fare increase is mentioned."
+   },
+   {
+    "q": "Why are officials making the change?",
+    "o": [
+     "Drivers could not be found to run the route",
+     "Riders asked for shorter waiting times",
+     "The old route cost a lot for the few people who used it",
+     "The province required a new service model"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "The route averaged nine passengers per trip at about forty-one dollars per ride, while vans are estimated at seventeen dollars. Waits will actually be longer."
+   },
+   {
+    "q": "What does Pauline mean by “I’ll be the first to say so”?",
+    "o": [
+     "She expects the vans to fail",
+     "She will openly criticize the service if it performs badly",
+     "She will encourage others to try the vans",
+     "She has already had a bad experience with them"
+    ],
+    "a": 1,
+    "cat": "implied",
+    "e": "She says she will try it, but if the vans are late she will complain. She is not predicting failure; she is setting a condition."
+   },
+   {
+    "q": "How would you describe Pauline’s attitude toward the change?",
+    "o": [
+     "Enthusiastic because of shorter waits",
+     "Strongly opposed to any change",
+     "Indifferent because she rarely rides",
+     "Willing to try it but still doubtful"
+    ],
+    "a": 3,
+    "cat": "attitude",
+    "e": "She says she will try it, but she praises the old bus for being predictable and warns about late vans. Waits are longer, so she cannot be excited about waiting times."
+   },
+   {
+    "q": "What must happen for the pilot to become permanent?",
+    "o": [
+     "Every rider reports a shorter wait than before",
+     "Average ridership rises above nine passengers per trip",
+     "Cost per ride stays under twenty dollars and most riders are satisfied",
+     "The province agrees to pay half of the operating cost"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Council will make it permanent only if cost per ride stays under twenty dollars and at least sixty percent of riders are satisfied."
+   }
+  ]
+ },
+ {
+  "id": "L4-5",
+  "part": 4,
+  "type": "Listening to a News Item",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "Lobster fishers plant kelp",
+  "context": "A radio news report about a fishing co-operative in Newfoundland and Labrador.",
+  "speakers": {
+   "N": {
+    "name": "Reporter",
+    "voice": "f"
+   },
+   "G": {
+    "name": "Gordon",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "N",
+    "On the south coast of Newfoundland, a group of lobster fishers is trying something that would have sounded strange to their parents: they are planting kelp."
+   ],
+   [
+    "N",
+    "The Port Alder Fishing Co-op, which has fourteen members, will begin farming sugar kelp on eight hectares of ocean next month. The project is supported by six hundred and twenty thousand dollars in federal funding. The first harvest is expected in May, and the co-op hopes to sell it to makers of fertilizer and, eventually, food products."
+   ],
+   [
+    "N",
+    "Co-op manager Sheila Pardy says the reason is not that kelp is a sure thing. It is that lobster catches have fallen for three straight years as the water has warmed. She describes kelp as a way of not depending on one species."
+   ],
+   [
+    "N",
+    "Not every member was convinced. Gordon Rideout, who has fished these waters for forty-one years, voted yes, but only after a long argument."
+   ],
+   [
+    "G",
+    "Fishing is what we know. You go out, you find them, you bring them in. Kelp is farming. You plant it and you wait and you hope nothing goes wrong. I don’t love it, but I love an empty wharf even less."
+   ],
+   [
+    "N",
+    "A marine scientist at a nearby university says kelp farms can absorb some carbon and provide shelter for small fish, but cautions that the market for kelp products in Canada is still small. She says fishers should treat it as a supplement, not a replacement."
+   ],
+   [
+    "N",
+    "The co-op says it will review the project after the first harvest."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is the co-op starting a kelp farm?",
+    "o": [
+     "Because kelp is certain to earn more than lobster",
+     "Because members want to retire from fishing",
+     "Because federal officials required it",
+     "To reduce its dependence on a falling lobster catch"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "Sheila Pardy says it is not that kelp is a sure thing; lobster catches have fallen three years in a row, so kelp is a way of not depending on one species."
+   },
+   {
+    "q": "What does the co-op hope to do with its first harvest?",
+    "o": [
+     "Export it to Europe",
+     "Sell it to fertilizer makers and later to food companies",
+     "Feed it to lobsters in holding tanks",
+     "Donate it to local schools"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "The reporter says the co-op hopes to sell the harvest to makers of fertilizer and, eventually, food products."
+   },
+   {
+    "q": "How does Gordon feel about the kelp project?",
+    "o": [
+     "Excited and optimistic",
+     "Angry and resentful",
+     "Reluctant but realistic",
+     "Proud and nostalgic"
+    ],
+    "a": 2,
+    "cat": "attitude",
+    "e": "He voted yes after a long argument and says he does not love it but loves an empty wharf even less, which shows reluctant acceptance."
+   },
+   {
+    "q": "Why does the report include the scientist’s comments?",
+    "o": [
+     "To add a cautious view of the project’s potential",
+     "To prove that the farm will succeed",
+     "To explain how federal funding works",
+     "To criticize the co-op’s decision"
+    ],
+    "a": 0,
+    "cat": "intention",
+    "e": "The scientist names benefits but warns the market is small and that kelp should be a supplement, which balances the optimism."
+   },
+   {
+    "q": "What does Gordon’s remark about an “empty wharf” suggest?",
+    "o": [
+     "He expects kelp to be harvested quickly",
+     "He fears fishing alone may no longer support the community",
+     "He thinks lobster will return next year",
+     "He wants the wharf to be closed"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "An empty wharf means few boats working. He prefers kelp farming to that outcome, which implies he worries the lobster catch alone will not sustain the town."
+   }
+  ]
+ },
+ {
+  "id": "L5-2",
+  "part": 5,
+  "type": "Listening to a Discussion",
+  "difficulty": "Intermediate",
+  "replays": 1,
+  "title": "Eight thousand dollars for Elm Street",
+  "context": "Three members of a neighbourhood association decide how to spend a community grant.",
+  "speakers": {
+   "G": {
+    "name": "Gloria",
+    "voice": "f"
+   },
+   "K": {
+    "name": "Kwame",
+    "voice": "m"
+   },
+   "M": {
+    "name": "Mei",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "G",
+    "Okay, everyone, we have eight thousand dollars from the city’s community grant, and we have to decide by Thursday how to spend it. Kwame, you wanted to start?"
+   ],
+   [
+    "K",
+    "Yes. I think the money should go to the playground. The big wooden climber is more than twenty years old, and last month a child got a splinter in her hand that needed a doctor. A whole new play structure was quoted at seventy-two hundred dollars."
+   ],
+   [
+    "M",
+    "I agree the climber is in bad shape, but that’s almost the entire grant. I’d rather start a community garden. Raised beds, a water barrel system and some tools would be about thirty-five hundred dollars, and it would bring different ages together, not just kids."
+   ],
+   [
+    "K",
+    "Kids are who we have the most of, though. There are sixty families on this street with children under ten."
+   ],
+   [
+    "G",
+    "Can I add something? I talked to the city inspector on Tuesday. He said that only the climber is unsafe. The swings and the slide are fine. He said we could remove the climber and put in a smaller, newer one for about four thousand dollars."
+   ],
+   [
+    "K",
+    "Really? Nobody told me that."
+   ],
+   [
+    "M",
+    "That changes things. If the climber costs four thousand, we’d still have four thousand left, and the garden only needs thirty-five hundred."
+   ],
+   [
+    "K",
+    "I suppose I was thinking of an all-or-nothing choice. A smaller climber is better than no climber."
+   ],
+   [
+    "G",
+    "So we do both? That leaves five hundred dollars. I’d use it for a sign that explains the garden rules and the planting schedule."
+   ],
+   [
+    "M",
+    "I like that. People always ask who’s allowed to plant what."
+   ],
+   [
+    "K",
+    "Fine with me, as long as the climber is replaced before the summer holidays."
+   ],
+   [
+    "G",
+    "I’ll put it in the plan. I’ll present both projects at Thursday’s general meeting and ask members to vote."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What are the speakers mainly trying to decide?",
+    "o": [
+     "Whether to ask the city for more money",
+     "Who should inspect the playground",
+     "How to spend a community grant",
+     "When to hold the general meeting"
+    ],
+    "a": 2,
+    "cat": "main",
+    "e": "Gloria opens by saying they have eight thousand dollars and must decide how to spend it."
+   },
+   {
+    "q": "Why does Kwame want to spend money on the playground?",
+    "o": [
+     "The old climber is worn out and a child was hurt on it",
+     "The city has ordered the whole playground closed",
+     "More families are moving to the street",
+     "The swings and the slide are broken"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "He says the climber is over twenty years old and a child got a splinter that needed a doctor. The inspector later says the swings and slide are fine."
+   },
+   {
+    "q": "What new information does Gloria give?",
+    "o": [
+     "The grant can be increased if a garden is built",
+     "Only the climber is unsafe, and a smaller one costs less",
+     "The city will pay to repair the swings",
+     "The garden can be built on the playground land"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "The inspector told her only the climber is unsafe and that a smaller new one costs about four thousand dollars."
+   },
+   {
+    "q": "How much of the grant is left for a sign?",
+    "o": [
+     "$4,000",
+     "$1,500",
+     "$3,500",
+     "$500"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Eight thousand minus four thousand for the climber minus thirty-five hundred for the garden leaves five hundred dollars."
+   },
+   {
+    "q": "What will Gloria do next?",
+    "o": [
+     "Present both projects to members for a vote",
+     "Ask the inspector to return",
+     "Order the new climber immediately",
+     "Cancel Thursday’s meeting"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "She says she will present both projects at Thursday’s general meeting and ask members to vote."
+   }
+  ]
+ },
+ {
+  "id": "L5-3",
+  "part": 5,
+  "type": "Listening to a Discussion",
+  "difficulty": "Intermediate",
+  "replays": 1,
+  "title": "Sundays at the bakery",
+  "context": "The owner of a small bakery-café and two employees discuss opening on Sundays.",
+  "speakers": {
+   "H": {
+    "name": "Hector",
+    "voice": "m"
+   },
+   "B": {
+    "name": "Britta",
+    "voice": "f"
+   },
+   "N": {
+    "name": "Nadia",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "H",
+    "Thanks for coming in early. I want to talk about opening on Sundays. Three customers asked me last week, and the café next door already opens at nine."
+   ],
+   [
+    "B",
+    "I’m for it. Sunday brunch is when families come out, and we’re losing that money to the café next door. I’d guess we could sell at least nine hundred dollars on a good Sunday."
+   ],
+   [
+    "N",
+    "Nine hundred is optimistic. We don’t know that yet. And honestly, I’m worried about the team. We already work six days some weeks in December, and Sunday is the one day my kids see me properly."
+   ],
+   [
+    "H",
+    "That’s fair, Nadia. Nobody would be forced to work every Sunday."
+   ],
+   [
+    "B",
+    "We could rotate. With six of us on the team, two people would work each Sunday, so each person would only work one Sunday in three."
+   ],
+   [
+    "N",
+    "That’s a lot better than what I was imagining. I thought you meant every weekend."
+   ],
+   [
+    "H",
+    "No. I was thinking Sundays from nine to three, not the full day. And I’d pay time and a half."
+   ],
+   [
+    "N",
+    "Time and a half helps. It’s still a change for the people who already work Saturdays, though."
+   ],
+   [
+    "B",
+    "What if we try it for eight Sundays and see how it goes? Then no one is locked in."
+   ],
+   [
+    "H",
+    "I like that. A trial. If we average nine hundred dollars in sales per Sunday, we keep going. If not, we stop."
+   ],
+   [
+    "N",
+    "Okay. A trial I can support. But I want a vote at the end, including everyone on the team, not only a look at the sales figures."
+   ],
+   [
+    "H",
+    "Agreed. Sales and staff opinion both count. I’ll draw up the roster tonight and we can start the first Sunday of next month."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the discussion mainly about?",
+    "o": [
+     "Whether to hire more staff for Saturdays",
+     "Whether to open the café on Sundays",
+     "Whether to raise prices on weekends",
+     "How to change the menu to compete with the café next door"
+    ],
+    "a": 1,
+    "cat": "main",
+    "e": "Hector opens by saying he wants to talk about opening on Sundays."
+   },
+   {
+    "q": "What is Nadia’s main concern?",
+    "o": [
+     "Whether customers will want brunch",
+     "The cost of paying overtime",
+     "Competition from the café next door",
+     "The effect of Sunday work on staff and family time"
+    ],
+    "a": 3,
+    "cat": "attitude",
+    "e": "She says she is worried about the team and that Sunday is the one day her kids see her properly."
+   },
+   {
+    "q": "Under Britta’s rotation idea, how often would each person work on a Sunday?",
+    "o": [
+     "Every second Sunday",
+     "Every Sunday",
+     "One Sunday in three",
+     "One Sunday in six"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Britta says six people, two each Sunday, so each person works one Sunday in three."
+   },
+   {
+    "q": "What will decide whether Sundays continue after the trial?",
+    "o": [
+     "Average sales and a vote by the team",
+     "Average sales only",
+     "Customer comments and the owner’s decision",
+     "The hours of the café next door"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Hector says they keep going if sales average nine hundred dollars per Sunday, and after Nadia’s request he agrees staff opinion counts too."
+   },
+   {
+    "q": "Why does Hector like the idea of a trial?",
+    "o": [
+     "He is worried the neighbouring café will close",
+     "He has already promised staff he will open",
+     "He is certain Sundays will earn nine hundred dollars",
+     "It lets him test Sundays without a long commitment"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "Britta says a trial means no one is locked in, and Hector agrees. He says they stop if sales fall short, so he is not certain of the result."
+   }
+  ]
+ },
+ {
+  "id": "L5-4",
+  "part": 5,
+  "type": "Listening to a Discussion",
+  "difficulty": "Advanced",
+  "replays": 1,
+  "title": "Who pays for the roof",
+  "context": "Three condominium board members discuss how to pay for a new roof.",
+  "speakers": {
+   "W": {
+    "name": "Walter",
+    "voice": "m"
+   },
+   "F": {
+    "name": "Fatima",
+    "voice": "f"
+   },
+   "J": {
+    "name": "Joan",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "W",
+    "Let’s go through the numbers once more. The new roof is quoted at four hundred and ten thousand dollars. Our reserve fund has one hundred and ninety thousand. That leaves two hundred and twenty thousand to find."
+   ],
+   [
+    "J",
+    "And we have fifty-five units, so a special levy would be four thousand dollars per owner."
+   ],
+   [
+    "W",
+    "Exactly. And I favour that. One payment, finished. If we borrow, we pay interest for ten years on something we could simply pay for now."
+   ],
+   [
+    "F",
+    "Walter, four thousand dollars at once is not simple for everyone. We have retirees on fixed incomes and young families who’ve just bought. A loan would be about forty-two dollars per unit each month. People can plan for that."
+   ],
+   [
+    "W",
+    "Over ten years, that’s more than five thousand dollars per owner. You’re paying a premium for convenience."
+   ],
+   [
+    "F",
+    "I understand that. But I’d rather pay a premium than have someone sell their home because of one large bill."
+   ],
+   [
+    "J",
+    "I think you’re both right, which is the annoying part. What about a hybrid? A smaller levy, say fifteen hundred per unit, and borrow the rest. That reduces the interest, but nobody is hit with the full four thousand."
+   ],
+   [
+    "W",
+    "That’s reasonable in principle. I’d want to see what the bank offers before I commit to anything."
+   ],
+   [
+    "F",
+    "I’d support that, as long as owners can pay the levy in instalments."
+   ],
+   [
+    "J",
+    "We can ask. But whichever way we go, the roof can’t wait past next summer. Last winter’s leaks in the top-floor units were worse than the report said."
+   ],
+   [
+    "W",
+    "Then let’s get the lender’s quote this week, and put the options to a vote at the owners’ meeting."
+   ],
+   [
+    "F",
+    "Agreed."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What are the speakers trying to decide?",
+    "o": [
+     "How to pay for a new roof",
+     "Whether the building needs a new roof",
+     "Which company should install the roof",
+     "How to increase the reserve fund"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "Walter lays out the roof cost and reserve fund and says they have to find the rest."
+   },
+   {
+    "q": "How much would each owner pay under a special levy?",
+    "o": [
+     "$42",
+     "$1,500",
+     "$4,000",
+     "$5,000"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Joan says a special levy would be four thousand dollars per owner across fifty-five units. Forty-two dollars is the monthly loan cost."
+   },
+   {
+    "q": "Why does Fatima prefer borrowing?",
+    "o": [
+     "She thinks interest rates will fall",
+     "She believes the reserve fund should stay untouched",
+     "She does not trust the roof estimate",
+     "She wants to avoid straining some owners’ finances"
+    ],
+    "a": 3,
+    "cat": "opinion",
+    "e": "She points to retirees on fixed incomes and new buyers, and says she would rather pay a premium than have someone forced to sell."
+   },
+   {
+    "q": "What does Walter imply by saying, “You’re paying a premium for convenience”?",
+    "o": [
+     "He thinks a loan would be easy to get",
+     "He sees borrowing as the more expensive option",
+     "He wants owners to pay less each month",
+     "He believes the roof price is too high"
+    ],
+    "a": 1,
+    "cat": "implied",
+    "e": "He has just said the loan would cost more than five thousand dollars per owner over ten years, against four thousand for the levy."
+   },
+   {
+    "q": "What do the speakers decide to do next?",
+    "o": [
+     "Approve the special levy immediately",
+     "Wait until next summer to decide",
+     "Get a quote from a lender and put options to a vote",
+     "Repair the roof instead of replacing it"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Walter proposes getting the lender’s quote this week and voting at the owners’ meeting, and Fatima agrees."
+   }
+  ]
+ },
+ {
+  "id": "L5-5",
+  "part": 5,
+  "type": "Listening to a Discussion",
+  "difficulty": "Advanced",
+  "replays": 1,
+  "title": "The supervisor decision",
+  "context": "Three managers at an insurance call centre discuss which finalist to hire as a supervisor.",
+  "speakers": {
+   "R": {
+    "name": "Raj",
+    "voice": "m"
+   },
+   "C": {
+    "name": "Colleen",
+    "voice": "f"
+   },
+   "A": {
+    "name": "Ana",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "C",
+    "We need to make a decision today. Two finalists for the supervisor position: Dmitri, who’s been on our team for eight years, and Sophie, from outside, with three years’ experience at another insurer."
+   ],
+   [
+    "R",
+    "Dmitri is the safe choice. He knows our systems, he handles angry customers better than anyone, and the team knows him. I don’t see why we’d take a risk."
+   ],
+   [
+    "A",
+    "I’m not sure it’s a risk, Raj. Sophie’s interview was the strongest I’ve seen. She had a plan for training new hires, and she’d already looked at our complaint figures."
+   ],
+   [
+    "R",
+    "A plan on paper is easy. Running a floor of twenty-two people during a bad week is different."
+   ],
+   [
+    "C",
+    "True. But Ana, you spoke to Dmitri’s references. What did they say?"
+   ],
+   [
+    "A",
+    "Good things about his skill. But two of them mentioned that he gets impatient when newer people ask questions. In a supervisor role, that’s a real concern, because our turnover is already high."
+   ],
+   [
+    "R",
+    "Impatience is a personality trait. It doesn’t mean he can’t learn."
+   ],
+   [
+    "A",
+    "Agreed, and I’m not saying no to Dmitri. I’m saying the job is mostly about coaching."
+   ],
+   [
+    "C",
+    "Here’s a thought. If we hire Sophie, her weak spot will be escalations, and that’s what I’m best at. I could mentor her for the first six months and sit in on difficult calls."
+   ],
+   [
+    "R",
+    "And Dmitri? He’ll be disappointed. He’s expecting this."
+   ],
+   [
+    "C",
+    "I’ll talk to him myself and offer him the lead role on the new training programme. It’s a real role, not a consolation prize."
+   ],
+   [
+    "R",
+    "I’m still not convinced Sophie is ready, but with a mentor and a six-month review, I can live with it. Let’s do it."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What do the speakers decide?",
+    "o": [
+     "To hire Dmitri and give Sophie a training role",
+     "To delay the decision until after more interviews",
+     "To split the supervisor job between both candidates",
+     "To hire the outside candidate, with support in place"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "Raj says that with a mentor and a six-month review he can live with hiring Sophie, and Colleen plans to offer Dmitri a different role."
+   },
+   {
+    "q": "What is Raj’s attitude toward the final decision?",
+    "o": [
+     "Fully convinced it is the best choice",
+     "Doubtful but willing to accept it",
+     "Angry that his view was ignored",
+     "Unconcerned either way"
+    ],
+    "a": 1,
+    "cat": "attitude",
+    "e": "He says he is still not convinced Sophie is ready but can live with it."
+   },
+   {
+    "q": "What concern did Dmitri’s references raise?",
+    "o": [
+     "He gets impatient with less experienced colleagues",
+     "He often arrives late for shifts",
+     "He has trouble handling angry customers",
+     "He dislikes learning new systems"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Ana says two references mentioned he gets impatient when newer people ask questions. Raj says he handles angry customers very well."
+   },
+   {
+    "q": "Why does Colleen offer to mentor Sophie?",
+    "o": [
+     "Because Sophie asked for a mentor",
+     "Because she disagrees with Ana about the interview",
+     "To support Sophie in the area where she is weakest",
+     "Because she wants to train Dmitri instead"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "She says Sophie’s weak spot will be escalations, which is Colleen’s own strength, so she would sit in on difficult calls."
+   },
+   {
+    "q": "Why does Colleen mention the training programme role?",
+    "o": [
+     "To persuade Dmitri to leave the company",
+     "To give Dmitri a meaningful role after he is turned down",
+     "To show that Sophie has no training experience",
+     "To reduce the supervisor’s workload"
+    ],
+    "a": 1,
+    "cat": "intention",
+    "e": "Raj worries Dmitri will be disappointed; Colleen replies she will offer him the lead role, a real role and not a consolation prize."
+   }
+  ]
+ },
+ {
+  "id": "L6-2",
+  "part": 6,
+  "type": "Listening to Viewpoints",
+  "difficulty": "Intermediate",
+  "replays": 1,
+  "title": "Should the first bell ring later?",
+  "context": "A radio host talks with a sleep researcher and a school transportation coordinator.",
+  "speakers": {
+   "C": {
+    "name": "Carla",
+    "voice": "f"
+   },
+   "I": {
+    "name": "Dr. Ibrahim",
+    "voice": "m"
+   },
+   "J": {
+    "name": "Janet",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "C",
+    "Welcome to Morning Edition. Today’s question: should high schools start later? Several school boards in the province are considering moving the first bell from eight o’clock to eight forty-five. With me are Dr. Samir Ibrahim, a sleep researcher, and Janet Okafor, who coordinates student transportation for a large school district. Dr. Ibrahim, you first."
+   ],
+   [
+    "I",
+    "Thanks, Carla. The science here is clear. During the teenage years, the body clock shifts, so most teenagers don’t feel sleepy until eleven at night or later. If they have to be up at six thirty for an eight o’clock start, many get six hours of sleep or less. Schools that moved to a later start saw fewer students falling asleep in class, and better attendance. I think it’s one of the cheapest ways to improve learning."
+   ],
+   [
+    "C",
+    "Janet, you’re nodding, but I suspect you have a “but.”"
+   ],
+   [
+    "J",
+    "I do, and I want to say first that I agree with Dr. Ibrahim about sleep. My problem is logistics. We run the same buses for elementary and high school students. If high school starts later, either we buy more buses, which costs hundreds of thousands of dollars, or elementary kids start earlier, and then six-year-olds are waiting at stops in the dark in January."
+   ],
+   [
+    "I",
+    "That’s a legitimate concern, but I’d say the cost of tired students is also a real cost. It just doesn’t show up on a budget line."
+   ],
+   [
+    "J",
+    "Maybe. But there’s another issue. If school ends later, sports practices finish after dark in winter, and a lot of students work part-time jobs that start at five. Some families really depend on that income."
+   ],
+   [
+    "C",
+    "So is there any middle ground?"
+   ],
+   [
+    "J",
+    "Honestly, I’d be willing to support a trial. Maybe starting at eight thirty rather than eight forty-five, for one year, and measure the results. I just don’t want us to announce it as a magic fix."
+   ],
+   [
+    "I",
+    "A trial would be a good start, as long as we measure grades and attendance, not just opinions."
+   ],
+   [
+    "C",
+    "A trial it might be. Thank you both."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "According to Dr. Ibrahim, why do many teenagers sleep too little?",
+    "o": [
+     "They spend too many hours on homework",
+     "Their parents let them stay up late",
+     "Their part-time jobs end very late",
+     "Their body clocks make them sleepy later at night"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "He says the teenage body clock shifts, so most do not feel sleepy until eleven or later while still needing to wake early."
+   },
+   {
+    "q": "What is Janet’s main objection to a later start?",
+    "o": [
+     "She disagrees with the research on sleep",
+     "Practical problems such as bus schedules and after-school activities",
+     "She thinks teenagers would not attend",
+     "She believes younger children need more sleep"
+    ],
+    "a": 1,
+    "cat": "opinion",
+    "e": "She raises buses shared with elementary schools, practices after dark and student jobs. She begins by agreeing with the sleep science."
+   },
+   {
+    "q": "How does Janet respond to Dr. Ibrahim’s research?",
+    "o": [
+     "She rejects it as exaggerated",
+     "She says she has not read it",
+     "She accepts it but raises practical concerns",
+     "She uses it to argue for more buses"
+    ],
+    "a": 2,
+    "cat": "attitude",
+    "e": "She says she agrees with him about sleep and that her problem is logistics."
+   },
+   {
+    "q": "What does Dr. Ibrahim imply when he says the cost of tired students “doesn’t show up on a budget line”?",
+    "o": [
+     "Fatigue has real costs that are easy to overlook",
+     "The school has no money for new buses",
+     "Budgets should be reviewed by researchers",
+     "Tired students cost the school nothing"
+    ],
+    "a": 0,
+    "cat": "inference",
+    "e": "He calls it a real cost that is simply not recorded in budgets, answering Janet’s point about the price of buses."
+   },
+   {
+    "q": "What does Janet say she would support?",
+    "o": [
+     "An immediate 8:45 start for all grades",
+     "A one-year trial starting at 8:30",
+     "A permanent change if more buses are bought",
+     "A trial that ends sports practices early"
+    ],
+    "a": 1,
+    "cat": "opinion",
+    "e": "She says she would support a trial of eight thirty for one year, with results measured, and does not want it called a magic fix."
+   }
+  ]
+ },
+ {
+  "id": "L6-3",
+  "part": 6,
+  "type": "Listening to Viewpoints",
+  "difficulty": "Intermediate",
+  "replays": 1,
+  "title": "Homework after dinner",
+  "context": "A radio presenter describes two views on nightly homework for young children.",
+  "speakers": {
+   "P": {
+    "name": "Presenter",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "P",
+    "Every parent knows the evening scene: dinner is over, and the backpack comes out. Should elementary students have homework every night? People hold strong views, so let me describe both sides."
+   ],
+   [
+    "P",
+    "Supporters say daily homework builds good habits. A child who practises spelling or math facts at the kitchen table learns responsibility and discipline before the work gets hard. Many parents also like seeing what their child is learning. One father I spoke to said homework was the only window he had into the classroom."
+   ],
+   [
+    "P",
+    "Critics respond that young children already spend six hours a day at school. After that, they need to play, to read for fun and to sleep. Some teachers also point out that homework is not equal for everyone. A child with a quiet room and a parent at home can finish it easily. A child who shares a small apartment with three siblings, or whose parents work evenings, may not be able to. The result is that homework can widen the very gap it was meant to close."
+   ],
+   [
+    "P",
+    "The research is mixed. For young children, studies have found little evidence that nightly homework raises marks. It seems to matter more for older students."
+   ],
+   [
+    "P",
+    "My own view is this. I don’t think we should abolish homework, because the habit of finishing something is worth building. But for children under ten, I think fifteen or twenty minutes of reading, chosen by the child, is enough. Anything more mostly creates arguments at home, not learning."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What do supporters say is a benefit of daily homework?",
+    "o": [
+     "It guarantees higher marks",
+     "It replaces some classroom lessons",
+     "It teaches children responsibility",
+     "It reduces time spent on screens"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Supporters say it builds good habits, responsibility and discipline."
+   },
+   {
+    "q": "Why do critics say homework can be unfair?",
+    "o": [
+     "Children’s home conditions are very different",
+     "Teachers mark it inconsistently",
+     "Some schools do not assign it",
+     "Parents are not allowed to help"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "They say a child with a quiet room and a parent at home finishes easily, while another child may not be able to."
+   },
+   {
+    "q": "What does the father’s comment about a “window into the classroom” suggest?",
+    "o": [
+     "He wants less homework",
+     "He does not trust the teacher",
+     "He thinks homework is a waste of time",
+     "Some parents rely on homework to know what is being taught"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "He values homework because it shows him what his child is learning, which supports the supporters’ view."
+   },
+   {
+    "q": "What is the speaker’s own view about children under ten?",
+    "o": [
+     "Homework should be banned completely",
+     "Short, self-chosen reading is enough",
+     "Daily math practice is essential",
+     "Homework should increase every year"
+    ],
+    "a": 1,
+    "cat": "opinion",
+    "e": "She recommends fifteen or twenty minutes of reading chosen by the child and says more mostly creates arguments."
+   },
+   {
+    "q": "How would you describe the speaker’s approach to the topic?",
+    "o": [
+     "Balanced, with a moderate personal conclusion",
+     "Strongly in favour of homework",
+     "Dismissive of parents’ views",
+     "Uncertain and unwilling to take a position"
+    ],
+    "a": 0,
+    "cat": "tone",
+    "e": "She presents both sides fairly, notes the research is mixed, and then states a middle view: keep homework but keep it short."
+   }
+  ]
+ },
+ {
+  "id": "L6-4",
+  "part": 6,
+  "type": "Listening to Viewpoints",
+  "difficulty": "Advanced",
+  "replays": 1,
+  "title": "The screen that asks for a tip",
+  "context": "A radio host speaks with a restaurant owner and a consumer advocate about tipping prompts.",
+  "speakers": {
+   "H": {
+    "name": "Naomi",
+    "voice": "f"
+   },
+   "V": {
+    "name": "Victor",
+    "voice": "m"
+   },
+   "P": {
+    "name": "Priscilla",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "H",
+    "Welcome back. You’ve probably seen it: you pay for a coffee, the screen turns around, and it suggests a tip of eighteen, twenty or twenty-five percent. Is that fair? I’m joined by Victor Lindqvist, who owns two restaurants in Halifax, and Priscilla Tran, a consumer advocate. Victor, do the screens bother you?"
+   ],
+   [
+    "V",
+    "Not really, no. I understand why customers get annoyed, but the prompt is just a reminder. In my restaurants, servers earn a modest base wage, and tips are what make the job livable. If the screen reminds people, that helps my staff."
+   ],
+   [
+    "P",
+    "A reminder is a polite word for it. When you’re standing there with the cashier watching and a line behind you, it’s pressure. I’ve talked to people who tip on a takeout sandwich, when nobody has served them, because they feel awkward pressing “no tip.”"
+   ],
+   [
+    "V",
+    "Sure, awkwardness exists. But the alternative isn’t free. If we removed tipping and paid staff a higher wage, I’d have to raise menu prices by about fifteen percent, and I’d probably lose a few servers who earn more from tips on busy nights than they would from any salary."
+   ],
+   [
+    "P",
+    "But that’s the honest price, Victor. Right now the menu says one number and the bill says another, and customers do the maths in their heads. In many countries the service is included, and nobody seems to suffer for it."
+   ],
+   [
+    "V",
+    "That works where the culture supports it. Here, if I raise prices first and the restaurant down the street doesn’t, I’m the expensive one. Nobody wants to go first."
+   ],
+   [
+    "H",
+    "So is there anything you agree on?"
+   ],
+   [
+    "P",
+    "That the screens shouldn’t make people feel judged. I would settle for the default being “no tip” for counter service, with tipping left as a choice for table service."
+   ],
+   [
+    "V",
+    "I could live with that for counter service. I’d have to ask my own staff, though, because they might disagree with me."
+   ],
+   [
+    "H",
+    "That sounds like a start."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is Victor’s attitude toward tipping screens?",
+    "o": [
+     "Strongly opposed, because they annoy customers",
+     "Mildly accepting, because his staff benefit",
+     "Indifferent, because he does not use them",
+     "Eager to put them at every counter"
+    ],
+    "a": 1,
+    "cat": "attitude",
+    "e": "He says they do not really bother him and that the prompt is a reminder that helps his staff."
+   },
+   {
+    "q": "According to Priscilla, why do some customers tip on takeout?",
+    "o": [
+     "They think takeout staff earn less than servers",
+     "They believe tipping is legally required",
+     "They received excellent service",
+     "They feel awkward refusing in front of others"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "She says people feel awkward pressing “no tip” with a cashier watching and a line behind them, even when nobody served them."
+   },
+   {
+    "q": "What would Victor have to do if tipping were removed?",
+    "o": [
+     "Raise menu prices by about fifteen percent",
+     "Cut his staff by fifteen percent",
+     "Close one of his restaurants",
+     "Add a service charge on top of tips"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "He says he would have to raise menu prices by about fifteen percent and might lose some servers."
+   },
+   {
+    "q": "What does Victor imply by “Nobody wants to go first”?",
+    "o": [
+     "Customers refuse to be first in line",
+     "Servers will not give up tips",
+     "A restaurant that raises prices alone would look more expensive",
+     "Government should ban tipping first"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "He explains that if he raises prices and the restaurant down the street does not, he becomes the expensive one."
+   },
+   {
+    "q": "Which idea does Victor say he could accept?",
+    "o": [
+     "Banning screens in all restaurants",
+     "Adding a service charge everywhere",
+     "Letting customers tip only after the meal",
+     "A default of no tip for counter service"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Priscilla proposes no tip as the default at the counter with choice for table service, and Victor says he could live with that for counter service."
+   }
+  ]
+ },
+ {
+  "id": "L6-5",
+  "part": 6,
+  "type": "Listening to Viewpoints",
+  "difficulty": "Advanced",
+  "replays": 1,
+  "title": "A year before the lecture hall",
+  "context": "A speaker on a campus podcast weighs the arguments for and against a gap year before college.",
+  "speakers": {
+   "S": {
+    "name": "Speaker",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "S",
+    "Every spring, thousands of graduating students face a question: go straight to college, or take a year off first? Both sides argue as though the answer were obvious, so let me take their arguments seriously."
+   ],
+   [
+    "S",
+    "Advocates of the gap year say eighteen is simply too early to commit to a programme costing tens of thousands of dollars. A year of work, volunteering or travel, they argue, gives students maturity and a clearer sense of what to study. Some research even suggests that students who take a year off return more motivated and earn better grades. They also point out that a year of full-time work can build savings that lower the debt."
+   ],
+   [
+    "S",
+    "The sceptics have equally serious points. They worry about momentum. Once you stop studying, they say, it gets harder to start again, and a surprising number of students never return. There is also a fairness issue. A gap year is easier if your family can help pay for you to travel, or at least let you live at home rent-free. For someone supporting themselves, the year might simply be a delay in earning a qualification that would raise their income."
+   ],
+   [
+    "S",
+    "I notice that both groups are quietly talking about different students. The enthusiasts imagine a young person with a plan and a safety net. The critics imagine one drifting without either. And frankly, the studies cited tend to involve students who chose a gap year freely, which says little about whether it would help everybody."
+   ],
+   [
+    "S",
+    "So here is my view. The label doesn’t matter; the plan does. A year spent with a goal, whether it’s a job in the field, a language, or a savings target, can be valuable. A year spent waiting for inspiration usually isn’t. If a student can’t explain in two sentences what the year is for, I’d say they’re not ready to take it."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Which argument do advocates make for a gap year?",
+    "o": [
+     "It guarantees a higher income later",
+     "It helps students choose a programme more wisely",
+     "It shortens the length of a degree",
+     "It removes student debt entirely"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "They say a year away gives maturity and a clearer sense of what to study. Savings only “lower the debt,” not remove it."
+   },
+   {
+    "q": "What is the sceptics’ main worry about students who stop studying?",
+    "o": [
+     "They will spend all their savings",
+     "They will lose their scholarships",
+     "They will forget what they have learned",
+     "They may never go back"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Sceptics worry about momentum: it gets harder to start again, and many never return."
+   },
+   {
+    "q": "What does the speaker mean by saying the groups are “talking about different students”?",
+    "o": [
+     "Advocates study graduates and critics study dropouts",
+     "Advocates mean university and critics mean college",
+     "Each side pictures a different kind of student situation",
+     "The groups have researched different age groups"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "He says enthusiasts imagine a student with a plan and a safety net, and critics imagine one drifting without either."
+   },
+   {
+    "q": "What does the speaker suggest about the research cited by advocates?",
+    "o": [
+     "Its findings may not apply to every student",
+     "It has been proven false",
+     "It is based on too few students",
+     "It was carried out by the sceptics"
+    ],
+    "a": 0,
+    "cat": "evidence",
+    "e": "He says the studies tend to involve students who chose a gap year freely, which says little about whether it helps everybody."
+   },
+   {
+    "q": "Which student would the speaker most likely encourage to take a gap year?",
+    "o": [
+     "One hoping inspiration will arrive during travel",
+     "One whose family can pay for any trip",
+     "One who has not yet chosen a programme",
+     "One who can say in two sentences what the year is for"
+    ],
+    "a": 3,
+    "cat": "opinion",
+    "e": "He says the plan matters, that waiting for inspiration usually is not valuable, and that a student who cannot explain the purpose in two sentences is not ready."
+   }
+  ]
+ }
+]

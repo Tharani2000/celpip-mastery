@@ -1,0 +1,1570 @@
+[
+ {
+  "id": "L1-2",
+  "part": 1,
+  "type": "Listening to Problem Solving",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "The Saturday move that became Monday",
+  "context": "A customer phones a moving company after his booking is changed.",
+  "speakers": {
+   "N": {
+    "name": "Naveen",
+    "voice": "m"
+   },
+   "C": {
+    "name": "Claire",
+    "voice": "f"
+   }
+  },
+  "script": [
+   [
+    "C",
+    "Swift Move Movers, Claire speaking."
+   ],
+   [
+    "N",
+    "Hi Claire, it’s Naveen Pillai. I booked a move for this Saturday, but I just got an email saying it’s been changed to Monday. I can’t do Monday. My lease at the old place ends Sunday night."
+   ],
+   [
+    "C",
+    "Let me pull that up. Pillai, Burnaby to Coquitlam, two-bedroom. Yes, I see it. I’m so sorry about that. One of our trucks broke down this week, and our dispatcher moved some Saturday jobs to Monday. Nobody was supposed to do that without phoning you first."
+   ],
+   [
+    "N",
+    "Well, somebody did. I’ve taken Saturday off work, and I’ve got friends coming to help carry the heavy stuff."
+   ],
+   [
+    "C",
+    "I understand. The morning is completely full, but I do have a two o’clock slot."
+   ],
+   [
+    "N",
+    "Two o’clock is late, honestly. The elevator booking at my new building ends at five. If we start at two, we’ll be loading until four, and then there’s a twenty-five minute drive. I won’t make it."
+   ],
+   [
+    "C",
+    "Okay, that’s a fair point. Can you hold for a minute? Let me check with the dispatcher."
+   ],
+   [
+    "N",
+    "Sure."
+   ],
+   [
+    "C",
+    "Thanks for waiting. Good news. A customer cancelled, so I can give you twelve-thirty with the full crew of three. And because of the mix-up, I’ll take fifteen percent off. Your original quote was six hundred and forty dollars."
+   ],
+   [
+    "N",
+    "Twelve-thirty works. That’s a decent discount, too. Thank you."
+   ],
+   [
+    "C",
+    "You’re welcome. One thing, though. My crew won’t disconnect plumbing, so if you’re taking the washing machine, please have it unhooked and drained the night before."
+   ],
+   [
+    "N",
+    "Right, I’ll do that on Friday evening. Will I get a confirmation?"
+   ],
+   [
+    "C",
+    "You’ll have an email within the hour, and this time it will say Saturday."
+   ],
+   [
+    "N",
+    "Perfect. Thanks, Claire."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is Naveen calling?",
+    "o": [
+     "He wants to cancel his move",
+     "He needs a larger truck for his furniture",
+     "His moving date was changed without his agreement",
+     "He was charged more than his quote"
+    ],
+    "a": 2,
+    "cat": "main",
+    "e": "He says he booked Saturday but received an email moving the job to Monday, which he cannot do."
+   },
+   {
+    "q": "What caused the change to Naveen’s booking?",
+    "o": [
+     "A truck broke down",
+     "The crew was short of workers",
+     "Naveen asked for a later date",
+     "The weather forecast was bad"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Claire says one of the trucks broke down and the dispatcher pushed Saturday jobs to Monday."
+   },
+   {
+    "q": "How much will Naveen pay after the discount?",
+    "o": [
+     "$96",
+     "$600",
+     "$640",
+     "$544"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Fifteen percent of 640 is 96, and 640 minus 96 is 544."
+   },
+   {
+    "q": "Why does Naveen refuse the two o’clock slot?",
+    "o": [
+     "He has to be at work in the afternoon",
+     "He would not finish loading in time to use the elevator booking",
+     "His friends are only free in the morning",
+     "He wants to avoid the highway traffic"
+    ],
+    "a": 1,
+    "cat": "intention",
+    "e": "The elevator booking ends at five, loading would run until four, and the drive takes twenty-five minutes."
+   },
+   {
+    "q": "What time will the movers arrive on Saturday?",
+    "o": [
+     "12:30",
+     "2:00",
+     "Morning, before noon",
+     "4:00"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Claire offers twelve-thirty with a full crew of three after the cancellation."
+   },
+   {
+    "q": "What does Claire expect Naveen to do before Saturday?",
+    "o": [
+     "Pay a deposit online",
+     "Label every box by room",
+     "Reserve the elevator again",
+     "Disconnect and drain the washing machine"
+    ],
+    "a": 3,
+    "cat": "implied",
+    "e": "She says the crew will not disconnect plumbing, so the washer must be unhooked and drained the night before."
+   }
+  ]
+ },
+ {
+  "id": "L1-3",
+  "part": 1,
+  "type": "Listening to Problem Solving",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "No lesson on Tuesday",
+  "context": "A mother calls a community centre because her daughter’s swimming class has been cancelled.",
+  "speakers": {
+   "I": {
+    "name": "Imani",
+    "voice": "f2"
+   },
+   "G": {
+    "name": "Greg",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "G",
+    "Eastside Community Centre, Greg speaking."
+   ],
+   [
+    "I",
+    "Hi Greg, this is Imani Okafor. I got a text this morning saying my daughter’s Level 3 swim class on Tuesdays is cancelled. Can you tell me what’s going on?"
+   ],
+   [
+    "G",
+    "Oh, yes, I’m sorry. The instructor took a full-time job at another pool and left last week. We’re still looking for a replacement, so we’ve had to cancel the Tuesday class for now."
+   ],
+   [
+    "I",
+    "So what are my options? I paid ninety-six dollars for the session."
+   ],
+   [
+    "G",
+    "Let me look. We have a Thursday class at five-fifteen with two spots left."
+   ],
+   [
+    "I",
+    "Thursday’s tricky. I work until five-thirty, and the drive here takes me about twenty minutes. She’d always be late."
+   ],
+   [
+    "G",
+    "Right. Then there’s Saturday at nine, but that one’s full. There’s a waiting list with three families on it, so I wouldn’t count on it."
+   ],
+   [
+    "I",
+    "Hmm. Anything on weekday evenings?"
+   ],
+   [
+    "G",
+    "Wednesday at six-fifteen. There’s one space. The catch is that class already had its first lesson, so she’d start one week behind."
+   ],
+   [
+    "I",
+    "That’s not a big deal, as long as she can catch up. Is the instructor good with beginners? She’s a bit nervous in the deep end."
+   ],
+   [
+    "G",
+    "Marcus is great with kids who are nervous. He’s been teaching here for six years. And to make up for the missed lesson, I can give her a free drop-in swim pass for a weekend."
+   ],
+   [
+    "I",
+    "Oh, that’s kind. Then let’s do Wednesday at six-fifteen."
+   ],
+   [
+    "G",
+    "Done. The fee stays the same, so you don’t pay anything extra. If you’d rather have a refund, that takes ten business days, but you’d lose the spot."
+   ],
+   [
+    "I",
+    "No, no, Wednesday is fine. Thanks for sorting it out so quickly."
+   ],
+   [
+    "G",
+    "My pleasure. You’ll get a confirmation email this afternoon."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why does Imani phone the community centre?",
+    "o": [
+     "She wants to ask about a refund policy",
+     "Her daughter’s regular class has been cancelled",
+     "She is registering her daughter for the first time",
+     "Her daughter was hurt in the pool"
+    ],
+    "a": 1,
+    "cat": "main",
+    "e": "She received a text saying the Tuesday Level 3 class was cancelled and asks what is going on."
+   },
+   {
+    "q": "Why was the Tuesday class cancelled?",
+    "o": [
+     "Too few children signed up",
+     "The pool is being repaired",
+     "The instructor is sick",
+     "The instructor accepted a job elsewhere"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Greg says the instructor took a full-time job at another pool and left."
+   },
+   {
+    "q": "Why can’t Imani use the Thursday class?",
+    "o": [
+     "She finishes work too late to get there on time",
+     "The class is already full",
+     "Her daughter has another lesson on Thursdays",
+     "The class is for a higher level"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Class is at five-fifteen, Imani works until five-thirty and needs twenty minutes to drive."
+   },
+   {
+    "q": "What does Greg suggest about the Saturday class?",
+    "o": [
+     "She should put her name down and expect a spot soon",
+     "It is the best choice for beginners",
+     "It is unlikely that she will get in",
+     "It is cheaper than the other classes"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "It is full with three families waiting, and he says “I wouldn’t count on it.”"
+   },
+   {
+    "q": "Why does Greg offer a free drop-in swim pass?",
+    "o": [
+     "To encourage her to bring friends",
+     "To compensate for a lesson her daughter will miss",
+     "To thank her for being patient with the centre",
+     "To replace the refund she is not receiving"
+    ],
+    "a": 1,
+    "cat": "intention",
+    "e": "He offers it “to make up for the missed lesson” because Wednesday’s class has already started."
+   },
+   {
+    "q": "What will Imani do?",
+    "o": [
+     "Wait for a Tuesday instructor to be hired",
+     "Ask for a refund in ten business days",
+     "Enrol her daughter in the Wednesday evening class",
+     "Take the Thursday class and arrive late"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "She says “let’s do Wednesday at six-fifteen” and turns down the refund."
+   }
+  ]
+ },
+ {
+  "id": "L1-4",
+  "part": 1,
+  "type": "Listening to Problem Solving",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "The connection that keeps dropping",
+  "context": "A small-business owner calls his internet provider about repeated outages.",
+  "speakers": {
+   "T": {
+    "name": "Tomasz",
+    "voice": "m"
+   },
+   "F": {
+    "name": "Fiona",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "F",
+    "Northlink Internet support, you’re speaking with Fiona."
+   ],
+   [
+    "T",
+    "Hi, Tomasz Wozniak here. My internet has been cutting out every evening between seven and nine for two weeks. A technician came on Tuesday, swapped my modem, and it dropped again last night. Frankly, I’m running out of patience."
+   ],
+   [
+    "F",
+    "I’m sorry, that’s frustrating. Let me look at your line history. Hmm, I can see the drops, and the signal readings show a lot of noise on the line outside your house, not inside it."
+   ],
+   [
+    "T",
+    "So the modem he replaced wasn’t the problem?"
+   ],
+   [
+    "F",
+    "Not the main one. Your old modem was about three years old and was throwing errors too, so the swap wasn’t a waste, but it wasn’t the root cause. I’d say the technician fixed a minor fault and missed the major one."
+   ],
+   [
+    "T",
+    "Wonderful. And what happens now?"
+   ],
+   [
+    "F",
+    "There’s a fault ticket open for your whole street. A repair crew is scheduled for Thursday, between eight and noon, but they’ll be working at the junction box, so you don’t need to be home."
+   ],
+   [
+    "T",
+    "I do bookkeeping for small businesses, and I have a tax filing deadline Friday. Evening outages are exactly when I do my uploads."
+   ],
+   [
+    "F",
+    "Understood. In the meantime, I can lend you a mobile hotspot at no charge. It comes with fifty gigabytes of data, and a courier can have it to you tomorrow before noon."
+   ],
+   [
+    "T",
+    "That helps. What about compensation? I’m paying eighty dollars a month for something that doesn’t work."
+   ],
+   [
+    "F",
+    "I can apply a twenty-five dollar credit right now. Anything beyond that has to be approved by a supervisor, so I’ll submit a request and note your business use. I can’t promise the outcome."
+   ],
+   [
+    "T",
+    "Fair enough, at least you’re honest about it. I’ll take the hotspot and the credit, and we’ll see what the supervisor says."
+   ],
+   [
+    "F",
+    "Thank you for your patience, Mr. Wozniak. You’ll get a text with the courier tracking number within the hour."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the main reason Tomasz is calling?",
+    "o": [
+     "An earlier repair did not stop recurring outages",
+     "He wants to cancel his service",
+     "He received a bill he does not understand",
+     "He needs help installing a new modem"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "Internet drops every evening for two weeks, and the modem swap did not fix it."
+   },
+   {
+    "q": "According to Fiona, what is causing the outages?",
+    "o": [
+     "A faulty modem inside his home",
+     "Too many devices on his network",
+     "Interference on the line outside his home",
+     "A planned upgrade by the company"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "She says the readings show noise on the line outside his house, not inside it."
+   },
+   {
+    "q": "What does Fiona suggest about the technician’s visit?",
+    "o": [
+     "It was unnecessary",
+     "It dealt with a smaller problem but not the main one",
+     "It caused the current outages",
+     "It solved the problem temporarily"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "She says the old modem was throwing errors too, so the swap wasn’t a waste, but it wasn’t the root cause."
+   },
+   {
+    "q": "What will Tomasz receive by tomorrow before noon?",
+    "o": [
+     "A $25 credit on his bill",
+     "A visit from a repair crew",
+     "A replacement modem",
+     "A mobile hotspot with 50 gigabytes of data"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Fiona offers a free hotspot with fifty gigabytes that a courier can deliver before noon tomorrow."
+   },
+   {
+    "q": "How does Tomasz feel at the end of the call?",
+    "o": [
+     "Completely satisfied with the outcome",
+     "Convinced the company is being dishonest",
+     "Determined to switch providers",
+     "Still unhappy but willing to cooperate"
+    ],
+    "a": 3,
+    "cat": "attitude",
+    "e": "He appreciates her honesty and accepts the hotspot and credit while waiting on the supervisor, though he began frustrated."
+   },
+   {
+    "q": "Why does Fiona say she “can’t promise the outcome”?",
+    "o": [
+     "The repair date might change",
+     "A larger credit needs a supervisor’s approval",
+     "The courier may be late",
+     "Business customers are not eligible for credits"
+    ],
+    "a": 1,
+    "cat": "intention",
+    "e": "She can apply twenty-five dollars herself, but anything more must be approved by a supervisor."
+   }
+  ]
+ },
+ {
+  "id": "L1-5",
+  "part": 1,
+  "type": "Listening to Problem Solving",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "A missed connection in Toronto",
+  "context": "A traveller speaks to an airline agent after arriving late for a connecting flight.",
+  "speakers": {
+   "Z": {
+    "name": "Zainab",
+    "voice": "f"
+   },
+   "O": {
+    "name": "Owen",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "O",
+    "Next in line, please. Hi there, how can I help?"
+   ],
+   [
+    "Z",
+    "Hi. I’m Zainab Rahimi. My flight from Winnipeg landed forty minutes late and I missed my connection to Halifax. I have a job interview at ten-thirty tomorrow morning downtown."
+   ],
+   [
+    "O",
+    "I’m sorry to hear that. Let me see what we can do. The delay was caused by a storm over Manitoba, so it’s weather-related. That affects what we can cover, but I’ll go through your options."
+   ],
+   [
+    "Z",
+    "Please."
+   ],
+   [
+    "O",
+    "Option one is tonight’s flight through Montreal, leaving at nine-forty and landing in Halifax at ten past midnight. I can confirm your seat. Option two is a direct flight tomorrow at six-thirty that gets in at nine."
+   ],
+   [
+    "Z",
+    "Nine is cutting it close. By the time I get my bag and take a taxi into the city, it’s nearly ten. If anything slips, I’m not there."
+   ],
+   [
+    "O",
+    "That’s a risk, yes. But there’s one thing about tonight’s route. With the tight connection in Montreal, your checked bag might not make the transfer, and it could arrive on the morning flight."
+   ],
+   [
+    "Z",
+    "Honestly, I can live with that. My interview outfit is in my carry-on. The suitcase is mostly clothes for the week."
+   ],
+   [
+    "O",
+    "In that case, I’d suggest tonight, too. If your suitcase does arrive late, we’ll deliver it to your hotel at no charge. Just give me the address."
+   ],
+   [
+    "Z",
+    "It’s the Harbour View on Barrington Street. Will the airline pay for the hotel tonight, since I’ll be arriving after midnight?"
+   ],
+   [
+    "O",
+    "I wish I could say yes. Because the delay was due to weather, which is outside our control, hotels aren’t covered. What I can do is give you a fifteen dollar meal voucher for the wait this evening. I know it’s not much."
+   ],
+   [
+    "Z",
+    "It’ll cover a sandwich. Thank you for being straightforward, Owen."
+   ],
+   [
+    "O",
+    "Of course. Here’s your boarding pass. Gate twenty-two, and boarding starts at nine-ten."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is Zainab’s problem?",
+    "o": [
+     "She missed a connecting flight because of a late arrival",
+     "Her luggage was lost in Winnipeg",
+     "She was given the wrong boarding pass",
+     "Her flight to Halifax was cancelled"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "Her flight landed forty minutes late and she missed the connection to Halifax."
+   },
+   {
+    "q": "What risk does Owen mention about tonight’s flight?",
+    "o": [
+     "Her suitcase might not arrive at the same time as she does",
+     "The flight might be overbooked",
+     "Her seat could be given away",
+     "The plane might leave late"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "He says the checked bag might miss the tight transfer in Montreal and come on the morning flight."
+   },
+   {
+    "q": "Why does Zainab prefer tonight’s flight?",
+    "o": [
+     "It lands earlier in the city",
+     "It is a direct flight",
+     "The morning flight leaves too little time before her interview",
+     "It includes a hotel voucher"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "Landing at nine would mean nearly ten by the time she gets to the city, which is too close to ten-thirty."
+   },
+   {
+    "q": "Why does Owen mention the storm?",
+    "o": [
+     "To warn her that tonight’s flight may be delayed",
+     "To apologise for the airline’s mistake",
+     "To explain why the airline will not pay for her hotel",
+     "To persuade her to take the morning flight"
+    ],
+    "a": 2,
+    "cat": "intention",
+    "e": "He says weather is outside their control, so hotels are not covered."
+   },
+   {
+    "q": "How would you describe Owen’s manner?",
+    "o": [
+     "Impatient and dismissive",
+     "Sympathetic but firm about company policy",
+     "Casual and unconcerned",
+     "Uncertain about the rules"
+    ],
+    "a": 1,
+    "cat": "attitude",
+    "e": "He says “I wish I could say yes” and apologises, yet does not offer the hotel."
+   },
+   {
+    "q": "What will happen if Zainab’s suitcase arrives late?",
+    "o": [
+     "She must collect it at the airport",
+     "The airline will refund the baggage fee",
+     "It will be sent to her home address",
+     "It will be delivered to her hotel free of charge"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Owen says they will deliver it to her hotel at no charge."
+   }
+  ]
+ },
+ {
+  "id": "L2-2",
+  "part": 2,
+  "type": "Listening to a Daily Life Conversation",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "Thanksgiving for the stranded",
+  "context": "Two friends plan a Thanksgiving dinner for people who cannot travel home.",
+  "speakers": {
+   "J": {
+    "name": "Jasmine",
+    "voice": "f"
+   },
+   "L": {
+    "name": "Luis",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "L",
+    "So, are we really doing this? Thanksgiving dinner for everybody who can’t go home?"
+   ],
+   [
+    "J",
+    "I think so. I counted last night. Dev, Priyanka, Mei, Tyler, Ana and her cousin who just moved here, plus the two of us."
+   ],
+   [
+    "L",
+    "That’s eight. Okay. Where are we cooking? My oven is tiny."
+   ],
+   [
+    "J",
+    "Mine, definitely. I’ll host it at five on Sunday. My dining table only seats six, though, so we’ll borrow two chairs from my neighbour."
+   ],
+   [
+    "L",
+    "Good plan. What about the turkey? A whole one is too much for eight people."
+   ],
+   [
+    "J",
+    "Yeah, the smallest one at the store is twelve pounds. I was thinking turkey breast instead. It cooks faster, too."
+   ],
+   [
+    "L",
+    "Done, I’ll order it from the butcher on Fifth Avenue. But Dev’s vegetarian."
+   ],
+   [
+    "J",
+    "He said he’ll bring a lentil loaf, and honestly, it’s better than most turkeys. Priyanka can’t eat gluten, so she’s bringing the mashed potatoes and a gravy made with cornstarch."
+   ],
+   [
+    "L",
+    "Smart. Dessert?"
+   ],
+   [
+    "J",
+    "Mei’s making an apple crisp, and I’ll buy a pumpkin pie. I tried baking one last year and the crust was like cardboard."
+   ],
+   [
+    "L",
+    "Ha, I remember. Then I’ll bring drinks and take care of the cleanup afterwards. I’m better at washing dishes than cooking anyway."
+   ],
+   [
+    "J",
+    "You’re a lifesaver. Oh, and can you make a playlist? Nothing too loud, just background music."
+   ],
+   [
+    "L",
+    "Sure. Jazz?"
+   ],
+   [
+    "J",
+    "Perfect."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What are Jasmine and Luis mainly discussing?",
+    "o": [
+     "Where to spend the holiday weekend",
+     "How to cook a turkey",
+     "A trip to see their families",
+     "Plans for a holiday dinner with friends"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "They are arranging a Thanksgiving dinner for people who can’t go home."
+   },
+   {
+    "q": "How many people will be at dinner?",
+    "o": [
+     "Eight",
+     "Six",
+     "Seven",
+     "Ten"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Six friends plus Jasmine and Luis make eight, and Luis confirms “That’s eight.”"
+   },
+   {
+    "q": "Why will they cook a turkey breast rather than a whole turkey?",
+    "o": [
+     "The butcher has no whole turkeys",
+     "A whole bird would be too big for the group",
+     "Luis’s oven is too small",
+     "Dev prefers it"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Luis says a whole turkey is too much for eight, and the smallest is twelve pounds."
+   },
+   {
+    "q": "What can be inferred about Jasmine’s baking?",
+    "o": [
+     "She enjoys baking desserts for friends",
+     "She is allergic to wheat",
+     "She does not trust herself to make a good pie",
+     "She has never used her oven"
+    ],
+    "a": 2,
+    "cat": "implied",
+    "e": "She says she’ll buy a pie because last year’s crust was like cardboard."
+   },
+   {
+    "q": "What will Luis be responsible for?",
+    "o": [
+     "Drinks, dishes and music",
+     "The main course and dessert",
+     "Chairs and decorations",
+     "Mashed potatoes and gravy"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "He offers to bring drinks and do the cleanup, and he will make a playlist."
+   }
+  ]
+ },
+ {
+  "id": "L2-3",
+  "part": 2,
+  "type": "Listening to a Daily Life Conversation",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "What do you buy for Grandma?",
+  "context": "A brother and sister talk about a gift for their grandmother’s eightieth birthday.",
+  "speakers": {
+   "M": {
+    "name": "Mei",
+    "voice": "f2"
+   },
+   "C": {
+    "name": "Carlos",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "C",
+    "Okay, so Grandma’s birthday is in three weeks. Have you thought about what to get her?"
+   ],
+   [
+    "M",
+    "Kind of. I was thinking a tablet, so she can video-call us. She keeps complaining that she never sees the kids."
+   ],
+   [
+    "C",
+    "Hmm. I’m not sure. She still has trouble with her phone. Last time I called, she accidentally hung up twice."
+   ],
+   [
+    "M",
+    "True. But the new ones have really big buttons. Mom said they cost around two hundred and fifty dollars."
+   ],
+   [
+    "C",
+    "That’s a lot if she never uses it. What about something personal? I found those old slides from Grandpa’s trip to Newfoundland in the garage. I could have them turned into a digital photo album."
+   ],
+   [
+    "M",
+    "Oh, I love that. She’d cry. How much would that cost?"
+   ],
+   [
+    "C",
+    "A shop on Queen Street does it for about a dollar fifty a slide. There are around eighty slides. So that’s one hundred and twenty dollars."
+   ],
+   [
+    "M",
+    "Okay, that’s cheaper than the tablet. And honestly, a bit more thoughtful."
+   ],
+   [
+    "C",
+    "Right, but she can’t really use a USB stick either. We’d need a digital picture frame to show them."
+   ],
+   [
+    "M",
+    "There you go, so we could get the frame as well. It’s about eighty dollars. Together that’s two hundred, still under the tablet."
+   ],
+   [
+    "C",
+    "Perfect, and we split it. One hundred each."
+   ],
+   [
+    "M",
+    "Deal. Should we tell Mom?"
+   ],
+   [
+    "C",
+    "Not yet. She can’t keep a secret. She’d tell Grandma by Friday."
+   ],
+   [
+    "M",
+    "You’re not wrong. Let’s keep it between us until the party."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What are Mei and Carlos trying to decide?",
+    "o": [
+     "Where to hold a party",
+     "What to give their grandmother",
+     "Who should call their grandmother",
+     "How to organize old photographs"
+    ],
+    "a": 1,
+    "cat": "main",
+    "e": "They are discussing birthday gift ideas for their grandmother."
+   },
+   {
+    "q": "Why is Carlos unsure about the tablet?",
+    "o": [
+     "It is too expensive for a gift",
+     "She already owns one",
+     "Their grandmother struggles with technology",
+     "Mom disagrees with the idea"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "He says she has trouble with her phone and hung up twice, and he worries she won’t use it."
+   },
+   {
+    "q": "How much will the slide-scanning cost?",
+    "o": [
+     "$80",
+     "$150",
+     "$200",
+     "$120"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "About eighty slides at a dollar fifty each is one hundred and twenty dollars."
+   },
+   {
+    "q": "Why do they decide to buy a digital frame?",
+    "o": [
+     "Their grandmother cannot use a USB stick",
+     "The frame is cheaper than a tablet",
+     "The slides are too fragile to display",
+     "She asked for one"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Carlos says she can’t use a USB stick, so they need a frame to show the photos."
+   },
+   {
+    "q": "Why do they keep the plan from their mother?",
+    "o": [
+     "She would object to the cost",
+     "She has already bought something similar",
+     "They think she would give away the surprise",
+     "She wants to pay for it herself"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "Carlos says she can’t keep a secret and would tell Grandma by Friday."
+   }
+  ]
+ },
+ {
+  "id": "L2-4",
+  "part": 2,
+  "type": "Listening to a Daily Life Conversation",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "The open-concept experiment",
+  "context": "Two coworkers talk during a break about their office’s new open layout.",
+  "speakers": {
+   "G": {
+    "name": "Gordon",
+    "voice": "m"
+   },
+   "B": {
+    "name": "Beth",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "B",
+    "So, week two of the open-concept experiment. How are you holding up?"
+   ],
+   [
+    "G",
+    "Let’s say I’ve learned more about Raj’s lunch than I ever wanted to. Yesterday it was curry, and the whole floor knew by eleven."
+   ],
+   [
+    "B",
+    "Ha. To be fair, I’ve noticed fewer emails and more people just walking over to ask questions. Yesterday I solved a problem with accounting in two minutes. Normally that would’ve been three days of back and forth."
+   ],
+   [
+    "G",
+    "That part I’ll give them. The collaboration is real. But I can’t concentrate. I’ve started coming in at seven-thirty, just to get quiet time before everyone arrives."
+   ],
+   [
+    "B",
+    "Wow, that’s early. I thought management said they’d set up quiet rooms."
+   ],
+   [
+    "G",
+    "They did, four of them, for sixty people. By nine-thirty they’re all booked, and people are using them for phone calls, not for focused work."
+   ],
+   [
+    "B",
+    "So maybe the real problem isn’t the layout, it’s the number of rooms."
+   ],
+   [
+    "G",
+    "Maybe. Though I’m not convinced more rooms would fix it. If you need a room for half the day, what was the point of removing the walls?"
+   ],
+   [
+    "B",
+    "Okay, that’s fair. Though the company did save money. They gave up the second floor, didn’t they?"
+   ],
+   [
+    "G",
+    "Yes, which is exactly why I suspect this was never about collaboration. It’s about rent."
+   ],
+   [
+    "B",
+    "You might be right. But I’m trying to keep an open mind. Management said they’ll review it in three months, and they’re sending a survey next week."
+   ],
+   [
+    "G",
+    "A survey. Great. I’ll fill it out honestly, though I doubt it changes anything."
+   ],
+   [
+    "B",
+    "Well, the least we can do is say clearly what isn’t working. Maybe suggest headphone zones and a no-calls area?"
+   ],
+   [
+    "G",
+    "Now that’s a good idea. Send me that in writing, and I’ll back you up."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is Gordon’s main complaint about the new office?",
+    "o": [
+     "It is difficult to concentrate",
+     "Meetings take too long",
+     "Lunch is not allowed at desks",
+     "There are too many emails"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "He says he can’t concentrate and arrives early for quiet time."
+   },
+   {
+    "q": "Which benefit of the new layout does Beth mention?",
+    "o": [
+     "She enjoys the noise of the office",
+     "She sits next to her friends",
+     "The office looks more modern",
+     "She can resolve questions faster in person"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "She solved a problem with accounting in two minutes that would have taken three days by email."
+   },
+   {
+    "q": "Why does Gordon say the quiet rooms are not helping?",
+    "o": [
+     "They are too small to work in",
+     "They are used up early, and often for calls",
+     "Few employees know about them",
+     "They are on a different floor"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "He says they are booked by nine-thirty and used for phone calls rather than focused work."
+   },
+   {
+    "q": "What does Gordon suspect about the company’s motive?",
+    "o": [
+     "It wanted to monitor employees",
+     "It expected productivity to rise",
+     "Saving on rent was the real reason for the change",
+     "It planned to hire more staff"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "He says the company gave up the second floor and “it’s about rent.”"
+   },
+   {
+    "q": "What is Beth’s attitude toward the change?",
+    "o": [
+     "Strongly opposed",
+     "Cautiously open-minded",
+     "Completely enthusiastic",
+     "Indifferent"
+    ],
+    "a": 1,
+    "cat": "attitude",
+    "e": "She says she is trying to keep an open mind and suggests constructive improvements."
+   }
+  ]
+ },
+ {
+  "id": "L2-5",
+  "part": 2,
+  "type": "Listening to a Daily Life Conversation",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "A dog in a rental?",
+  "context": "Two friends discuss whether one of them should adopt a dog.",
+  "speakers": {
+   "O": {
+    "name": "Olivia",
+    "voice": "f"
+   },
+   "K": {
+    "name": "Kwame",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "O",
+    "Okay, tell me honestly. Am I being ridiculous? I’ve been looking at the shelter’s website every night this week."
+   ],
+   [
+    "K",
+    "Not ridiculous. Though you did say in March that you’d never have time for a pet."
+   ],
+   [
+    "O",
+    "I know, I know. But since I started working from home three days a week, the apartment feels so quiet. There’s a beagle called Biscuit who looks like she needs a home."
+   ],
+   [
+    "K",
+    "Biscuit. Of course. Well, what does your landlord say? I thought your lease said no pets."
+   ],
+   [
+    "O",
+    "It said no dogs over twenty-five pounds. Biscuit’s twenty-two. I checked twice."
+   ],
+   [
+    "K",
+    "Fine, that’s clever. But what about the other two days, when you’re in the office? Beagles don’t love being left alone for nine hours."
+   ],
+   [
+    "O",
+    "That’s my worry. There’s a dog walker in my building who charges forty dollars a visit. If I use her both office days, that’s eighty dollars a week, which I didn’t even think about until you asked."
+   ],
+   [
+    "K",
+    "Plus food, vet bills, a deposit. It adds up. I’m not trying to talk you out of it, but my sister adopted a puppy last year and she says the first two months were a lot harder than she expected."
+   ],
+   [
+    "O",
+    "Biscuit isn’t a puppy. She’s four, already house-trained, and the shelter says she’s calm."
+   ],
+   [
+    "K",
+    "That does change things. Have you thought about fostering first? Some shelters let you try it for a couple of weeks."
+   ],
+   [
+    "O",
+    "Actually, I hadn’t. That’s a smart idea. If it doesn’t work, nobody gets hurt, least of all the dog."
+   ],
+   [
+    "K",
+    "Exactly. I’d do that before signing anything."
+   ],
+   [
+    "O",
+    "You’re right. I’ll ask about it tomorrow. Honestly, I think I just needed someone to say the sensible thing out loud."
+   ],
+   [
+    "K",
+    "Happy to be the sensible one. You can buy me coffee for it."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is Olivia’s main reason for wanting a dog?",
+    "o": [
+     "She wants to exercise more",
+     "Her family is encouraging her",
+     "She is in a pet-friendly building",
+     "She feels lonely at home since working remotely"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "She says the apartment feels quiet since she started working from home three days a week."
+   },
+   {
+    "q": "Why does Olivia believe she can have Biscuit in her apartment?",
+    "o": [
+     "The landlord gave verbal permission",
+     "The lease does not mention pets",
+     "The lease only bans dogs over 25 pounds",
+     "She will keep the dog at a friend’s place"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "She says the lease prohibits dogs over twenty-five pounds, and Biscuit weighs twenty-two."
+   },
+   {
+    "q": "How much would the dog walker cost each week?",
+    "o": [
+     "$40",
+     "$80",
+     "$120",
+     "$160"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Forty dollars a visit on both office days comes to eighty dollars a week."
+   },
+   {
+    "q": "Why does Kwame mention his sister’s experience?",
+    "o": [
+     "To recommend a particular breed",
+     "To talk Olivia out of adopting at all",
+     "To suggest Olivia ask her for advice",
+     "To caution Olivia that early months can be harder than expected"
+    ],
+    "a": 3,
+    "cat": "intention",
+    "e": "His sister found the first two months much harder than expected, and he says he is not trying to talk Olivia out of it."
+   },
+   {
+    "q": "What does Olivia decide to do?",
+    "o": [
+     "Ask the shelter about fostering Biscuit first",
+     "Adopt Biscuit immediately",
+     "Hire a dog walker for five days a week",
+     "Wait until she finds a larger apartment"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "She calls fostering “a smart idea” and says she will ask about it tomorrow."
+   }
+  ]
+ },
+ {
+  "id": "L3-2",
+  "part": 3,
+  "type": "Listening for Information",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "A message from the dental office",
+  "context": "A receptionist leaves a voicemail about a changed appointment.",
+  "speakers": {
+   "H": {
+    "name": "Harpreet",
+    "voice": "f"
+   }
+  },
+  "script": [
+   [
+    "H",
+    "Hello, this message is for Mr. Ellis. It’s Harpreet calling from Brightsmile Dental on Maple Street. I’m calling because Dr. Chen has been called away to a training course on Thursday, so we have to move your cleaning appointment. It was booked for Thursday the sixth at nine-thirty in the morning."
+   ],
+   [
+    "H",
+    "The earliest new time we have is Friday the seventh at two-fifteen in the afternoon. The cleaning takes about forty-five minutes, and our office closes at five on Fridays, so there’s plenty of time."
+   ],
+   [
+    "H",
+    "Please arrive ten minutes early, because we’ll need to update your forms. And don’t forget to bring your insurance card. Your plan covers the cleaning, but we do need to see the card. If you’ve changed jobs or insurance since your last visit, please tell us when you arrive."
+   ],
+   [
+    "H",
+    "If Friday doesn’t work for you, no problem. Just call us back at six-oh-four, five-five-five, oh-one-four-eight, and we’ll find another day. We’re open Monday to Friday, eight to five. Please let us know by noon on Wednesday, because after that we’ll hold the Friday time for you and it will count as a missed appointment. There’s a fifty dollar fee for missed appointments with less than a day’s notice."
+   ],
+   [
+    "H",
+    "We’re sorry for the inconvenience. Thanks very much, Mr. Ellis, and have a good day."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "Why is Harpreet calling Mr. Ellis?",
+    "o": [
+     "To confirm a booking he made yesterday",
+     "To ask him to pay a bill",
+     "To reschedule his appointment",
+     "To tell him about a new dentist"
+    ],
+    "a": 2,
+    "cat": "main",
+    "e": "She says the dentist is away, so the Thursday cleaning has to be moved."
+   },
+   {
+    "q": "When is Mr. Ellis’s new appointment?",
+    "o": [
+     "Thursday at 9:30 a.m.",
+     "Friday at 2:15 p.m.",
+     "Friday at 9:30 a.m.",
+     "Monday at 2:15 p.m."
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "She gives Friday the seventh at two-fifteen in the afternoon."
+   },
+   {
+    "q": "What time should Mr. Ellis arrive at the office?",
+    "o": [
+     "2:00 p.m.",
+     "2:15 p.m.",
+     "1:30 p.m.",
+     "2:05 p.m."
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "She asks him to arrive ten minutes early, which is 2:05."
+   },
+   {
+    "q": "By when must Mr. Ellis tell the office if the new time does not work?",
+    "o": [
+     "Noon on Wednesday",
+     "Five o’clock on Thursday",
+     "Noon on Friday",
+     "Eight o’clock on Monday"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "She says to let them know by noon on Wednesday."
+   },
+   {
+    "q": "Why was the original appointment cancelled?",
+    "o": [
+     "The office is closing for a holiday",
+     "The dentist will be at a training course",
+     "The cleaning equipment is broken",
+     "Mr. Ellis’s insurance expired"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Dr. Chen has been called away to a training course on Thursday."
+   }
+  ]
+ },
+ {
+  "id": "L3-3",
+  "part": 3,
+  "type": "Listening for Information",
+  "difficulty": "Intermediate",
+  "replays": 2,
+  "title": "All aboard at Millbrook",
+  "context": "A guide welcomes visitors before a ride on a heritage steam train.",
+  "speakers": {
+   "G": {
+    "name": "Rosa",
+    "voice": "f2"
+   }
+  },
+  "script": [
+   [
+    "G",
+    "Good morning, everyone, and welcome to the Millbrook Heritage Railway. I’m Rosa, and I’ll be your guide today. Before we board, let me explain how the day works."
+   ],
+   [
+    "G",
+    "Our locomotive, Number Seventeen, was built in 1912, and she’s still burning coal. The ride covers fourteen kilometres out to Cedar Bridge and back, and the whole trip takes fifty minutes. Trains leave the station every hour, on the hour, starting at ten. The last departure is at four o’clock."
+   ],
+   [
+    "G",
+    "If you haven’t bought tickets yet, adults are twenty-two dollars, and children from four to eleven are twelve dollars. Children under four ride free. We also have a family pack for four people, up to two adults and two children, for sixty dollars. Tickets are sold at the window beside the gift shop, and we take cards, but cash is welcome too."
+   ],
+   [
+    "G",
+    "A few safety notes. Please stay seated while the train is moving, and keep your arms and heads inside the windows. The steam engine produces sparks and smoke, so we’ve asked everyone to keep windows closed in the tunnel, which is about two minutes in."
+   ],
+   [
+    "G",
+    "At Cedar Bridge, we stop for five minutes. That’s the best place to take photos, and you’re welcome to step out onto the platform. Please don’t wander past the yellow line, and listen for the whistle when it’s time to get back on."
+   ],
+   [
+    "G",
+    "After the ride, the museum in the station building is open until five. Admission is free for ticket holders, and there’s a short film every half hour about how the railway was built. Now, if you’ll follow me, we’ll head to platform one. Enjoy the ride."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the guide mainly doing?",
+    "o": [
+     "Explaining how the visit will work",
+     "Selling tickets to visitors",
+     "Telling the history of the locomotive in detail",
+     "Warning visitors about dangers on the track"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "She says she’ll explain how the day works and covers schedule, prices, safety and the museum."
+   },
+   {
+    "q": "How long does the train ride take?",
+    "o": [
+     "14 minutes",
+     "35 minutes",
+     "One hour and ten minutes",
+     "50 minutes"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "She says the whole trip takes fifty minutes."
+   },
+   {
+    "q": "How much does a family with two adults and two children aged 7 and 10 save by buying the family pack?",
+    "o": [
+     "$4",
+     "$12",
+     "$8",
+     "$68"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Individual tickets would cost 22 + 22 + 12 + 12 = 68 dollars; the pack costs 60, so they save 8."
+   },
+   {
+    "q": "When does the last train leave?",
+    "o": [
+     "3:00 p.m.",
+     "4:00 p.m.",
+     "5:00 p.m.",
+     "Hourly until noon"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Trains leave on the hour, and the last departure is at four o’clock."
+   },
+   {
+    "q": "Where may passengers get off the train to take photos?",
+    "o": [
+     "At Cedar Bridge",
+     "Inside the tunnel",
+     "At the museum only",
+     "Anywhere the train slows down"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "At Cedar Bridge the train stops for five minutes and visitors may step onto the platform for photos."
+   }
+  ]
+ },
+ {
+  "id": "L3-4",
+  "part": 3,
+  "type": "Listening for Information",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "Winter term at Harbourview College",
+  "context": "A college staff member makes an announcement to students about registration and parking.",
+  "speakers": {
+   "S": {
+    "name": "Ms. Adeyemi",
+    "voice": "f"
+   }
+  },
+  "script": [
+   [
+    "S",
+    "Good afternoon, students. This is Ms. Adeyemi in Student Services with some important updates for the winter term. Please listen carefully, because there’s been a correction."
+   ],
+   [
+    "S",
+    "First, registration. Last week’s email said registration opens for everyone on November fourth. That was a mistake. Registration is staggered. Students who have completed sixty or more credits can register starting November third. Students with thirty to fifty-nine credits can register on November fifth. Everyone else, including first-year students, can register on November seventh. Registration closes on December fifteenth, which is also when tuition is due. If you need a payment plan, apply before December first. There’s a seventy-five dollar late fee after the fifteenth."
+   ],
+   [
+    "S",
+    "Second, parking. Lot C will be closed for construction from November twentieth until the end of January. Permits for lot C remain valid, but they’ll be honoured in lot F, which is behind the sports centre. A shuttle will run between lot F and the main entrance every twelve minutes, from seven in the morning until nine at night. Allow an extra fifteen minutes on your first few days."
+   ],
+   [
+    "S",
+    "Third, the library will stay open until midnight from December fourth to December eighteenth for exam preparation. Normal hours resume on the nineteenth."
+   ],
+   [
+    "S",
+    "Finally, academic advisors hold drop-in hours on Tuesdays and Thursdays from one to four, no appointment needed. If you’re unsure which courses to take, I’d strongly recommend you go before your registration date rather than after, since popular classes fill quickly."
+   ],
+   [
+    "S",
+    "That’s everything for now. Thank you, and good luck with your registration."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the main purpose of the announcement?",
+    "o": [
+     "To announce a change in tuition fees",
+     "To share updates about registration, parking and library hours",
+     "To warn students about a construction accident",
+     "To introduce new academic advisors"
+    ],
+    "a": 1,
+    "cat": "main",
+    "e": "She covers registration dates, lot C parking, library hours and advising."
+   },
+   {
+    "q": "Which students may register first?",
+    "o": [
+     "Those with 60 or more credits",
+     "First-year students",
+     "Students with 30 to 59 credits",
+     "Students who applied for a payment plan"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Students with sixty or more credits can register starting November third."
+   },
+   {
+    "q": "When can a student with 45 credits register?",
+    "o": [
+     "November 4",
+     "November 7",
+     "December 15",
+     "November 3"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Forty-five falls in the thirty to fifty-nine group, which registers on November fifth."
+   },
+   {
+    "q": "Why does Ms. Adeyemi mention last week’s email?",
+    "o": [
+     "To remind students of the deadline to pay tuition",
+     "To announce that registration has been postponed",
+     "To explain that it contained an error",
+     "To tell students to read it again"
+    ],
+    "a": 2,
+    "cat": "intention",
+    "e": "She says the date of November fourth in the email was a mistake and then gives the correct staggered dates."
+   },
+   {
+    "q": "What should a student with a lot C permit do after November 20?",
+    "o": [
+     "Buy a new permit for lot F",
+     "Park on the street near the main entrance",
+     "Park in lot F and use the shuttle",
+     "Take the shuttle from lot C"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Lot C permits are honoured in lot F, with a shuttle to the main entrance."
+   }
+  ]
+ },
+ {
+  "id": "L3-5",
+  "part": 3,
+  "type": "Listening for Information",
+  "difficulty": "Advanced",
+  "replays": 2,
+  "title": "Riverton’s new collection schedule",
+  "context": "A recorded information line explains changes to the city’s garbage and recycling service.",
+  "speakers": {
+   "V": {
+    "name": "Recording",
+    "voice": "m"
+   }
+  },
+  "script": [
+   [
+    "V",
+    "You’ve reached the City of Riverton Waste Services information line. This message explains changes to household collection that begin Monday, January twelfth."
+   ],
+   [
+    "V",
+    "Under the new schedule, organics, that’s your green bin, will be collected every week instead of every second week. Garbage and recycling will now alternate. If recycling is collected this week, garbage will be collected next week, so each is picked up once every two weeks. The reason for the change is that food scraps make up nearly half of what households throw away, and the city aims to keep seventy percent of waste out of the landfill by the year 2030."
+   ],
+   [
+    "V",
+    "Because garbage pickup will be less frequent, please note the limits. Each household may put out one garbage bin of up to one hundred and twenty litres. Extra bags are accepted only with a three-dollar tag, which you can buy at any library or community centre."
+   ],
+   [
+    "V",
+    "Bulky items such as couches and mattresses are collected on request. Each household receives two free pickups a year, and you must book at least five working days ahead. A third pickup costs twenty-five dollars."
+   ],
+   [
+    "V",
+    "Collectors will check bins. If a bin contains items that don’t belong, such as plastic bags in the green bin, they’ll leave a tag explaining the problem and won’t empty it. You can remove the items and put the bin out again on your next scheduled day."
+   ],
+   [
+    "V",
+    "When a holiday falls between Monday and Friday, collection moves to the next day for the rest of that week, so Friday pickups shift to Saturday."
+   ],
+   [
+    "V",
+    "To look up your schedule, visit the city website or press two now. To speak to a representative, press three. Our staff are available weekdays, eight to four-thirty."
+   ]
+  ],
+  "questions": [
+   {
+    "q": "What is the purpose of this recording?",
+    "o": [
+     "To announce the cancellation of garbage collection",
+     "To advertise a new recycling programme",
+     "To report a delay caused by a holiday",
+     "To explain upcoming changes to waste collection"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "It opens by saying it explains changes to household collection starting January twelfth."
+   },
+   {
+    "q": "After January 12, how often will garbage be collected?",
+    "o": [
+     "Every week",
+     "Every second month",
+     "Once every two weeks",
+     "Twice a week"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Garbage and recycling alternate, so each is collected once every two weeks."
+   },
+   {
+    "q": "Why is the city making these changes?",
+    "o": [
+     "To reduce the amount of waste sent to landfill",
+     "To save money on collection trucks",
+     "To charge more for extra garbage",
+     "To make collection days easier to remember"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Food scraps are nearly half of household waste, and the city aims to keep seventy percent out of the landfill by 2030."
+   },
+   {
+    "q": "A household has already used its two free bulky pickups. What is required for a third?",
+    "o": [
+     "Buying a $3 tag and booking two days ahead",
+     "Booking five working days ahead and paying $25",
+     "Waiting until the next year",
+     "Paying $25 with no advance booking"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Each household gets two free pickups, booked five working days ahead, and a third costs twenty-five dollars."
+   },
+   {
+    "q": "What will collectors do if the green bin holds plastic bags?",
+    "o": [
+     "Empty it and charge a fee",
+     "Empty it and leave a warning",
+     "Take the bin away",
+     "Leave a tag and not empty the bin"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "Items that don’t belong, such as plastic bags in the green bin, lead to a tag and an unemptied bin."
+   }
+  ]
+ }
+]

@@ -1,0 +1,363 @@
+// Pra-Win data model.
+// Uses Prisma's engine-free client ("client" engine) with the node-postgres driver adapter.
+
+generator client {
+  provider   = "prisma-client-js"
+  engineType = "client"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Skill {
+  LISTENING
+  READING
+  WRITING
+  SPEAKING
+}
+
+enum Difficulty {
+  INTERMEDIATE
+  ADVANCED
+  EXPERT
+}
+
+enum VocabStatus {
+  NEW
+  LEARNING
+  REVIEW
+  MASTERED
+}
+
+enum MockKind {
+  FULL
+  SECTION
+  CUSTOM
+}
+
+enum AttemptStatus {
+  IN_PROGRESS
+  COMPLETED
+  ABANDONED
+}
+
+enum SubmissionStatus {
+  DRAFT
+  SUBMITTED
+  EVALUATED
+}
+
+enum EvalMode {
+  AI
+  DEMO
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  name         String?
+  passwordHash String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  profile          UserProfile?
+  goals            LearningGoal[]
+  attempts         PracticeAttempt[]
+  mockAttempts     MockTestAttempt[]
+  writing          WritingSubmission[]
+  speaking         SpeakingSubmission[]
+  vocabProgress    UserVocabularyProgress[]
+  achievements     UserAchievement[]
+  dailyActivities  DailyActivity[]
+  studyPlan        StudyPlan?
+}
+
+model UserProfile {
+  id          String   @id @default(cuid())
+  userId      String   @unique
+  displayName String?
+  xp          Int      @default(0)
+  theme       String   @default("system")
+  ttsRate     Float    @default(1)
+  aiMode      String   @default("auto") // "auto" | "demo"
+  timezone    String   @default("America/Toronto")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}
+
+model LearningGoal {
+  id             String    @id @default(cuid())
+  userId         String
+  targetScore    Int       @default(12)
+  examDate       DateTime?
+  dailyMinutes   Int       @default(45)
+  weeklyGoalDays Int       @default(5)
+  active         Boolean   @default(true)
+  createdAt      DateTime  @default(now())
+  updatedAt      DateTime  @updatedAt
+  user           User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, active])
+}
+
+model Exercise {
+  id            String     @id @default(cuid())
+  slug          String     @unique
+  skill         Skill
+  taskType      String
+  part          Int
+  title         String
+  context       String?
+  difficulty    Difficulty @default(ADVANCED)
+  timeLimitSec  Int?
+  maxPlays      Int?
+  // Listening: { speakers, lines }. Reading: { paragraphs, labeled, diagram, comment, instructions }
+  // Writing/speaking: task configuration (prompt, word range, prep/speak seconds, options...)
+  script        Json?
+  passage       Json?
+  config        Json?
+  audioUrl      String?
+  published     Boolean    @default(true)
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+
+  questions     Question[]
+  attempts      PracticeAttempt[]
+  writing       WritingSubmission[]
+  speaking      SpeakingSubmission[]
+
+  @@index([skill, part])
+}
+
+model Question {
+  id               String         @id @default(cuid())
+  exerciseId       String
+  order            Int
+  skill            Skill
+  taskType         String
+  difficulty       Difficulty     @default(ADVANCED)
+  text             String
+  category         String
+  explanation      String
+  estimatedSeconds Int            @default(45)
+  // Audio and passage references resolve through the parent exercise (audioUrl / script / passage).
+  exercise         Exercise       @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+  options          AnswerOption[]
+
+  @@unique([exerciseId, order])
+  @@index([skill, category])
+}
+
+model AnswerOption {
+  id         String   @id @default(cuid())
+  questionId String
+  order      Int
+  label      String
+  text       String
+  isCorrect  Boolean  @default(false)
+  question   Question @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([questionId, order])
+}
+
+model PracticeAttempt {
+  id             String   @id @default(cuid())
+  userId         String
+  exerciseId     String
+  skill          Skill
+  taskType       String
+  correct        Int
+  total          Int
+  percent        Int
+  estimatedLevel Int
+  durationSec    Int
+  xpAwarded      Int      @default(0)
+  // { [questionId]: optionId } and { [category]: [correct, total] }
+  answers        Json
+  categories     Json
+  fromMock       Boolean  @default(false)
+  createdAt      DateTime @default(now())
+  user           User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exercise       Exercise @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+  @@index([userId, skill])
+  @@index([userId, exerciseId])
+}
+
+model MockTest {
+  id          String            @id @default(cuid())
+  slug        String            @unique
+  name        String
+  kind        MockKind
+  description String
+  // Ordered sections: [{ skill, exerciseSlugs?: string[], writingTasks?: number[], speakingTasks?: number[] }]
+  sections    Json
+  createdAt   DateTime          @default(now())
+  attempts    MockTestAttempt[]
+}
+
+model MockTestAttempt {
+  id             String        @id @default(cuid())
+  userId         String
+  mockTestId     String?
+  kind           MockKind
+  label          String
+  status         AttemptStatus @default(IN_PROGRESS)
+  // Resolved plan: [{ skill, items: string[] }] of exercise ids
+  plan           Json
+  untimed        Boolean       @default(false)
+  results        Json?
+  overallLevel   Int?
+  listeningLevel Int?
+  readingLevel   Int?
+  writingLevel   Int?
+  speakingLevel  Int?
+  evalMode       EvalMode?
+  durationSec    Int?
+  xpAwarded      Int           @default(0)
+  startedAt      DateTime      @default(now())
+  completedAt    DateTime?
+  user           User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  mockTest       MockTest?     @relation(fields: [mockTestId], references: [id], onDelete: SetNull)
+
+  @@index([userId, startedAt])
+}
+
+model WritingSubmission {
+  id             String           @id @default(cuid())
+  userId         String
+  exerciseId     String
+  status         SubmissionStatus @default(DRAFT)
+  text           String
+  wordCount      Int              @default(0)
+  textHash       String?
+  durationSec    Int?
+  estimatedLevel Int?
+  evaluation     Json?
+  evalMode       EvalMode?
+  xpAwarded      Int              @default(0)
+  fromMock       Boolean          @default(false)
+  createdAt      DateTime         @default(now())
+  updatedAt      DateTime         @updatedAt
+  user           User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exercise       Exercise         @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+  @@index([userId, exerciseId, status])
+}
+
+model SpeakingSubmission {
+  id                String           @id @default(cuid())
+  userId            String
+  exerciseId        String
+  status            SubmissionStatus @default(SUBMITTED)
+  audioPath         String?
+  audioMime         String?
+  durationSec       Int
+  transcript        String
+  transcriptSource  String           @default("browser") // "browser" | "server" | "typed"
+  transcriptHash    String?
+  estimatedLevel    Int?
+  evaluation        Json?
+  evalMode          EvalMode?
+  xpAwarded         Int              @default(0)
+  fromMock          Boolean          @default(false)
+  createdAt         DateTime         @default(now())
+  user              User             @relation(fields: [userId], references: [id], onDelete: Cascade)
+  exercise          Exercise         @relation(fields: [exerciseId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+}
+
+model VocabularyWord {
+  id            String                   @id @default(cuid())
+  word          String                   @unique
+  pronunciation String
+  partOfSpeech  String
+  category      String
+  difficulty    String
+  meaning       String
+  example       String
+  synonyms      String[]
+  antonyms      String[]
+  usage         String
+  createdAt     DateTime                 @default(now())
+  progress      UserVocabularyProgress[]
+
+  @@index([category])
+}
+
+model UserVocabularyProgress {
+  id           String         @id @default(cuid())
+  userId       String
+  wordId       String
+  status       VocabStatus    @default(NEW)
+  intervalDays Float          @default(0)
+  ease         Float          @default(2.5)
+  repetitions  Int            @default(0)
+  lapses       Int            @default(0)
+  dueAt        DateTime       @default(now())
+  lastReviewed DateTime?
+  user         User           @relation(fields: [userId], references: [id], onDelete: Cascade)
+  word         VocabularyWord @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, wordId])
+  @@index([userId, dueAt])
+}
+
+model Achievement {
+  id          String            @id @default(cuid())
+  key         String            @unique
+  name        String
+  description String
+  icon        String
+  xpReward    Int               @default(50)
+  users       UserAchievement[]
+}
+
+model UserAchievement {
+  id            String      @id @default(cuid())
+  userId        String
+  achievementId String
+  earnedAt      DateTime    @default(now())
+  user          User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  achievement   Achievement @relation(fields: [achievementId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, achievementId])
+}
+
+model DailyActivity {
+  id                 String   @id @default(cuid())
+  userId             String
+  date               DateTime @db.Date
+  seconds            Int      @default(0)
+  xp                 Int      @default(0)
+  exercises          Int      @default(0)
+  skills             String[]
+  vocabReviews       Int      @default(0)
+  vocabXp            Int      @default(0)
+  quizzes            Int      @default(0)
+  streakXpAwarded    Boolean  @default(false)
+  challengeCompleted Boolean  @default(false)
+  wordChallengeDone  Boolean  @default(false)
+  user               User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, date])
+  @@index([userId, date])
+}
+
+/// A learner’s editable multi-day study plan. settings = generator options; days = PlanDay[] (see src/lib/plan.ts).
+model StudyPlan {
+  id        String   @id @default(cuid())
+  userId    String   @unique
+  settings  Json
+  days      Json
+  startedAt DateTime @default(now())
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+}

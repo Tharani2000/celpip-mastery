@@ -1,0 +1,38 @@
+[
+  {
+    "id": "S8-2",
+    "task": 8,
+    "type": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "image": "oddchair",
+    "prompt": "You are at a garage sale and notice this strange piece of furniture. Phone a friend who is furnishing a new apartment and describe it in as much detail as you can, so your friend can decide whether you should buy it."
+  },
+  {
+    "id": "S8-3",
+    "task": 8,
+    "type": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "image": "oddlamp",
+    "prompt": "While browsing a second-hand shop, you find this unusual lamp. Call a friend who loves reading and has very little space at home. Describe the lamp carefully so your friend can decide whether it is worth the price."
+  },
+  {
+    "id": "S8-4",
+    "task": 8,
+    "type": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "image": "oddtoaster",
+    "prompt": "At a weekend flea market, a seller is offering this odd kitchen appliance. Send a voice message to a friend who enjoys camping and gadgets, describing what you see so your friend can tell you whether to buy it for the cabin."
+  },
+  {
+    "id": "S8-5",
+    "task": 8,
+    "type": "Describing an Unusual Situation",
+    "prep": 30,
+    "speak": 60,
+    "image": "oddumbrella",
+    "prompt": "It is raining, and you spot this unusual item at a market stall. Call a friend who walks to work every day and describe it in detail, including its condition and price, so your friend can decide whether to ask you to pick it up."
+  }
+]

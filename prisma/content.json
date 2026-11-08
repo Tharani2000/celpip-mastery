@@ -1,0 +1,2263 @@
+{
+ "listening": [
+  {
+   "id": "L1",
+   "part": 1,
+   "type": "Listening to Problem Solving",
+   "difficulty": "Advanced",
+   "replays": 2,
+   "title": "The leak that came back",
+   "context": "A tenant calls her building’s property manager.",
+   "speakers": {
+    "P": {
+     "name": "Priya",
+     "voice": "f"
+    },
+    "D": {
+     "name": "Daniel",
+     "voice": "m"
+    }
+   },
+   "script": [
+    [
+     "D",
+     "Hillcrest Property Management, Daniel speaking."
+    ],
+    [
+     "P",
+     "Hi Daniel, it’s Priya Raman in unit 704. I’m calling about the leak in my bathroom ceiling. I reported it on Monday, the plumber came on Tuesday, but it’s dripping again. Worse, actually."
+    ],
+    [
+     "D",
+     "I’m sorry to hear that. Let me pull up the work order. Right, he noted the source was the unit above you, 804. A cracked seal around the tub. He replaced it."
+    ],
+    [
+     "P",
+     "Well, either that didn’t fix it or there’s a second problem. There’s a brown stain spreading toward the light fixture now, and frankly, that’s what worries me."
+    ],
+    [
+     "D",
+     "Okay. Water near a fixture. Please don’t use that light until an electrician has looked at it. I’ll be honest, I can get the plumber back tomorrow, but our electrician is booked until Friday."
+    ],
+    [
+     "P",
+     "Friday? I work from home, and that bathroom is the only one in the unit."
+    ],
+    [
+     "D",
+     "Understood. Here’s what I can do. I’ll flag it as urgent, which lets me call in an outside electrician. The building covers that cost, not you. The catch is that the condo board has to approve outside contractors after the fact, and they sometimes ask awkward questions."
+    ],
+    [
+     "P",
+     "That’s fine by me. What about the ceiling itself? The drywall is starting to sag."
+    ],
+    [
+     "D",
+     "Ceiling repairs depend on where the water came from. If it’s 804’s fixture, it goes through their insurance. If it turns out to be a pipe inside the wall, that’s common property, so it’s the corporation’s responsibility. Either way it shouldn’t come out of your pocket, though your own insurer may want a claim for anything of yours that was damaged."
+    ],
+    [
+     "P",
+     "Honestly, a ruined bathmat is the least of it. I just want to know the ceiling won’t come down."
+    ],
+    [
+     "D",
+     "Fair enough. Take a few photos tonight, with something in the frame for scale, and email them to me. If the sag gets worse overnight, put a bucket underneath and call the emergency line. Don’t wait for office hours."
+    ],
+    [
+     "P",
+     "All right. Photos tonight, emergency line if it gets worse. Thanks, Daniel."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Why is Priya calling Daniel?",
+     "o": [
+      "An earlier repair did not solve her problem.",
+      "She has discovered a leak in a second room.",
+      "She wants to complain about the plumber’s conduct.",
+      "She is asking to be paid back for damaged items."
+     ],
+     "a": 0,
+     "cat": "main",
+     "e": "Priya says she reported the leak on Monday, the plumber came on Tuesday, and it is dripping again. The call is about a failed repair."
+    },
+    {
+     "q": "What does Daniel tell Priya not to do?",
+     "o": [
+      "Use the bathroom at all",
+      "Turn on the bathroom light",
+      "Contact the neighbours upstairs",
+      "Hire her own electrician"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "He says, “Please don’t use that light until an electrician has looked at it,” because water is near the fixture."
+    },
+    {
+     "q": "Why does Daniel mention the condo board?",
+     "o": [
+      "To explain why the repair will be delayed until Friday",
+      "To suggest Priya complain to the board directly",
+      "To be upfront that his decision may be questioned later",
+      "To show that the board will pay for the ceiling"
+     ],
+     "a": 2,
+     "cat": "intention",
+     "e": "He calls it “the catch”: the board approves outside contractors after the fact and may ask awkward questions. He is being transparent about a possible complication."
+    },
+    {
+     "q": "If the water came from a pipe inside the wall, who would most likely pay for the ceiling?",
+     "o": [
+      "Priya’s insurer",
+      "The owner of unit 804",
+      "The plumber who did the first repair",
+      "The condominium corporation"
+     ],
+     "a": 3,
+     "cat": "detail",
+     "e": "A pipe inside the wall is common property, which Daniel says is “the corporation’s responsibility.”"
+    },
+    {
+     "q": "What does Priya’s comment about the bathmat suggest?",
+     "o": [
+      "She plans to file a large insurance claim.",
+      "Her main concern is safety, not compensation.",
+      "She thinks Daniel is avoiding responsibility.",
+      "She has already replaced her damaged belongings."
+     ],
+     "a": 1,
+     "cat": "implied",
+     "e": "Calling the bathmat “the least of it” and adding that she wants to know the ceiling won’t come down shows her priority is safety."
+    },
+    {
+     "q": "What should Priya do if the ceiling sags further during the night?",
+     "o": [
+      "Email photos and wait for a reply",
+      "Call the plumber’s office first thing",
+      "Put a bucket under it and call the emergency line",
+      "Turn off the building’s water supply"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "Daniel says to put a bucket underneath and call the emergency line rather than wait for office hours."
+    }
+   ]
+  },
+  {
+   "id": "L2",
+   "part": 2,
+   "type": "Listening to a Daily Life Conversation",
+   "difficulty": "Advanced",
+   "replays": 2,
+   "title": "Does the e-bike pay for itself?",
+   "context": "Two coworkers chat at the office.",
+   "speakers": {
+    "M": {
+     "name": "Marco",
+     "voice": "m"
+    },
+    "H": {
+     "name": "Hannah",
+     "voice": "f"
+    }
+   },
+   "script": [
+    [
+     "M",
+     "You look like you’ve been staring at that spreadsheet for an hour."
+    ],
+    [
+     "H",
+     "It’s not work. I’m trying to figure out whether an e-bike actually pays for itself. Once we move downtown in March, parking is going to be twenty-two dollars a day."
+    ],
+    [
+     "M",
+     "Ouch. But you live out past the river, don’t you? That’s what, fifteen kilometres?"
+    ],
+    [
+     "H",
+     "Thirteen. Which sounds like a lot, but there’s a bike path the whole way except the last stretch on Bay Street. The one I like is about thirty-two hundred dollars."
+    ],
+    [
+     "M",
+     "So you’d break even in a few months, if you rode every day."
+    ],
+    [
+     "H",
+     "Every day being the problem. I’m not riding in February in sleet. I’m not that committed."
+    ],
+    [
+     "M",
+     "Nobody is. What about a mix? Bike from April to October and take the express bus in winter. The bus pass is subsidized now, isn’t it? HR sent something about it."
+    ],
+    [
+     "H",
+     "Was that the thing about a pre-tax deduction? I deleted it without reading it."
+    ],
+    [
+     "M",
+     "Classic. Yeah, it comes off before tax, so it’s cheaper than it looks. I’d dig that email out of the trash before you spend three grand on anything."
+    ],
+    [
+     "H",
+     "Fine. But do you know what really sells me on the bike? I haven’t exercised regularly in years. If it’s built into my commute, I can’t talk myself out of it."
+    ],
+    [
+     "M",
+     "That’s a better argument than the spreadsheet, honestly. Just don’t buy one on impulse at that shop on King Street. My brother did, and the battery died within a year."
+    ],
+    [
+     "H",
+     "Noted. I’ll test-ride a few first."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "What is Hannah mainly trying to decide?",
+     "o": [
+      "Whether to move closer to the new office",
+      "Whether buying an e-bike makes financial sense",
+      "Which bike shop offers the best price",
+      "Whether to accept a parking subsidy from HR"
+     ],
+     "a": 1,
+     "cat": "main",
+     "e": "She is building a spreadsheet to see whether an e-bike “actually pays for itself” compared with expensive downtown parking."
+    },
+    {
+     "q": "What does Hannah mean when she says, “I’m not that committed”?",
+     "o": [
+      "She may not stay at the company long.",
+      "She would not cycle in severe winter weather.",
+      "She has not decided which model to buy.",
+      "She doubts the bike path is safe."
+     ],
+     "a": 1,
+     "cat": "implied",
+     "e": "She says it right after “I’m not riding in February in sleet,” so she means she won’t cycle in harsh winter conditions."
+    },
+    {
+     "q": "Why does Marco tell Hannah to find the HR email?",
+     "o": [
+      "It describes a discount at a local bike shop.",
+      "It explains the new office’s parking rules.",
+      "It could make the bus option cheaper than she assumes.",
+      "It announces that the office move is postponed."
+     ],
+     "a": 2,
+     "cat": "intention",
+     "e": "The pass is deducted before tax, “so it’s cheaper than it looks,” which affects her comparison."
+    },
+    {
+     "q": "Which reason seems to persuade Hannah most?",
+     "o": [
+      "The savings on parking",
+      "The convenience of the bike path",
+      "The chance to make exercise part of her routine",
+      "Marco’s recommendation"
+     ],
+     "a": 2,
+     "cat": "opinion",
+     "e": "She says what “really sells” her is that exercise would be built into her commute, and Marco agrees it’s the better argument."
+    },
+    {
+     "q": "Why does Marco mention his brother?",
+     "o": [
+      "To warn her against buying hastily from a particular shop",
+      "To suggest she borrow his brother’s bike",
+      "To prove that e-bike batteries are unreliable",
+      "To recommend a better route downtown"
+     ],
+     "a": 0,
+     "cat": "intention",
+     "e": "His brother bought on impulse at the King Street shop and the battery died, so Marco is cautioning her."
+    }
+   ]
+  },
+  {
+   "id": "L3",
+   "part": 3,
+   "type": "Listening for Information",
+   "difficulty": "Advanced",
+   "replays": 2,
+   "title": "Volunteering with Tech Buddies",
+   "context": "A recently retired man calls the public library about a volunteer program.",
+   "speakers": {
+    "B": {
+     "name": "Ben",
+     "voice": "m"
+    },
+    "A": {
+     "name": "Aisha",
+     "voice": "f"
+    }
+   },
+   "script": [
+    [
+     "A",
+     "Riverside Public Library, community programs. This is Aisha."
+    ],
+    [
+     "B",
+     "Hi, my name is Ben Kowalski. I saw a poster for something called Tech Buddies. I retired from IT last spring and I thought I might be useful."
+    ],
+    [
+     "A",
+     "You’d be more than useful. Tech Buddies pairs volunteers with residents who need one-on-one help with phones, tablets and laptops. Most of our learners are seniors, and about a third live in care homes we visit."
+    ],
+    [
+     "B",
+     "What kind of time commitment are we talking about?"
+    ],
+    [
+     "A",
+     "We ask for at least two sessions a month, for a minimum of three months. Sessions run Tuesday and Thursday evenings from six to eight, and Saturday mornings. Most people pick one slot and stick with it, which learners really appreciate."
+    ],
+    [
+     "B",
+     "That’s manageable. Is there training? I know computers, but I’ve never taught anyone over seventy."
+    ],
+    [
+     "A",
+     "There are two training sessions. The first covers how to teach without taking over the device. That’s the most common mistake, frankly: volunteers grab the mouse. The second is on spotting scams. A lot of requests right now are about online banking and suspicious texts."
+    ],
+    [
+     "B",
+     "Makes sense. Is there a screening process?"
+    ],
+    [
+     "A",
+     "Yes. Because of the care home visits, everyone needs a vulnerable sector check. The library covers the fee, but it can take three to six weeks, so I’d start that right away."
+    ],
+    [
+     "B",
+     "Could I do some sessions remotely? I spend part of the winter in Arizona."
+    ],
+    [
+     "A",
+     "Eventually, yes. We do have a video option, but not for your first month. We want new volunteers to meet learners in person before anything goes online."
+    ],
+    [
+     "B",
+     "Fair enough. How do I sign up?"
+    ],
+    [
+     "A",
+     "I’ll email you the application and the check form today. Once the check clears, we’ll book your training."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Who are most of the learners in the Tech Buddies program?",
+     "o": [
+      "Newcomers to Canada",
+      "Senior residents",
+      "High school students",
+      "Library employees"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "Aisha says, “Most of our learners are seniors.”"
+    },
+    {
+     "q": "What is the minimum commitment for volunteers?",
+     "o": [
+      "One session a week for six months",
+      "Two sessions a month for three months",
+      "Every Saturday for a year",
+      "Two evenings a week for one month"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "“At least two sessions a month, for a minimum of three months.”"
+    },
+    {
+     "q": "According to Aisha, what mistake do new volunteers make most often?",
+     "o": [
+      "They use too much technical jargon.",
+      "They arrive late to sessions.",
+      "They take control of the learner’s device.",
+      "They forget to report scams."
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "She says the most common mistake is that volunteers “grab the mouse,” taking over the device."
+    },
+    {
+     "q": "Why does Aisha advise Ben to begin the screening process right away?",
+     "o": [
+      "The fee increases after a deadline.",
+      "The check may take several weeks.",
+      "Training sessions are almost full.",
+      "He must finish it before applying."
+     ],
+     "a": 1,
+     "cat": "inference",
+     "e": "The vulnerable sector check “can take three to six weeks,” so starting early avoids delays."
+    },
+    {
+     "q": "What can be inferred about the library’s policy on remote sessions?",
+     "o": [
+      "It prefers trust to be established in person first.",
+      "It considers video sessions less effective in general.",
+      "It allows them only for volunteers with IT experience.",
+      "It plans to end the video option soon."
+     ],
+     "a": 0,
+     "cat": "inference",
+     "e": "New volunteers must meet learners in person before anything goes online, which suggests the library values building trust face to face first."
+    }
+   ]
+  },
+  {
+   "id": "L4",
+   "part": 4,
+   "type": "Listening to a News Item",
+   "difficulty": "Advanced",
+   "replays": 2,
+   "title": "From curling rink to greenhouse",
+   "context": "A regional radio news report.",
+   "speakers": {
+    "N": {
+     "name": "Reporter",
+     "voice": "f"
+    }
+   },
+   "script": [
+    [
+     "N",
+     "In the small prairie town of Pellow Creek, a curling rink that closed four years ago is about to produce its first harvest. Not of curling champions, but of tomatoes."
+    ],
+    [
+     "N",
+     "The town has converted the building into a year-round community greenhouse, heated by geothermal pumps. The project cost just under one point four million dollars, roughly half of which came from a provincial rural innovation grant. The rest was raised locally, including nearly ninety thousand dollars from a single winter of bake sales, raffles and a polar bear swim."
+    ],
+    [
+     "N",
+     "Organizers say the goal is simple: affordable fresh produce. In Pellow Creek, the nearest full-service grocery store is a seventy-minute drive away, and residents say a head of lettuce can cost more than a litre of gasoline in winter."
+    ],
+    [
+     "N",
+     "Not everyone is convinced. Councillor Ray Dumont, who voted against the project, says he supports the idea but worries about who will cover operating costs once the grant runs out. Quote: “Building something is the easy part. Keeping the lights on in year five is the hard part.”"
+    ],
+    [
+     "N",
+     "The greenhouse board says it plans to cover costs by selling produce to the regional hospital and to two school divisions, which have signed letters of intent. Students from the local high school will also earn credits by working there, an arrangement the principal calls a living science lab."
+    ],
+    [
+     "N",
+     "The first tomatoes are expected by mid-February. Board members joke that they will be the most expensive tomatoes in Saskatchewan history, at least for the first crop."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "What is the main purpose of the greenhouse project?",
+     "o": [
+      "To attract tourists to Pellow Creek",
+      "To provide affordable fresh produce locally",
+      "To train students for agricultural careers",
+      "To reuse the rink for winter sports"
+     ],
+     "a": 1,
+     "cat": "main",
+     "e": "Organizers say the goal is “affordable fresh produce,” since the nearest grocery store is far away."
+    },
+    {
+     "q": "How was most of the non-grant money raised?",
+     "o": [
+      "Through a municipal tax increase",
+      "Through a donation from the hospital",
+      "Through local fundraising events",
+      "Through school division contributions"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "The remainder was raised locally, including bake sales, raffles and a polar bear swim."
+    },
+    {
+     "q": "What is Councillor Dumont’s main concern?",
+     "o": [
+      "The building is unsafe for public use.",
+      "The greenhouse will compete with local farmers.",
+      "Long-term operating costs may not be covered.",
+      "The grant application was poorly handled."
+     ],
+     "a": 2,
+     "cat": "opinion",
+     "e": "He worries about “who will cover operating costs once the grant runs out” and says keeping the lights on in year five is the hard part."
+    },
+    {
+     "q": "What does the comparison between lettuce and gasoline suggest?",
+     "o": [
+      "Fuel prices in the town are unusually low.",
+      "Fresh food in the town is extremely expensive in winter.",
+      "Residents drive long distances for work.",
+      "The greenhouse will sell lettuce first."
+     ],
+     "a": 1,
+     "cat": "implied",
+     "e": "Saying lettuce can cost more than a litre of gasoline emphasizes how expensive fresh produce is there in winter."
+    },
+    {
+     "q": "What is the tone of the board members’ final remark about the tomatoes?",
+     "o": [
+      "Bitter and regretful",
+      "Humorous and self-aware",
+      "Anxious and defensive",
+      "Formal and promotional"
+     ],
+     "a": 1,
+     "cat": "attitude",
+     "e": "They “joke” that the first crop will be the most expensive tomatoes in the province’s history, acknowledging the high cost with humour."
+    }
+   ]
+  },
+  {
+   "id": "L5",
+   "part": 5,
+   "type": "Listening to a Discussion",
+   "difficulty": "Advanced",
+   "replays": 1,
+   "title": "A four-day week at the studio",
+   "context": "A manager and two employees at an architecture firm discuss a proposal.",
+   "speakers": {
+    "L": {
+     "name": "Leah",
+     "voice": "f"
+    },
+    "T": {
+     "name": "Tom",
+     "voice": "m"
+    },
+    "S": {
+     "name": "Sunita",
+     "voice": "f2"
+    }
+   },
+   "script": [
+    [
+     "L",
+     "Thanks for staying. I want your honest reactions before I take the four-day week proposal to the partners. Thirty-six hours, four days, same pay."
+    ],
+    [
+     "T",
+     "Honestly? I’d sign today. Half my Fridays are spent answering emails that could wait until Monday. If we’re focused, I don’t think clients would notice a difference."
+    ],
+    [
+     "S",
+     "Clients would notice if nobody picked up the phone on a Friday when a contractor finds a problem on site. That happens to me about twice a month."
+    ],
+    [
+     "T",
+     "Sure, but that’s a coverage problem, not a reason to scrap the idea."
+    ],
+    [
+     "S",
+     "I’m not saying scrap it. I’m saying nine-hour days don’t work for everyone. My daycare closes at five thirty. A longer day means I either leave early every day or I pay for after-hours care, which defeats the point."
+    ],
+    [
+     "L",
+     "That’s exactly what I needed to hear. What if it weren’t the same day off for everyone? Half the team takes Fridays, half takes Mondays. Phones are always covered."
+    ],
+    [
+     "T",
+     "That could work, as long as project teams are split so that one person from each team is in."
+    ],
+    [
+     "S",
+     "And the hours? Would it have to be nine-hour days?"
+    ],
+    [
+     "L",
+     "Not necessarily. The partners are more interested in output than in a rigid schedule. I could propose that people choose between four nine-hour days or a compressed schedule with a longer lunch cut out."
+    ],
+    [
+     "S",
+     "That I could live with. I’d still want a trial period, though. If our deadlines start slipping, I don’t want to be the one explaining it to clients."
+    ],
+    [
+     "L",
+     "Agreed. Let’s say a three-month pilot, and we track two things: project deadlines met and client satisfaction scores. If either drops, we revisit."
+    ],
+    [
+     "T",
+     "I’m happy with that. Even a pilot is more than I expected."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "What is Tom’s initial reaction to the proposal?",
+     "o": [
+      "Cautious support",
+      "Strong enthusiasm",
+      "Mild skepticism",
+      "Complete indifference"
+     ],
+     "a": 1,
+     "cat": "attitude",
+     "e": "He says, “I’d sign today,” which shows strong enthusiasm."
+    },
+    {
+     "q": "Why is Sunita concerned about longer workdays?",
+     "o": [
+      "They conflict with her childcare arrangements.",
+      "She already works too much overtime.",
+      "Clients prefer to meet in the late afternoon.",
+      "Contractors call her mainly in the evening."
+     ],
+     "a": 0,
+     "cat": "detail",
+     "e": "Her daycare closes at 5:30, so a longer day would force her to leave early or pay for after-hours care."
+    },
+    {
+     "q": "When Sunita says, “I’m not saying scrap it,” what is she clarifying?",
+     "o": [
+      "She fully supports Tom’s position.",
+      "She objects to specific details, not the idea itself.",
+      "She wants Leah to cancel the meeting.",
+      "She thinks the partners will reject it anyway."
+     ],
+     "a": 1,
+     "cat": "intention",
+     "e": "She separates her concerns about the schedule from the overall idea, which she does not reject."
+    },
+    {
+     "q": "How does Leah address the issue of phone coverage?",
+     "o": [
+      "By hiring a receptionist for Fridays",
+      "By forwarding calls to the partners",
+      "By staggering days off across the team",
+      "By shortening the pilot to one month"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "She proposes half the team takes Fridays off and half takes Mondays so phones are always covered."
+    },
+    {
+     "q": "What will determine whether the pilot continues?",
+     "o": [
+      "Employee satisfaction and attendance",
+      "Deadlines met and client satisfaction",
+      "Revenue and number of new clients",
+      "The partners’ personal preferences"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "Leah says they will track project deadlines met and client satisfaction scores."
+    }
+   ]
+  },
+  {
+   "id": "L6",
+   "part": 6,
+   "type": "Listening to Viewpoints",
+   "difficulty": "Advanced",
+   "replays": 1,
+   "title": "Turning office towers into homes",
+   "context": "A radio commentator discusses converting empty office buildings into housing.",
+   "speakers": {
+    "C": {
+     "name": "Commentator",
+     "voice": "f"
+    }
+   },
+   "script": [
+    [
+     "C",
+     "Walk through almost any Canadian downtown on a Friday afternoon and you’ll notice it: office towers with whole floors dark. Meanwhile, the same cities face a housing shortage. So the question seems obvious. Why not turn one into the other?"
+    ],
+    [
+     "C",
+     "Developers who champion conversions make a persuasive case. The buildings already exist, so you avoid the carbon cost of new construction. They’re close to transit, shops and jobs. And they argue that bringing residents downtown would revive the restaurants and stores that lost their lunch crowds."
+    ],
+    [
+     "C",
+     "But urban planners I’ve spoken to urge caution, and their objections are practical rather than ideological. Many office towers have deep floor plates, meaning a large distance from the windows to the centre of the floor. You can’t legally put a bedroom without a window in the middle of that space. Plumbing is concentrated in a central core, so every kitchen and bathroom becomes an expensive engineering problem. In some cases, planners say, demolishing and rebuilding is actually cheaper."
+    ],
+    [
+     "C",
+     "There’s also the question of who the new units are for. Conversions are costly, and without public incentives, developers tend to target the luxury market. That adds housing, but not the kind most people are struggling to find."
+    ],
+    [
+     "C",
+     "My own view sits somewhere in between. Conversions won’t solve the housing crisis on their own, and we shouldn’t pretend that every empty tower is a hidden apartment building. But for the right buildings, older ones with narrow floors, they’re worth pursuing, especially if cities tie incentives to a share of affordable units. The mistake would be treating this as either a miracle cure or a dead end."
+    ]
+   ],
+   "questions": [
+    {
+     "q": "Which argument do supporters of conversions make?",
+     "o": [
+      "Conversions are always cheaper than new construction.",
+      "Downtown residents would support struggling local businesses.",
+      "Office workers prefer living near their workplaces.",
+      "Conversions eliminate the need for public incentives."
+     ],
+     "a": 1,
+     "cat": "opinion",
+     "e": "Developers argue that bringing residents downtown would revive restaurants and stores that lost their lunch crowds."
+    },
+    {
+     "q": "Why do deep floor plates create a problem?",
+     "o": [
+      "They make elevators too slow for residents.",
+      "They leave interior areas too far from windows.",
+      "They require heavier foundations.",
+      "They cannot support kitchen appliances."
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "The centre of the floor is far from windows, and bedrooms legally require windows."
+    },
+    {
+     "q": "How does the commentator characterize the planners’ objections?",
+     "o": [
+      "As emotional and exaggerated",
+      "As based on political ideology",
+      "As grounded in practical constraints",
+      "As outdated and largely irrelevant"
+     ],
+     "a": 2,
+     "cat": "attitude",
+     "e": "She says their objections are “practical rather than ideological.”"
+    },
+    {
+     "q": "What concern does the commentator raise about who benefits from conversions?",
+     "o": [
+      "The units may be too small for families.",
+      "Developers may focus on expensive units.",
+      "Office tenants may be forced out.",
+      "Cities may lose property tax revenue."
+     ],
+     "a": 1,
+     "cat": "inference",
+     "e": "Without incentives, developers tend to target the luxury market, which doesn’t address what most people need."
+    },
+    {
+     "q": "Which statement best summarizes the commentator’s own position?",
+     "o": [
+      "Conversions should be banned until costs fall.",
+      "Conversions are the best solution to the housing crisis.",
+      "Conversions are useful in selected cases with the right conditions.",
+      "Conversions should be left entirely to the private market."
+     ],
+     "a": 2,
+     "cat": "main",
+     "e": "She supports conversions “for the right buildings,” ideally with affordability incentives, while rejecting both extremes."
+    }
+   ]
+  }
+ ],
+ "reading": [
+  {
+   "id": "R1",
+   "part": 1,
+   "type": "Reading Correspondence",
+   "difficulty": "Advanced",
+   "timeLimit": 600,
+   "title": "About the maple tree",
+   "passage": [
+    "Subject: Our shared fence and your maple",
+    "Dear Tomasz,",
+    "I hope you and Lena are settling in well. I’m sorry we haven’t had a proper chance to talk since you moved in; between the renovation noise on our side and the snow, it hasn’t exactly been neighbourly weather.",
+    "I’m writing about the fence between our backyards. As you may have noticed, a section near the back corner has started to lean quite noticeably toward our side. Last week a contractor came to look at it, and he believes the roots of the large maple on your property have lifted two of the posts. He was careful to say that he couldn’t be certain without digging, but in his experience the pattern is fairly typical.",
+    "I want to be clear that I’m not looking to assign blame. The tree was there long before either of us, and frankly, it’s the reason our yard is bearable in July. That said, the fence is now a genuine concern. Our dog has already discovered the gap at the bottom, and I’d hate for him to end up in your garden, or worse, on the street.",
+    "The contractor quoted $1,850 to replace the damaged section with posts set further from the roots. Since the fence is shared, I wonder whether you’d be open to splitting the cost. I realize that’s not a small amount, especially so soon after a move, so if it would help, I’m happy to pay my half now and have you contribute yours in the spring.",
+    "I’ve attached the quote. Perhaps we could meet at the fence this weekend and look at it together? I’ll be home Saturday afternoon.",
+    "Warm regards,",
+    "Gwen"
+   ],
+   "questions": [
+    {
+     "q": "What is the main purpose of Gwen’s email?",
+     "o": [
+      "To complain about noise from Tomasz’s home",
+      "To propose sharing the cost of a fence repair",
+      "To ask Tomasz to remove his maple tree",
+      "To recommend a contractor"
+     ],
+     "a": 1,
+     "cat": "main",
+     "e": "She describes the damage, shares the quote and asks whether Tomasz would split the cost."
+    },
+    {
+     "q": "How certain was the contractor about the cause of the damage?",
+     "o": [
+      "Completely certain after digging",
+      "Fairly confident, but not definite",
+      "Unsure and unwilling to guess",
+      "Certain that the snow was responsible"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "He “couldn’t be certain without digging,” but said the pattern was “fairly typical.”"
+    },
+    {
+     "q": "Why does Gwen mention that the tree makes her yard “bearable in July”?",
+     "o": [
+      "To show that she values the tree and isn’t hostile toward it",
+      "To suggest that Tomasz should trim it in summer",
+      "To complain that it blocks too much light",
+      "To explain why her dog likes the yard"
+     ],
+     "a": 0,
+     "cat": "intention",
+     "e": "She softens her request by acknowledging the tree’s benefit, reinforcing that she isn’t blaming Tomasz."
+    },
+    {
+     "q": "In paragraph four, the word “genuine” is closest in meaning to:",
+     "o": [
+      "sincere",
+      "real",
+      "original",
+      "minor"
+     ],
+     "a": 1,
+     "cat": "vocabulary",
+     "e": "“A genuine concern” here means a real, legitimate concern."
+    },
+    {
+     "q": "What does Gwen offer to make the arrangement easier for Tomasz?",
+     "o": [
+      "To pay the full cost herself",
+      "To find a cheaper contractor",
+      "To let him pay his share later",
+      "To do the repair work herself"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "She offers to pay her half now and let him contribute his in the spring."
+    },
+    {
+     "q": "Which best describes the tone of the email?",
+     "o": [
+      "Polite and conciliatory",
+      "Formal and threatening",
+      "Casual and indifferent",
+      "Apologetic and uncertain"
+     ],
+     "a": 0,
+     "cat": "tone",
+     "e": "Gwen is courteous, avoids blame and offers flexibility, which is a conciliatory tone."
+    }
+   ]
+  },
+  {
+   "id": "R2",
+   "part": 2,
+   "type": "Reading to Apply a Diagram",
+   "difficulty": "Advanced",
+   "timeLimit": 540,
+   "title": "Choosing a summer program",
+   "diagram": {
+    "caption": "Lakeview Community Centre: summer programs for ages 6 to 15",
+    "headers": [
+     "",
+     "Morning Explorers",
+     "Full-Day Discovery",
+     "Teen Leadership"
+    ],
+    "rows": [
+     [
+      "Ages",
+      "6 to 9",
+      "6 to 12",
+      "13 to 15"
+     ],
+     [
+      "Hours",
+      "9:00 to 12:30",
+      "8:30 to 5:00",
+      "10:00 to 3:00"
+     ],
+     [
+      "Weekly fee",
+      "$145",
+      "$260",
+      "$190"
+     ],
+     [
+      "Lunch",
+      "Not included",
+      "Included",
+      "Bring your own"
+     ],
+     [
+      "Highlights",
+      "Crafts, nature walks",
+      "Swimming daily, one field trip a week",
+      "First aid certificate, volunteer hours"
+     ],
+     [
+      "Notes",
+      "Sibling discount 10%",
+      "Extended care until 6:00 for $35/week",
+      "Must attend all four weeks"
+     ]
+    ]
+   },
+   "passage": [
+    "Hi Farah,",
+    "Thanks for sending me the Lakeview flyer! I think I’ve worked it out. Since I’m back at the office full-time this summer and my shift ends at 5:30, the only program that works for Amir, who’s eight, is __1__. I’ll need to add the extended care too, so my weekly total for him comes to __2__.",
+    "Leila is fourteen, so her choice is easy, though I was surprised that she’d have to commit to __3__. She’ll love getting a __4__, which she can put on her résumé for that lifeguard job she wants next year.",
+    "Your twins could do Morning Explorers together. With the discount, you’d pay __5__ for both each week. Want to compare notes on Saturday?",
+    "Nadia"
+   ],
+   "questions": [
+    {
+     "q": "Blank 1",
+     "o": [
+      "Morning Explorers",
+      "Full-Day Discovery",
+      "Teen Leadership",
+      "none of the programs"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "Amir is eight and Nadia works until 5:30, so only Full-Day Discovery (ages 6 to 12, with extended care until 6:00) fits."
+    },
+    {
+     "q": "Blank 2",
+     "o": [
+      "$260",
+      "$280",
+      "$295",
+      "$305"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "$260 weekly fee plus $35 extended care equals $295."
+    },
+    {
+     "q": "Blank 3",
+     "o": [
+      "bringing her own lunch",
+      "attending all four weeks",
+      "volunteering every weekend",
+      "paying a deposit"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "The notes for Teen Leadership say participants must attend all four weeks."
+    },
+    {
+     "q": "Blank 4",
+     "o": [
+      "swimming badge",
+      "first aid certificate",
+      "field trip pass",
+      "sibling discount"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "Teen Leadership offers a first aid certificate, which suits a future lifeguard job application."
+    },
+    {
+     "q": "Blank 5",
+     "o": [
+      "$261",
+      "$275.50",
+      "$290",
+      "$130.50"
+     ],
+     "a": 0,
+     "cat": "inference",
+     "e": "Two children at $145 is $290; a 10% sibling discount brings it to $261."
+    }
+   ]
+  },
+  {
+   "id": "R3",
+   "part": 3,
+   "type": "Reading for Information",
+   "difficulty": "Advanced",
+   "timeLimit": 600,
+   "title": "Why cities run hot",
+   "paragraphs": true,
+   "passage": [
+    "A. On a still summer evening, the downtown core of a large Canadian city can be several degrees warmer than farmland only a few kilometres away. This phenomenon, known as the urban heat island effect, arises because asphalt, concrete and dark rooftops absorb solar radiation during the day and release it slowly after sunset. Tall buildings compound the problem by trapping heat and blocking breezes that would otherwise carry it away.",
+    "B. The consequences are not merely a matter of comfort. During extended heat waves, the absence of night-time cooling is particularly dangerous, since the body relies on cooler nights to recover. Researchers have found that heat-related emergency visits cluster in neighbourhoods with little tree cover, which are frequently those with lower household incomes and older housing stock lacking air conditioning.",
+    "C. Cities have responded with a range of strategies. Some mandate reflective or vegetated roofs on new commercial buildings; others have set targets for expanding the urban tree canopy, often prioritizing the hottest districts. Toronto, for instance, has paired tree-planting programs with incentives for homeowners. Critics note, however, that newly planted trees take decades to provide substantial shade, and that many die within their first few years without consistent watering.",
+    "D. Less visible measures may prove just as important. Cooling centres, extended pool hours and wellness checks on isolated residents have been credited with reducing fatalities during extreme heat. Public health officials stress that infrastructure and outreach must work together: a shaded park helps little if vulnerable residents never leave their apartments."
+   ],
+   "instructions": "Choose the paragraph that best fits each statement. Choose E if the information is not given.",
+   "questions": [
+    {
+     "q": "Short-term social services can save lives during heat emergencies.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "a": 3,
+     "cat": "detail",
+     "e": "Paragraph D credits cooling centres, pool hours and wellness checks with reducing fatalities."
+    },
+    {
+     "q": "The health risks of heat are distributed unequally among residents.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "a": 1,
+     "cat": "inference",
+     "e": "Paragraph B links heat emergencies to neighbourhoods with lower incomes and less tree cover."
+    },
+    {
+     "q": "Building height contributes to higher temperatures.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "a": 0,
+     "cat": "detail",
+     "e": "Paragraph A says tall buildings trap heat and block breezes."
+    },
+    {
+     "q": "Some solutions take a long time to become effective.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "Paragraph C notes that trees take decades to provide substantial shade."
+    },
+    {
+     "q": "Heat islands raise municipal electricity costs by a measurable percentage.",
+     "o": [
+      "A",
+      "B",
+      "C",
+      "D",
+      "E"
+     ],
+     "a": 4,
+     "cat": "evidence",
+     "e": "No paragraph discusses electricity costs, so the information is not given."
+    },
+    {
+     "q": "In paragraph C, the critics’ comments mainly serve to:",
+     "o": [
+      "dismiss tree planting as useless",
+      "qualify the benefits of a popular strategy",
+      "praise Toronto’s incentive program",
+      "argue for reflective roofs instead"
+     ],
+     "a": 1,
+     "cat": "intention",
+     "e": "The critics don’t reject tree planting; they point out its limitations, which qualifies its benefits."
+    }
+   ]
+  },
+  {
+   "id": "R4",
+   "part": 4,
+   "type": "Reading for Viewpoints",
+   "difficulty": "Advanced",
+   "timeLimit": 720,
+   "title": "Should drivers pay to enter downtown?",
+   "passage": [
+    "Few urban policies provoke as much immediate hostility as congestion pricing, the practice of charging drivers a fee to enter a city’s core during busy hours. Yet in cities that have tried it, opposition has often softened once the results became visible. Stockholm’s charge was initially unpopular; within a few years, a majority of residents supported keeping it, largely because traffic delays fell sharply and the air noticeably improved.",
+    "Advocates argue that the logic is straightforward. Road space downtown is scarce and valuable, yet drivers currently use it for free, while those who take transit pay every time they board. A modest charge, they contend, encourages people who have flexible options to travel at different times or by different modes, freeing the roads for those who genuinely need them, such as delivery drivers, tradespeople and emergency services. Revenue can then be directed into better transit.",
+    "Opponents raise objections that deserve more than a dismissive reply. A flat fee weighs far more heavily on a cleaner commuting from a suburb with poor bus service than on a lawyer who could easily absorb it. Small businesses worry that customers will simply shop elsewhere. And in many Canadian cities, transit is not yet frequent or reliable enough to offer a realistic alternative, so the charge may function less as an incentive than as a penalty.",
+    "In my view, the strongest version of the policy addresses these concerns directly rather than waving them away. That means investing in transit before the charge begins, not after; offering discounts for low-income residents; and committing, in law, to spend the revenue locally. Introduced carelessly, congestion pricing confirms every suspicion that it is a cash grab. Introduced thoughtfully, it may be one of the few tools that can make downtowns both more accessible and more liveable."
+   ],
+   "comment": "Reader comment from Marguerite T.: I run a florist shop two blocks inside the proposed zone. Most of my customers arrive by car because flowers for a wedding don’t fit on a bus. The writer’s suggestions sound reasonable, but none of them help a business like mine. If the city wants my support, it should offer short-term parking exemptions for deliveries and pickups.",
+   "questions": [
+    {
+     "q": "Why does the writer mention Stockholm?",
+     "o": [
+      "To show that public opinion can change after implementation",
+      "To prove that congestion pricing works everywhere",
+      "To argue that European cities have better transit",
+      "To criticize the original design of the policy"
+     ],
+     "a": 0,
+     "cat": "intention",
+     "e": "Stockholm’s charge was unpopular at first but gained majority support once results were visible."
+    },
+    {
+     "q": "According to advocates, who would benefit from freer roads?",
+     "o": [
+      "Suburban commuters",
+      "Tourists and visitors",
+      "People whose work requires driving",
+      "Residents who walk to work"
+     ],
+     "a": 2,
+     "cat": "detail",
+     "e": "Delivery drivers, tradespeople and emergency services are named as those who genuinely need the roads."
+    },
+    {
+     "q": "What does the writer mean by saying objections “deserve more than a dismissive reply”?",
+     "o": [
+      "The objections should be ignored.",
+      "The objections are serious and require careful answers.",
+      "The opponents are mostly misinformed.",
+      "The objections have already been resolved."
+     ],
+     "a": 1,
+     "cat": "implied",
+     "e": "The writer treats the objections as legitimate and worth engaging with seriously."
+    },
+    {
+     "q": "Which of the following is presented as an opinion rather than a fact?",
+     "o": [
+      "Stockholm introduced a congestion charge.",
+      "Traffic delays in Stockholm fell after the charge.",
+      "Congestion pricing may be one of the few tools to make downtowns more liveable.",
+      "Drivers currently use downtown roads without a direct fee."
+     ],
+     "a": 2,
+     "cat": "fact-opinion",
+     "e": "The final sentence of the article is the writer’s evaluation, introduced with “In my view.”"
+    },
+    {
+     "q": "What condition does the writer consider essential?",
+     "o": [
+      "Charging higher fees during holidays",
+      "Improving transit before the charge starts",
+      "Exempting all small businesses",
+      "Limiting the charge to weekdays"
+     ],
+     "a": 1,
+     "cat": "detail",
+     "e": "The writer says to invest in transit “before the charge begins, not after.”"
+    },
+    {
+     "q": "How does the reader’s view relate to the writer’s?",
+     "o": [
+      "She rejects congestion pricing entirely.",
+      "She agrees with the writer completely.",
+      "She finds the proposals reasonable but incomplete for her situation.",
+      "She believes transit improvements will solve her problem."
+     ],
+     "a": 2,
+     "cat": "opinion",
+     "e": "She says the suggestions sound reasonable but don’t help a business like hers, and proposes delivery exemptions."
+    }
+   ]
+  }
+ ],
+ "writing": [
+  {
+   "id": "W1",
+   "task": 1,
+   "kind": "email",
+   "title": "A delayed renovation",
+   "minutes": 27,
+   "min": 150,
+   "max": 200,
+   "prompt": "You hired a contractor to renovate your kitchen. The work was supposed to take three weeks, but it is now in its sixth week and still unfinished. Write an email to the contractor in about 150 to 200 words.",
+   "points": [
+    "Describe the current state of the project",
+    "Explain how the delay is affecting you",
+    "Say what you want the contractor to do and by when"
+   ],
+   "register": "Formal"
+  },
+  {
+   "id": "W2",
+   "task": 1,
+   "kind": "email",
+   "title": "Asking about a course",
+   "minutes": 27,
+   "min": 150,
+   "max": 200,
+   "prompt": "You are interested in an evening course on project management at a local college, but the website does not answer some of your questions. Write an email to the program coordinator in about 150 to 200 words.",
+   "points": [
+    "Introduce yourself and explain why you are interested",
+    "Ask about scheduling and course format",
+    "Ask whether the certificate is recognized by employers"
+   ],
+   "register": "Formal"
+  },
+  {
+   "id": "W3",
+   "task": 1,
+   "kind": "email",
+   "title": "Recommending a colleague",
+   "minutes": 27,
+   "min": 150,
+   "max": 200,
+   "prompt": "A friend who manages a small company is looking to hire someone for a customer service role. You know a former colleague who would be a good fit. Write an email to your friend in about 150 to 200 words.",
+   "points": [
+    "Describe how you know your former colleague",
+    "Explain why this person would suit the role",
+    "Suggest how your friend could contact them"
+   ],
+   "register": "Semi-formal"
+  },
+  {
+   "id": "W4",
+   "task": 1,
+   "kind": "email",
+   "title": "A billing problem",
+   "minutes": 27,
+   "min": 150,
+   "max": 200,
+   "prompt": "Your internet provider has charged you twice for the same month, and your attempt to resolve it through their online chat was unsuccessful. Write an email to the customer service manager in about 150 to 200 words.",
+   "points": [
+    "Explain the billing error",
+    "Describe what happened when you tried to fix it",
+    "State clearly what outcome you expect"
+   ],
+   "register": "Formal"
+  },
+  {
+   "id": "W5",
+   "task": 2,
+   "kind": "survey",
+   "title": "Library funding",
+   "minutes": 26,
+   "min": 150,
+   "max": 200,
+   "prompt": "Your city has extra money in its budget for public libraries and is asking residents how to use it. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+   "options": [
+    "Option A: Extend opening hours to evenings and Sundays at all branches",
+    "Option B: Build a new digital media lab with recording studios and 3D printers"
+   ]
+  },
+  {
+   "id": "W6",
+   "task": 2,
+   "kind": "survey",
+   "title": "Hybrid work policy",
+   "minutes": 26,
+   "min": 150,
+   "max": 200,
+   "prompt": "Your employer is reviewing its work policy and has asked staff for their opinion. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+   "options": [
+    "Option A: All employees work in the office three fixed days per week",
+    "Option B: Each team decides its own in-office schedule"
+   ]
+  },
+  {
+   "id": "W7",
+   "task": 2,
+   "kind": "survey",
+   "title": "Transit improvements",
+   "minutes": 26,
+   "min": 150,
+   "max": 200,
+   "prompt": "Your regional transit authority can afford only one major improvement next year. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+   "options": [
+    "Option A: Make buses run every ten minutes on the busiest routes",
+    "Option B: Reduce fares by 25% for all riders"
+   ]
+  },
+  {
+   "id": "W8",
+   "task": 2,
+   "kind": "survey",
+   "title": "Plastic reduction",
+   "minutes": 26,
+   "min": 150,
+   "max": 200,
+   "prompt": "Your municipality wants to reduce plastic waste and is surveying residents. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+   "options": [
+    "Option A: Ban single-use plastic bags and containers in all stores",
+    "Option B: Charge a fee for each single-use item and fund recycling programs"
+   ]
+  }
+ ],
+ "speaking": [
+  {
+   "id": "S1",
+   "task": 1,
+   "type": "Giving Advice",
+   "prep": 30,
+   "speak": 90,
+   "prompt": "A friend of yours has been offered a promotion that comes with a higher salary but much longer working hours. They are unsure whether to accept. Advise your friend on what to consider before making a decision."
+  },
+  {
+   "id": "S1b",
+   "task": 1,
+   "type": "Giving Advice",
+   "prep": 30,
+   "speak": 90,
+   "prompt": "Your cousin has just moved to Canada and is struggling to find work in their field. Give them advice on how to improve their chances."
+  },
+  {
+   "id": "S2",
+   "task": 2,
+   "type": "Talking about a Personal Experience",
+   "prep": 30,
+   "speak": 60,
+   "prompt": "Talk about a time when you had to learn a new skill quickly. What was the situation, and how did you manage?"
+  },
+  {
+   "id": "S2b",
+   "task": 2,
+   "type": "Talking about a Personal Experience",
+   "prep": 30,
+   "speak": 60,
+   "prompt": "Describe a time when a plan you made did not go as expected. What happened, and what did you do?"
+  },
+  {
+   "id": "S3",
+   "task": 3,
+   "type": "Describing a Scene",
+   "prep": 30,
+   "speak": 60,
+   "image": "market",
+   "prompt": "Describe some things that are happening in the picture below as well as you can. The person you are speaking to cannot see the picture."
+  },
+  {
+   "id": "S4",
+   "task": 4,
+   "type": "Making Predictions",
+   "prep": 30,
+   "speak": 60,
+   "image": "market",
+   "prompt": "In this picture, what do you think will most probably happen next?"
+  },
+  {
+   "id": "S5",
+   "task": 5,
+   "type": "Comparing and Persuading",
+   "prep": 60,
+   "speak": 60,
+   "compare": true,
+   "prompt": "Your family is moving and must choose between two apartments. You prefer the one you chose. Persuade your partner, who prefers the other apartment, that yours is the better choice.",
+   "choices": [
+    {
+     "name": "Maple Court",
+     "details": [
+      "$2,150 per month",
+      "Downtown, 5-minute walk to the subway",
+      "2 bedrooms, small balcony",
+      "No parking"
+     ]
+    },
+    {
+     "name": "Birchwood Terrace",
+     "details": [
+      "$1,890 per month",
+      "Suburb, 25-minute bus ride to downtown",
+      "3 bedrooms, shared backyard",
+      "One parking spot included"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "S6",
+   "task": 6,
+   "type": "Dealing with a Difficult Situation",
+   "prep": 60,
+   "speak": 60,
+   "prompt": "You and a close coworker have both been asked to lead the same project, and your manager wants you to decide between yourselves. You would like to lead it, but you know your coworker is hoping for this opportunity too. Choose ONE: talk to your coworker and explain why you should lead it, OR talk to your manager and suggest a way to share the responsibility."
+  },
+  {
+   "id": "S6b",
+   "task": 6,
+   "type": "Dealing with a Difficult Situation",
+   "prep": 60,
+   "speak": 60,
+   "prompt": "Your neighbour often plays loud music late at night, and you have an important exam next week. Your roommate wants to complain to the building manager immediately. Choose ONE: speak to your neighbour directly, OR explain to your roommate why the building manager is the better option."
+  },
+  {
+   "id": "S7",
+   "task": 7,
+   "type": "Expressing Opinions",
+   "prep": 30,
+   "speak": 90,
+   "prompt": "Some people believe that cities should make public transit completely free for everyone. Do you agree or disagree? Explain your reasons."
+  },
+  {
+   "id": "S7b",
+   "task": 7,
+   "type": "Expressing Opinions",
+   "prep": 30,
+   "speak": 90,
+   "prompt": "Should employers be allowed to monitor what their employees do on work computers? Explain your opinion."
+  },
+  {
+   "id": "S8",
+   "task": 8,
+   "type": "Describing an Unusual Situation",
+   "prep": 30,
+   "speak": 60,
+   "image": "oddbike",
+   "prompt": "You are at a second-hand market and see this unusual object. Call a friend who likes strange things and describe it in detail, so they can decide whether you should buy it for them."
+  }
+ ],
+ "vocab": [
+  {
+   "w": "ameliorate",
+   "ipa": "/əˈmiːliəreɪt/",
+   "pos": "verb",
+   "cat": "Academic",
+   "lvl": "C2",
+   "m": "To make a bad or unsatisfactory situation better.",
+   "ex": "The new shuttle service is intended to ameliorate congestion near the hospital.",
+   "syn": [
+    "improve",
+    "alleviate",
+    "mitigate"
+   ],
+   "ant": [
+    "worsen",
+    "aggravate"
+   ],
+   "use": "Formal writing; usually with problems, conditions or situations."
+  },
+  {
+   "w": "contentious",
+   "ipa": "/kənˈtenʃəs/",
+   "pos": "adjective",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "Likely to cause disagreement or argument.",
+   "ex": "Rezoning the waterfront has become a contentious issue at council meetings.",
+   "syn": [
+    "controversial",
+    "divisive",
+    "disputed"
+   ],
+   "ant": [
+    "uncontroversial",
+    "agreed"
+   ],
+   "use": "Common with issue, topic, debate, decision."
+  },
+  {
+   "w": "mitigate",
+   "ipa": "/ˈmɪtɪɡeɪt/",
+   "pos": "verb",
+   "cat": "Academic",
+   "lvl": "C1",
+   "m": "To reduce the severity or harm of something.",
+   "ex": "Planting trees can mitigate the effects of summer heat.",
+   "syn": [
+    "lessen",
+    "reduce",
+    "temper"
+   ],
+   "ant": [
+    "intensify",
+    "exacerbate"
+   ],
+   "use": "Collocates with risk, impact, effects, damage."
+  },
+  {
+   "w": "exacerbate",
+   "ipa": "/ɪɡˈzæsərbeɪt/",
+   "pos": "verb",
+   "cat": "Academic",
+   "lvl": "C2",
+   "m": "To make a problem or bad situation worse.",
+   "ex": "Cutting bus service would only exacerbate the parking shortage.",
+   "syn": [
+    "aggravate",
+    "worsen",
+    "compound"
+   ],
+   "ant": [
+    "mitigate",
+    "relieve"
+   ],
+   "use": "Formal; used with problems, tensions, symptoms."
+  },
+  {
+   "w": "pragmatic",
+   "ipa": "/præɡˈmætɪk/",
+   "pos": "adjective",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "Dealing with things sensibly and realistically.",
+   "ex": "She took a pragmatic approach and split the project into smaller deadlines.",
+   "syn": [
+    "practical",
+    "realistic",
+    "sensible"
+   ],
+   "ant": [
+    "idealistic",
+    "impractical"
+   ],
+   "use": "Common with approach, solution, decision."
+  },
+  {
+   "w": "nuanced",
+   "ipa": "/ˈnuːɑːnst/",
+   "pos": "adjective",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "Showing awareness of subtle differences or shades of meaning.",
+   "ex": "The commentator offered a nuanced view of office-to-housing conversions.",
+   "syn": [
+    "subtle",
+    "sophisticated",
+    "balanced"
+   ],
+   "ant": [
+    "simplistic",
+    "crude"
+   ],
+   "use": "With view, argument, understanding, position."
+  },
+  {
+   "w": "reluctant",
+   "ipa": "/rɪˈlʌktənt/",
+   "pos": "adjective",
+   "cat": "Advanced",
+   "lvl": "B2",
+   "m": "Unwilling and hesitant to do something.",
+   "ex": "Many residents were reluctant to support the fee until transit improved.",
+   "syn": [
+    "hesitant",
+    "unwilling",
+    "disinclined"
+   ],
+   "ant": [
+    "eager",
+    "willing"
+   ],
+   "use": "Pattern: reluctant to + verb."
+  },
+  {
+   "w": "inadvertently",
+   "ipa": "/ˌɪnədˈvɜːrtəntli/",
+   "pos": "adverb",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "Without intending to; accidentally.",
+   "ex": "I inadvertently deleted the email from HR about the transit pass.",
+   "syn": [
+    "accidentally",
+    "unintentionally",
+    "unwittingly"
+   ],
+   "ant": [
+    "deliberately",
+    "intentionally"
+   ],
+   "use": "Useful for polite explanations in complaint and apology emails."
+  },
+  {
+   "w": "substantiate",
+   "ipa": "/səbˈstænʃieɪt/",
+   "pos": "verb",
+   "cat": "Academic",
+   "lvl": "C2",
+   "m": "To provide evidence to support or prove a claim.",
+   "ex": "Please substantiate your complaint with dated receipts.",
+   "syn": [
+    "support",
+    "corroborate",
+    "verify"
+   ],
+   "ant": [
+    "refute",
+    "disprove"
+   ],
+   "use": "With claim, allegation, argument."
+  },
+  {
+   "w": "feasible",
+   "ipa": "/ˈfiːzəbl/",
+   "pos": "adjective",
+   "cat": "Workplace",
+   "lvl": "B2",
+   "m": "Possible to do easily or conveniently.",
+   "ex": "Is it feasible to finish the report by Friday without overtime?",
+   "syn": [
+    "viable",
+    "workable",
+    "achievable"
+   ],
+   "ant": [
+    "impractical",
+    "unworkable"
+   ],
+   "use": "Common in workplace planning: technically feasible, financially feasible."
+  },
+  {
+   "w": "deliverable",
+   "ipa": "/dɪˈlɪvərəbl/",
+   "pos": "noun",
+   "cat": "Workplace",
+   "lvl": "C1",
+   "m": "A specific product or result to be completed as part of a project.",
+   "ex": "The first deliverable is a draft floor plan due next Tuesday.",
+   "syn": [
+    "output",
+    "milestone",
+    "result"
+   ],
+   "ant": [],
+   "use": "Project management; usually plural in meetings."
+  },
+  {
+   "w": "stakeholder",
+   "ipa": "/ˈsteɪkhoʊldər/",
+   "pos": "noun",
+   "cat": "Workplace",
+   "lvl": "C1",
+   "m": "A person or group with an interest in a project or decision.",
+   "ex": "We consulted every stakeholder before changing the schedule.",
+   "syn": [
+    "interested party",
+    "participant"
+   ],
+   "ant": [],
+   "use": "Key stakeholders, consult stakeholders, stakeholder feedback."
+  },
+  {
+   "w": "touch base",
+   "ipa": "/tʌtʃ beɪs/",
+   "pos": "idiom",
+   "cat": "Workplace",
+   "lvl": "B2",
+   "m": "To make brief contact with someone to check in.",
+   "ex": "Let’s touch base on Thursday before the client meeting.",
+   "syn": [
+    "check in",
+    "follow up"
+   ],
+   "ant": [],
+   "use": "Informal workplace English; touch base with someone."
+  },
+  {
+   "w": "bite the bullet",
+   "ipa": "/baɪt ðə ˈbʊlɪt/",
+   "pos": "idiom",
+   "cat": "Idioms",
+   "lvl": "B2",
+   "m": "To force yourself to do something unpleasant but necessary.",
+   "ex": "I finally bit the bullet and booked my dental appointment.",
+   "syn": [
+    "face the music",
+    "grit your teeth"
+   ],
+   "ant": [
+    "put off",
+    "avoid"
+   ],
+   "use": "Informal speaking; strong in personal experience answers."
+  },
+  {
+   "w": "a blessing in disguise",
+   "ipa": "/ə ˈblesɪŋ ɪn dɪsˈɡaɪz/",
+   "pos": "idiom",
+   "cat": "Idioms",
+   "lvl": "B2",
+   "m": "Something that seems bad at first but turns out to be good.",
+   "ex": "Missing that flight was a blessing in disguise; I met my future business partner at the airport.",
+   "syn": [
+    "silver lining"
+   ],
+   "ant": [],
+   "use": "Great for Speaking Task 2 stories with a twist."
+  },
+  {
+   "w": "the tip of the iceberg",
+   "ipa": "/ðə tɪp əv ði ˈaɪsbɜːrɡ/",
+   "pos": "idiom",
+   "cat": "Idioms",
+   "lvl": "C1",
+   "m": "A small, visible part of a much larger problem.",
+   "ex": "The leaking ceiling was just the tip of the iceberg.",
+   "syn": [
+    "a small part"
+   ],
+   "ant": [],
+   "use": "Useful for emphasizing the scale of a problem."
+  },
+  {
+   "w": "cut corners",
+   "ipa": "/kʌt ˈkɔːrnərz/",
+   "pos": "idiom",
+   "cat": "Idioms",
+   "lvl": "B2",
+   "m": "To do something badly or cheaply to save time or money.",
+   "ex": "The contractor clearly cut corners when installing the fence posts.",
+   "syn": [
+    "skimp",
+    "do a sloppy job"
+   ],
+   "ant": [
+    "be thorough"
+   ],
+   "use": "Common in complaint emails, usually negative."
+  },
+  {
+   "w": "on the fence",
+   "ipa": "/ɑːn ðə fens/",
+   "pos": "idiom",
+   "cat": "Idioms",
+   "lvl": "B2",
+   "m": "Undecided about something.",
+   "ex": "I’m still on the fence about the four-day week.",
+   "syn": [
+    "undecided",
+    "torn"
+   ],
+   "ant": [
+    "decided",
+    "certain"
+   ],
+   "use": "Informal; useful when introducing a balanced opinion."
+  },
+  {
+   "w": "follow through",
+   "ipa": "/ˈfɑːloʊ θruː/",
+   "pos": "phrasal verb",
+   "cat": "Phrasal verbs",
+   "lvl": "B2",
+   "m": "To complete something you have started or promised.",
+   "ex": "If the city doesn’t follow through on its transit promises, support will collapse.",
+   "syn": [
+    "carry out",
+    "complete"
+   ],
+   "ant": [
+    "abandon",
+    "give up"
+   ],
+   "use": "follow through on a promise/plan."
+  },
+  {
+   "w": "iron out",
+   "ipa": "/ˈaɪərn aʊt/",
+   "pos": "phrasal verb",
+   "cat": "Phrasal verbs",
+   "lvl": "C1",
+   "m": "To resolve small problems or disagreements.",
+   "ex": "We need to iron out the scheduling details before the pilot starts.",
+   "syn": [
+    "resolve",
+    "settle",
+    "sort out"
+   ],
+   "ant": [],
+   "use": "With details, differences, problems, wrinkles."
+  },
+  {
+   "w": "phase out",
+   "ipa": "/feɪz aʊt/",
+   "pos": "phrasal verb",
+   "cat": "Phrasal verbs",
+   "lvl": "C1",
+   "m": "To gradually stop using or providing something.",
+   "ex": "The city plans to phase out single-use plastic containers by 2028.",
+   "syn": [
+    "discontinue",
+    "wind down"
+   ],
+   "ant": [
+    "introduce",
+    "phase in"
+   ],
+   "use": "Policy and environmental topics; great for Writing Task 2."
+  },
+  {
+   "w": "come across",
+   "ipa": "/kʌm əˈkrɔːs/",
+   "pos": "phrasal verb",
+   "cat": "Phrasal verbs",
+   "lvl": "B2",
+   "m": "1) To find by chance; 2) to make a particular impression.",
+   "ex": "Her email came across as polite but firm.",
+   "syn": [
+    "seem",
+    "appear",
+    "stumble upon"
+   ],
+   "ant": [],
+   "use": "come across as + adjective is useful for discussing tone."
+  },
+  {
+   "w": "weigh up",
+   "ipa": "/weɪ ʌp/",
+   "pos": "phrasal verb",
+   "cat": "Phrasal verbs",
+   "lvl": "B2",
+   "m": "To consider the advantages and disadvantages of something.",
+   "ex": "Before accepting the promotion, weigh up the extra hours against the salary.",
+   "syn": [
+    "assess",
+    "evaluate",
+    "consider"
+   ],
+   "ant": [],
+   "use": "Ideal for Speaking Task 1 advice."
+  },
+  {
+   "w": "fall through",
+   "ipa": "/fɔːl θruː/",
+   "pos": "phrasal verb",
+   "cat": "Phrasal verbs",
+   "lvl": "B2",
+   "m": "To fail to happen as planned.",
+   "ex": "Our trip fell through when the airline cancelled the route.",
+   "syn": [
+    "collapse",
+    "fail"
+   ],
+   "ant": [
+    "succeed"
+   ],
+   "use": "Plans, deals, arrangements fall through."
+  },
+  {
+   "w": "pose a risk",
+   "ipa": "/poʊz ə rɪsk/",
+   "pos": "collocation",
+   "cat": "Collocations",
+   "lvl": "C1",
+   "m": "To create a possible danger.",
+   "ex": "Water near the light fixture poses a serious risk.",
+   "syn": [
+    "present a danger"
+   ],
+   "ant": [],
+   "use": "pose a threat / a challenge / a problem."
+  },
+  {
+   "w": "raise a concern",
+   "ipa": "/reɪz ə kənˈsɜːrn/",
+   "pos": "collocation",
+   "cat": "Collocations",
+   "lvl": "B2",
+   "m": "To mention a worry formally.",
+   "ex": "Several staff raised concerns about client coverage on Fridays.",
+   "syn": [
+    "voice a concern",
+    "flag an issue"
+   ],
+   "ant": [],
+   "use": "Formal emails and meetings."
+  },
+  {
+   "w": "a viable alternative",
+   "ipa": "/ə ˈvaɪəbl ɔːlˈtɜːrnətɪv/",
+   "pos": "collocation",
+   "cat": "Collocations",
+   "lvl": "C1",
+   "m": "Another option that could realistically work.",
+   "ex": "For many suburban workers, transit is not yet a viable alternative.",
+   "syn": [
+    "realistic option"
+   ],
+   "ant": [],
+   "use": "Strong phrase for survey responses."
+  },
+  {
+   "w": "bear in mind",
+   "ipa": "/ber ɪn maɪnd/",
+   "pos": "collocation",
+   "cat": "Collocations",
+   "lvl": "B2",
+   "m": "To remember and consider something.",
+   "ex": "Bear in mind that the vulnerable sector check takes weeks.",
+   "syn": [
+    "keep in mind",
+    "remember"
+   ],
+   "ant": [
+    "overlook"
+   ],
+   "use": "Polite way to add a condition in advice."
+  },
+  {
+   "w": "take into account",
+   "ipa": "/teɪk ˈɪntuː əˈkaʊnt/",
+   "pos": "collocation",
+   "cat": "Collocations",
+   "lvl": "B2",
+   "m": "To consider something when making a decision.",
+   "ex": "The proposal doesn’t take into account parents with daycare pickups.",
+   "syn": [
+    "factor in",
+    "allow for"
+   ],
+   "ant": [
+    "disregard"
+   ],
+   "use": "Very useful in Writing Task 2 counterarguments."
+  },
+  {
+   "w": "empirical",
+   "ipa": "/ɪmˈpɪrɪkl/",
+   "pos": "adjective",
+   "cat": "Academic",
+   "lvl": "C1",
+   "m": "Based on observation or experiment rather than theory.",
+   "ex": "There is strong empirical evidence that tree cover lowers street temperatures.",
+   "syn": [
+    "observed",
+    "experimental",
+    "evidence-based"
+   ],
+   "ant": [
+    "theoretical",
+    "hypothetical"
+   ],
+   "use": "empirical evidence / data / research."
+  },
+  {
+   "w": "inherent",
+   "ipa": "/ɪnˈhɪrənt/",
+   "pos": "adjective",
+   "cat": "Academic",
+   "lvl": "C1",
+   "m": "Existing as a natural or permanent part of something.",
+   "ex": "There are inherent risks in converting older buildings.",
+   "syn": [
+    "intrinsic",
+    "built-in",
+    "innate"
+   ],
+   "ant": [
+    "external",
+    "extrinsic"
+   ],
+   "use": "inherent in something; inherent risk/flaw."
+  },
+  {
+   "w": "unprecedented",
+   "ipa": "/ʌnˈpresɪdentɪd/",
+   "pos": "adjective",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "Never having happened or existed before.",
+   "ex": "The town saw an unprecedented level of volunteer support.",
+   "syn": [
+    "unparalleled",
+    "extraordinary"
+   ],
+   "ant": [
+    "common",
+    "routine"
+   ],
+   "use": "Often overused in news; choose carefully."
+  },
+  {
+   "w": "discrepancy",
+   "ipa": "/dɪˈskrepənsi/",
+   "pos": "noun",
+   "cat": "Workplace",
+   "lvl": "C1",
+   "m": "A difference between things that should be the same.",
+   "ex": "I noticed a discrepancy between my invoice and the quote.",
+   "syn": [
+    "inconsistency",
+    "mismatch"
+   ],
+   "ant": [
+    "agreement",
+    "consistency"
+   ],
+   "use": "Excellent for billing complaint emails."
+  },
+  {
+   "w": "expedite",
+   "ipa": "/ˈekspədaɪt/",
+   "pos": "verb",
+   "cat": "Workplace",
+   "lvl": "C1",
+   "m": "To make a process happen faster.",
+   "ex": "Could you expedite the refund, as this charge has caused an overdraft?",
+   "syn": [
+    "speed up",
+    "accelerate",
+    "fast-track"
+   ],
+   "ant": [
+    "delay",
+    "hinder"
+   ],
+   "use": "Formal requests: expedite a request/process/shipment."
+  },
+  {
+   "w": "reimburse",
+   "ipa": "/ˌriːɪmˈbɜːrs/",
+   "pos": "verb",
+   "cat": "Workplace",
+   "lvl": "B2",
+   "m": "To pay back money that someone has spent or lost.",
+   "ex": "The company will reimburse travel expenses within 30 days.",
+   "syn": [
+    "refund",
+    "repay",
+    "compensate"
+   ],
+   "ant": [
+    "charge"
+   ],
+   "use": "reimburse someone for something."
+  },
+  {
+   "w": "double-double",
+   "ipa": "/ˈdʌbl ˈdʌbl/",
+   "pos": "noun",
+   "cat": "Canadian English",
+   "lvl": "B1",
+   "m": "A coffee with two creams and two sugars.",
+   "ex": "I grabbed a double-double on my way to the job site.",
+   "syn": [],
+   "ant": [],
+   "use": "Very Canadian; informal speaking only."
+  },
+  {
+   "w": "toque",
+   "ipa": "/tuːk/",
+   "pos": "noun",
+   "cat": "Canadian English",
+   "lvl": "B1",
+   "m": "A knitted winter hat (often spelled tuque).",
+   "ex": "Don’t forget your toque; it’s minus twenty-five with the wind chill.",
+   "syn": [
+    "beanie",
+    "winter hat"
+   ],
+   "ant": [],
+   "use": "Everyday Canadian usage."
+  },
+  {
+   "w": "toonie",
+   "ipa": "/ˈtuːni/",
+   "pos": "noun",
+   "cat": "Canadian English",
+   "lvl": "B1",
+   "m": "A Canadian two-dollar coin (a loonie is the one-dollar coin).",
+   "ex": "Parking at the arena is just a toonie after six.",
+   "syn": [],
+   "ant": [],
+   "use": "Informal; loonie and toonie are both common."
+  },
+  {
+   "w": "keener",
+   "ipa": "/ˈkiːnər/",
+   "pos": "noun",
+   "cat": "Canadian English",
+   "lvl": "B2",
+   "m": "A very eager, enthusiastic person, often a student (sometimes teasing).",
+   "ex": "He was the keener who sat in the front row and did every optional reading.",
+   "syn": [
+    "eager beaver"
+   ],
+   "ant": [],
+   "use": "Informal; can be affectionate or mildly mocking."
+  },
+  {
+   "w": "hydro",
+   "ipa": "/ˈhaɪdroʊ/",
+   "pos": "noun",
+   "cat": "Canadian English",
+   "lvl": "B1",
+   "m": "Electricity or the electricity bill (common in Ontario and some provinces).",
+   "ex": "Our hydro bill doubled during the cold snap.",
+   "syn": [
+    "electricity",
+    "power"
+   ],
+   "ant": [],
+   "use": "Regional; understood widely in Canada."
+  },
+  {
+   "w": "give’r",
+   "ipa": "/ˈɡɪvər/",
+   "pos": "expression",
+   "cat": "Canadian English",
+   "lvl": "B2",
+   "m": "To go all out; to put in maximum effort.",
+   "ex": "The hill was steep, but we just had to give’r.",
+   "syn": [
+    "go all out"
+   ],
+   "ant": [
+    "take it easy"
+   ],
+   "use": "Very informal; avoid in formal writing."
+  },
+  {
+   "w": "concede",
+   "ipa": "/kənˈsiːd/",
+   "pos": "verb",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "To admit that something is true, often reluctantly.",
+   "ex": "I concede that free transit is costly, but the benefits outweigh it.",
+   "syn": [
+    "acknowledge",
+    "grant",
+    "admit"
+   ],
+   "ant": [
+    "deny",
+    "dispute"
+   ],
+   "use": "Excellent for counterarguments in opinion tasks."
+  },
+  {
+   "w": "compelling",
+   "ipa": "/kəmˈpelɪŋ/",
+   "pos": "adjective",
+   "cat": "Advanced",
+   "lvl": "C1",
+   "m": "Powerful and convincing.",
+   "ex": "The most compelling reason for Option A is its long-term impact.",
+   "syn": [
+    "convincing",
+    "persuasive",
+    "forceful"
+   ],
+   "ant": [
+    "weak",
+    "unconvincing"
+   ],
+   "use": "compelling argument / evidence / reason."
+  },
+  {
+   "w": "detrimental",
+   "ipa": "/ˌdetrɪˈmentl/",
+   "pos": "adjective",
+   "cat": "Academic",
+   "lvl": "C1",
+   "m": "Causing harm or damage.",
+   "ex": "Longer shifts could be detrimental to employee well-being.",
+   "syn": [
+    "harmful",
+    "damaging",
+    "adverse"
+   ],
+   "ant": [
+    "beneficial"
+   ],
+   "use": "detrimental to something."
+  },
+  {
+   "w": "albeit",
+   "ipa": "/ɔːlˈbiːɪt/",
+   "pos": "conjunction",
+   "cat": "Academic",
+   "lvl": "C2",
+   "m": "Although; even though (introduces a limiting point).",
+   "ex": "The plan worked, albeit more slowly than expected.",
+   "syn": [
+    "although",
+    "though"
+   ],
+   "ant": [],
+   "use": "Followed by an adjective, adverb or phrase, not a full clause."
+  },
+  {
+   "w": "commensurate",
+   "ipa": "/kəˈmenʃərət/",
+   "pos": "adjective",
+   "cat": "Workplace",
+   "lvl": "C2",
+   "m": "Corresponding in size or degree; in proportion.",
+   "ex": "Salary will be commensurate with experience.",
+   "syn": [
+    "proportionate",
+    "equivalent"
+   ],
+   "ant": [
+    "disproportionate"
+   ],
+   "use": "commensurate with something; common in job ads."
+  },
+  {
+   "w": "scrutinize",
+   "ipa": "/ˈskruːtənaɪz/",
+   "pos": "verb",
+   "cat": "Academic",
+   "lvl": "C1",
+   "m": "To examine something closely and carefully.",
+   "ex": "The board will scrutinize the invoice from the outside electrician.",
+   "syn": [
+    "examine",
+    "inspect",
+    "analyze"
+   ],
+   "ant": [
+    "overlook",
+    "skim"
+   ],
+   "use": "Formal; scrutinize a document/proposal."
+  }
+ ],
+ "quotes": [
+  "Band 12 isn’t one big leap. It’s a hundred small, precise choices made under a timer.",
+  "Fluency isn’t speaking fast. It’s never losing your listener.",
+  "Read like an examiner today, and you’ll write like a band 11 tomorrow.",
+  "Every wrong answer you review is one you won’t get wrong on test day.",
+  "Precision beats decoration. One exact word outperforms three impressive ones.",
+  "Your accent tells people where you’re from. Your organization tells them how well you think.",
+  "Discipline is choosing the exercise you’ve been avoiding.",
+  "Listen for why people say things, not just what they say.",
+  "A strong answer acknowledges the other side, then explains why yours still wins.",
+  "Ten focused minutes beat an hour of half-attention.",
+  "Mistakes in practice are cheap. Make them here.",
+  "The timer is not your enemy. Hesitation is.",
+  "Clarity is a kindness to your reader, and examiners notice kindness.",
+  "Progress hides in the reviews, not the scores."
+ ],
+ "challenges": [
+  {
+   "id": "c-listen90",
+   "text": "Score at least 90% in an advanced listening exercise.",
+   "skill": "listening",
+   "kind": "score",
+   "target": 90
+  },
+  {
+   "id": "c-read-infer",
+   "text": "Complete a reading exercise with every inference question correct.",
+   "skill": "reading",
+   "kind": "category",
+   "category": "inference"
+  },
+  {
+   "id": "c-write",
+   "text": "Submit a writing response of 150 to 200 words.",
+   "skill": "writing",
+   "kind": "submit"
+  },
+  {
+   "id": "c-speak2",
+   "text": "Record and submit two speaking tasks.",
+   "skill": "speaking",
+   "kind": "count",
+   "target": 2
+  },
+  {
+   "id": "c-vocab10",
+   "text": "Review 10 vocabulary cards.",
+   "skill": "vocabulary",
+   "kind": "vocab",
+   "target": 10
+  },
+  {
+   "id": "c-read85",
+   "text": "Score at least 85% in Reading for Viewpoints.",
+   "skill": "reading",
+   "kind": "score",
+   "target": 85,
+   "type": "Reading for Viewpoints"
+  },
+  {
+   "id": "c-two-skills",
+   "text": "Practise two different skills today.",
+   "skill": "any",
+   "kind": "skills",
+   "target": 2
+  }
+ ]
+}

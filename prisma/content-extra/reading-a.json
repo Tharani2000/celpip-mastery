@@ -1,0 +1,1090 @@
+[
+ {
+  "id": "R1-2",
+  "part": 1,
+  "type": "Reading Correspondence",
+  "difficulty": "Intermediate",
+  "timeLimit": 600,
+  "title": "Accepting a bike shop job",
+  "passage": [
+   "Subject: Offer of employment: Customer Service Associate",
+   "Dear Ms. Okafor,",
+   "Thank you for interviewing with us last Thursday. It was a pleasure to meet you, and everyone at Harbourline Cycle Works was impressed by your enthusiasm and by your experience helping customers in your previous retail position.",
+   "I am delighted to offer you the part-time position of Customer Service Associate at our Halifax shop. The job starts on Monday, March 3, and involves 24 hours of work per week, usually from Thursday to Saturday. The hourly wage is $18.50. After a three-month probation period, you will be eligible for a staff discount of 25 percent on bicycles and accessories.",
+   "During your first week, you will complete paid training with our assistant manager, Dev Malhotra. He will show you how to use our point-of-sale system, how to book repair appointments and how to handle returns. Please plan to arrive at 8:45 a.m. on your first day so that we can finish your paperwork before the shop opens at 9:30.",
+   "To accept this offer, please sign the attached letter and return it to me by Friday, February 21. If your availability changes before your start date, let me know as soon as possible, because we would need to adjust the weekly schedule. Please also bring two pieces of identification, one with your photo, and your banking details for direct deposit.",
+   "A small note about getting to work: we do not have staff parking behind the shop, but bus route 14 stops right at the corner of Quinpool Road and Preston Street.",
+   "We look forward to welcoming you to the team. Please call me at 902-555-0147 if you have any questions about the schedule or benefits.",
+   "Sincerely,",
+   "Priya Raman",
+   "Store Manager, Harbourline Cycle Works"
+  ],
+  "questions": [
+   {
+    "q": "What is the main purpose of Priya’s email?",
+    "o": [
+     "To offer Ms. Okafor a job and explain the details",
+     "To invite Ms. Okafor to a second interview",
+     "To announce a sale at the bike shop",
+     "To ask Ms. Okafor for references"
+    ],
+    "a": 0,
+    "cat": "main",
+    "e": "The email begins “I am delighted to offer you the part-time position” and then gives the start date, hours, wage and next steps."
+   },
+   {
+    "q": "When will Ms. Okafor become eligible for the staff discount?",
+    "o": [
+     "On her first day of work",
+     "After her first week of training",
+     "After she signs the attached letter",
+     "After three months of employment"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "The email says the discount applies “after a three-month probation period.”"
+   },
+   {
+    "q": "What must Ms. Okafor do by February 21?",
+    "o": [
+     "Complete her paid training",
+     "Bring two pieces of identification to the shop",
+     "Sign the attached letter and return it",
+     "Call the assistant manager"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "Priya asks her to “sign the attached letter and return it to me by Friday, February 21.” The identification is requested later, with no stated deadline."
+   },
+   {
+    "q": "In the second paragraph, the phrase “eligible for” is closest in meaning to:",
+    "o": [
+     "required to pay",
+     "qualified to receive",
+     "unhappy about",
+     "likely to forget"
+    ],
+    "a": 1,
+    "cat": "vocabulary",
+    "e": "Being “eligible for a staff discount” means she will be allowed or qualified to receive it."
+   },
+   {
+    "q": "Why does Priya mention bus route 14?",
+    "o": [
+     "Because the shop runs a free shuttle",
+     "Because staff cannot park behind the shop",
+     "Because the shop is far from downtown",
+     "Because Ms. Okafor asked about transit"
+    ],
+    "a": 1,
+    "cat": "implied",
+    "e": "She says there is no staff parking and then points out the bus stop at the corner, implying public transit is the practical way to get there."
+   },
+   {
+    "q": "Which word best describes the tone of the email?",
+    "o": [
+     "Professional and welcoming",
+     "Strict and impatient",
+     "Casual and joking",
+     "Uncertain and apologetic"
+    ],
+    "a": 0,
+    "cat": "tone",
+    "e": "The email is polite and organized (“delighted,” “welcoming you to the team”) while staying businesslike."
+   }
+  ]
+ },
+ {
+  "id": "R1-3",
+  "part": 1,
+  "type": "Reading Correspondence",
+  "difficulty": "Intermediate",
+  "timeLimit": 600,
+  "title": "Cedar Street block party",
+  "passage": [
+   "Subject: You’re invited: Cedar Street block party on September 14!",
+   "Hi neighbours,",
+   "I hope you’re enjoying the last of the summer weather. A few of us have been talking about how little we see of each other, so we’ve decided to do something about it: the first-ever Cedar Street block party is happening on Saturday, September 14, from 2:00 to 7:00 p.m.",
+   "The city has approved our permit, which means Cedar Street will be closed to traffic between 4th and 6th Avenue for the afternoon. To keep everyone safe, please move your vehicles off the street before 10:00 a.m. that morning. Cars left on the street after that time may be towed, and none of us wants to start a party with a tow truck.",
+   "The Hendersons have kindly offered to lend us their big barbecue and will be grilling burgers and veggie patties. Everything else will be a potluck, so please bring a dish to share. Let me know what you plan to make when you reply, so that we don’t end up with eight potato salads. One request: please keep the dishes nut-free, since one of our young neighbours has a serious allergy.",
+   "There will be face painting at 3:00 for the kids and relay races at 4:00 for anyone who’s feeling competitive, including the grown-ups. Bring your own chairs, and a sweater in case the evening gets cool. If it rains, we’ll move everything to the gym at Fernhill Elementary School, which the principal has generously allowed us to use.",
+   "I’m also looking for a few volunteers: three people to help set up tables at 12:30, and three to help with cleanup after 7:00. If you can help, just mention it in your reply.",
+   "Please RSVP by Saturday, September 7, by replying to this email with your name, the number of people coming and the dish you’ll bring. I can’t wait to finally meet everyone properly!",
+   "Cheers,",
+   "Marisol Vega",
+   "42 Cedar Street"
+  ],
+  "questions": [
+   {
+    "q": "Why is Marisol writing to her neighbours?",
+    "o": [
+     "To complain about traffic on Cedar Street",
+     "To announce that a new permit is required",
+     "To ask for donations for a school",
+     "To invite them to a block party and ask for some help"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "She invites everyone to the party and also asks for dishes, volunteers and RSVPs."
+   },
+   {
+    "q": "What should residents do with their vehicles?",
+    "o": [
+     "Park them in the school gym",
+     "Leave them in place until 2:00 p.m.",
+     "Move them off the street before 10:00 a.m.",
+     "Give the keys to the Hendersons"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "The email asks for vehicles to be moved “before 10:00 a.m.” and warns that cars left later may be towed."
+   },
+   {
+    "q": "Where will the party be held if the weather is bad?",
+    "o": [
+     "At the Hendersons’ house",
+     "On 6th Avenue",
+     "At Fernhill Elementary School",
+     "At the city hall"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "The email says “If it rains, we’ll move everything to the gym at Fernhill Elementary School.”"
+   },
+   {
+    "q": "In the third paragraph, what does “potluck” mean?",
+    "o": [
+     "A contest with prizes",
+     "A meal where guests bring food to share",
+     "A meal prepared by one family",
+     "A picnic in a park"
+    ],
+    "a": 1,
+    "cat": "vocabulary",
+    "e": "Marisol explains that everything except the grilled food is a potluck, so “bring a dish to share.”"
+   },
+   {
+    "q": "Why does Marisol ask people to tell her what dish they will bring?",
+    "o": [
+     "To avoid having too many of the same dish",
+     "To decide who will do the cooking",
+     "To check for nuts in every recipe",
+     "To count how many chairs are needed"
+    ],
+    "a": 0,
+    "cat": "intention",
+    "e": "Her joke about “eight potato salads” shows she wants variety. The nut-free request is a separate point."
+   },
+   {
+    "q": "Which best describes the tone of the email?",
+    "o": [
+     "Stern and official",
+     "Cold and distant",
+     "Nervous and unsure",
+     "Warm and informal"
+    ],
+    "a": 3,
+    "cat": "tone",
+    "e": "She uses a chatty, friendly style (“Hi neighbours,” “Cheers,” jokes about a tow truck)."
+   }
+  ]
+ },
+ {
+  "id": "R1-4",
+  "part": 1,
+  "type": "Reading Correspondence",
+  "difficulty": "Advanced",
+  "timeLimit": 600,
+  "title": "A delayed dining set",
+  "passage": [
+   "Subject: Order #MH-48213: damaged and incomplete delivery",
+   "To the Customer Care Team,",
+   "I am writing about a dining set I ordered from Maplewood Home Furnishings on September 19. At checkout I was told that the table and six chairs would arrive by October 10. They actually arrived on October 24, and only after four phone calls from me, none of which produced a clear explanation for the delay.",
+   "The condition of the delivery was, unfortunately, a further disappointment. The oak tabletop has a long scratch across the centre, and only four of the six chairs were in the boxes. The delivery crew spent perhaps fifteen minutes in my home, and when I pointed out the damage, they suggested I contact the store. I have photographs of the scratch and of the packing slip, which lists six chairs, and I can send these on request.",
+   "When I called again on October 25, a representative named Karen offered to refund the $79 delivery fee. While I appreciate the gesture, it addresses only the lateness. It does nothing about a damaged table or the two chairs I paid for and still do not have. I should add that Karen was courteous throughout; my concern is with the process, not with her.",
+   "I have been a customer for some time. My sofa, bought two years ago, has given me no trouble, which is exactly why this experience has been so surprising. I had expected a company I trusted to handle a problem like this without my having to chase it.",
+   "I would therefore like the company to do the following: replace the damaged tabletop, deliver the two missing chairs at no charge, and apply a reasonable discount to reflect the three-week delay and the inconvenience. I would be grateful for a written reply within seven business days.",
+   "If we cannot reach a satisfactory arrangement by then, I will be prepared to escalate the matter, first by disputing the charge with my credit card company and then by contacting the provincial consumer protection office. I would very much prefer not to take that step.",
+   "Yours sincerely,",
+   "Daniel Whitfield"
+  ],
+  "questions": [
+   {
+    "q": "What is the main purpose of Daniel’s email?",
+    "o": [
+     "To cancel his entire order",
+     "To praise a customer service employee",
+     "To ask when his sofa will arrive",
+     "To request a fair solution to a faulty delivery"
+    ],
+    "a": 3,
+    "cat": "main",
+    "e": "He describes the late, damaged and incomplete delivery, then lists the remedies he wants."
+   },
+   {
+    "q": "Which problems did Daniel find when the set arrived?",
+    "o": [
+     "A broken chair and a missing table leg",
+     "A late crew and a wrong colour",
+     "A scratched tabletop and two missing chairs",
+     "A missing packing slip and a torn box"
+    ],
+    "a": 2,
+    "cat": "detail",
+    "e": "He reports a scratch on the oak tabletop and only four of six chairs. The packing slip was present because he has a photograph of it."
+   },
+   {
+    "q": "Why does Daniel say the $79 refund is not enough?",
+    "o": [
+     "It is smaller than the price of a chair",
+     "It does not address the damage or the missing chairs",
+     "It was offered by a rude employee",
+     "It arrived after the seven-day deadline"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "He says the refund “addresses only the lateness” and does nothing about the table or the chairs. He also states Karen was courteous."
+   },
+   {
+    "q": "In the final paragraph, “escalate the matter” most nearly means:",
+    "o": [
+     "take the problem to higher authorities",
+     "end the conversation politely",
+     "forgive the company’s mistake",
+     "wait for further delivery"
+    ],
+    "a": 0,
+    "cat": "vocabulary",
+    "e": "He then lists the credit card dispute and consumer protection office, which are steps up in seriousness."
+   },
+   {
+    "q": "Why does Daniel mention his sofa?",
+    "o": [
+     "To show he is a loyal customer who expected better",
+     "To ask for a refund on the sofa",
+     "To prove the company makes weak furniture",
+     "To suggest that Karen was unprofessional"
+    ],
+    "a": 0,
+    "cat": "intention",
+    "e": "He says the sofa gave no trouble, which is “exactly why” this experience surprised him, so he is presenting himself as a trusting customer."
+   },
+   {
+    "q": "Which best describes the tone of the email?",
+    "o": [
+     "Angry and insulting",
+     "Cheerful and relaxed",
+     "Hesitant and apologetic",
+     "Firm but civil"
+    ],
+    "a": 3,
+    "cat": "tone",
+    "e": "He sets clear demands and a deadline but acknowledges Karen’s courtesy and says he prefers not to escalate."
+   }
+  ]
+ },
+ {
+  "id": "R1-5",
+  "part": 1,
+  "type": "Reading Correspondence",
+  "difficulty": "Advanced",
+  "timeLimit": 600,
+  "title": "Notice of building maintenance",
+  "passage": [
+   "Subject: Important notice: Water shut-off and parking changes at Birchwood Court",
+   "Dear residents,",
+   "We are writing to let you know about three pieces of maintenance work that will affect the building in November. We regret any inconvenience and have tried to keep the disruption as short as possible.",
+   "First, the municipal water department will be replacing a main valve on Birchwood Avenue. As a result, water to the entire building will be shut off on Tuesday, November 12, from 9:00 a.m. to 3:00 p.m. Because the crew has been scheduled by the city rather than by us, we are unable to change the date. We suggest filling a few containers beforehand for drinking and flushing. Residents who need to shower that morning may use the Eastgate Fitness Centre, two blocks away, free of charge by showing a Birchwood Court key fob at the front desk.",
+   "Second, following the valve work, a plumber will inspect the pipes in suites 301 to 312 on Wednesday, November 13, between 10:00 a.m. and 2:00 p.m. This notice constitutes the written notice of entry required by provincial tenancy rules. If you will not be home, a staff member will let the plumber in with a master key unless you tell the office otherwise by Friday, November 8. Please put away anything fragile or valuable near the sinks and bathtubs.",
+   "Finally, Lot B at the rear of the building will be repaved from Monday, November 18, to Wednesday, November 20. All vehicles must be removed by 7:00 a.m. on November 18. The city has agreed to waive its overnight parking restrictions on Cartier Street for those three nights, so residents may park there without a permit. Vehicles left in Lot B during the work will be towed at the owner’s expense.",
+   "We appreciate your patience and cooperation. Questions can be directed to the building office, which is open weekdays from 8:30 a.m. to 4:30 p.m., or to office@birchwoodcourt.example.",
+   "Sincerely,",
+   "Ruth Abelard",
+   "Property Manager, Birchwood Court"
+  ],
+  "questions": [
+   {
+    "q": "What is the main purpose of this notice?",
+    "o": [
+     "To announce a rent increase",
+     "To ask residents to vote on repairs",
+     "To inform tenants about upcoming work and what they must do",
+     "To introduce a new property manager"
+    ],
+    "a": 2,
+    "cat": "main",
+    "e": "The notice describes a water shut-off, a pipe inspection and a repaving project, each with instructions."
+   },
+   {
+    "q": "Why can’t the water shut-off be moved to another date?",
+    "o": [
+     "The plumber is away on holiday",
+     "The city’s crew has been scheduled by the municipality",
+     "Residents voted for that date",
+     "Lot B must be repaved first"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "The notice says the crew was “scheduled by the city rather than by us,” so management cannot change the date."
+   },
+   {
+    "q": "What will happen if the resident of suite 305 is out on November 13 and has not contacted the office?",
+    "o": [
+     "The plumber will return on November 14",
+     "A staff member will let the plumber in",
+     "The inspection will be cancelled",
+     "The resident will be fined"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "A staff member will admit the plumber with a master key unless the tenant says otherwise by November 8."
+   },
+   {
+    "q": "In the fourth paragraph, “waive” is closest in meaning to:",
+    "o": [
+     "choose not to enforce",
+     "strictly increase",
+     "wave goodbye to",
+     "carefully inspect"
+    ],
+    "a": 0,
+    "cat": "vocabulary",
+    "e": "If the city waives its parking restrictions, it is not applying them temporarily, which lets residents park without a permit."
+   },
+   {
+    "q": "Why does the notice mention Eastgate Fitness Centre?",
+    "o": [
+     "To suggest a new place to park",
+     "To announce a gym opening at Birchwood Court",
+     "To give directions to the city office",
+     "To offer a free place for residents to shower"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Residents who need to shower while the water is off may use the centre free of charge with their key fob."
+   },
+   {
+    "q": "Which best describes the tone of the notice?",
+    "o": [
+     "Humorous and casual",
+     "Angry and threatening",
+     "Formal and considerate",
+     "Vague and indifferent"
+    ],
+    "a": 2,
+    "cat": "tone",
+    "e": "The language is official (“constitutes the written notice”) but includes apologies, practical help and thanks."
+   }
+  ]
+ },
+ {
+  "id": "R1-6",
+  "part": 1,
+  "type": "Reading Correspondence",
+  "difficulty": "Advanced",
+  "timeLimit": 600,
+  "title": "Reply about a laptop warranty claim",
+  "passage": [
+   "Subject: Re: Warranty claim for Brightwave Slate 14, serial BW-77120",
+   "Dear Mr. Chen,",
+   "Thank you for your message of November 2, and for sending the laptop to our service centre in Mississauga. I am sorry for the frustration you have experienced, and I would like to explain the results of our assessment as clearly as I can.",
+   "Our technicians found two separate issues. The first is the battery, which no longer holds a proper charge. This is a manufacturing fault, and it is fully covered by your two-year limited warranty. We will replace it at no cost to you and have attached a prepaid shipping label for the return.",
+   "The second issue is the cracked screen. The pattern of the damage, including the pressure marks around the lower-left corner, indicates that the laptop was struck or squeezed rather than that the panel was defective. Our warranty excludes accidental damage, and I am therefore unable to approve this part of your claim. I know this is not the answer you were hoping for, and I do not take that lightly.",
+   "As a courtesy, and in recognition of the fact that your laptop is only fourteen months old, we are prepared to make a one-time exception. We can replace the screen for $149, which is less than half our usual repair rate of $310. Alternatively, you may take a 15 percent coupon toward the purchase of any new Brightwave laptop. The coupon, like the reduced repair price, is valid until December 15.",
+   "If you would like the screen repaired, you need only reply to this email, and we will carry out both repairs together to save you time. If you prefer the coupon, we will return the laptop to you with the new battery installed and send the coupon code separately.",
+   "Please contact me directly with any questions.",
+   "Kind regards,",
+   "Julia Navarro",
+   "Customer Support Specialist, Brightwave Electronics"
+  ],
+  "questions": [
+   {
+    "q": "What is the main purpose of Julia’s email?",
+    "o": [
+     "To ask Mr. Chen to buy extended coverage",
+     "To announce a recall of the Slate 14",
+     "To explain the warranty decision and offer options",
+     "To apologize for losing his laptop"
+    ],
+    "a": 2,
+    "cat": "main",
+    "e": "She reports the findings, says which fault is covered, and then presents a reduced-price repair or a coupon."
+   },
+   {
+    "q": "Which problem is covered by the warranty?",
+    "o": [
+     "The cracked screen",
+     "The battery fault",
+     "The keyboard failure",
+     "The charger cable"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "The battery is “a manufacturing fault” covered by the warranty, while the screen damage is excluded."
+   },
+   {
+    "q": "Why was the screen claim not approved?",
+    "o": [
+     "The damage appears to be accidental, which the warranty excludes",
+     "The warranty expired fourteen months ago",
+     "The screen was never sent to the service centre",
+     "The technicians could not find any damage"
+    ],
+    "a": 0,
+    "cat": "inference",
+    "e": "Pressure marks suggest the laptop was struck or squeezed, and the warranty “excludes accidental damage.” The laptop is within the two-year warranty period."
+   },
+   {
+    "q": "In the fourth paragraph, “as a courtesy” suggests that the offer is:",
+    "o": [
+     "a legal duty of the company",
+     "a punishment for the customer",
+     "a mistake in the paperwork",
+     "a favour the company is not required to give"
+    ],
+    "a": 3,
+    "cat": "vocabulary",
+    "e": "A courtesy is something done out of politeness or goodwill, not because it is obligatory; the company has just said the screen is excluded from warranty."
+   },
+   {
+    "q": "What does the expression “one-time exception” most likely imply?",
+    "o": [
+     "The laptop will be replaced for free",
+     "The offer applies to all customers",
+     "The coupon can be used repeatedly",
+     "The offer should not be expected again in future claims"
+    ],
+    "a": 3,
+    "cat": "implied",
+    "e": "“One-time” signals that this is a special arrangement, not a new policy, so a similar request later may be refused."
+   },
+   {
+    "q": "Which best describes Julia’s tone?",
+    "o": [
+     "Dismissive and rude",
+     "Excited and promotional",
+     "Sympathetic but firm",
+     "Confused and disorganized"
+    ],
+    "a": 2,
+    "cat": "tone",
+    "e": "She expresses regret and offers alternatives, yet maintains her decision on the screen."
+   }
+  ]
+ },
+ {
+  "id": "R2-2",
+  "part": 2,
+  "type": "Reading to Apply a Diagram",
+  "difficulty": "Intermediate",
+  "timeLimit": 540,
+  "title": "Comparing mobile plans",
+  "diagram": {
+   "caption": "Northline Mobile: monthly plans",
+   "headers": [
+    "",
+    "Basic",
+    "Plus",
+    "Unlimited"
+   ],
+   "rows": [
+    [
+     "Monthly price",
+     "$25",
+     "$40",
+     "$55"
+    ],
+    [
+     "Data",
+     "2 GB",
+     "10 GB",
+     "Unlimited"
+    ],
+    [
+     "Extra data",
+     "$10 per GB",
+     "$8 per GB",
+     "Not needed"
+    ],
+    [
+     "Contract",
+     "None",
+     "12 months",
+     "24 months"
+    ],
+    [
+     "Discount",
+     "None",
+     "10% off for students",
+     "10% off for students"
+    ]
+   ]
+  },
+  "passage": [
+   "Hi Priya,",
+   "I finally compared the Northline plans. Since I use about 8 GB a month, I’m choosing the __1__ plan. With my student discount, I’ll pay __2__ a month for it. The only catch is that I’m locked into __3__.",
+   "You use around 14 GB, so if you stayed on Plus, you’d pay __4__ a month once the extra data is added. Unlimited would cost you __5__ less each month than that, and you wouldn’t have to worry about going over.",
+   "I know phone shopping is a headache, so I hope this saves you some time. If you like, we could go to the Northline store together on Saturday and sign up at the same time. Let me know what you decide!",
+   "Sam"
+  ],
+  "questions": [
+   {
+    "q": "Blank 1",
+    "o": [
+     "Basic",
+     "Plus",
+     "Unlimited",
+     "Premium"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "8 GB is more than Basic’s 2 GB and well within Plus’s 10 GB, so Plus is the sensible plan."
+   },
+   {
+    "q": "Blank 2",
+    "o": [
+     "$36",
+     "$40",
+     "$32",
+     "$22.50"
+    ],
+    "a": 0,
+    "cat": "inference",
+    "e": "Plus costs $40; 10% off is $4, so $40 - $4 = $36."
+   },
+   {
+    "q": "Blank 3",
+    "o": [
+     "12 months",
+     "no contract",
+     "24 months",
+     "none of these"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "The Contract row lists 12 months for Plus."
+   },
+   {
+    "q": "Blank 4",
+    "o": [
+     "$64",
+     "$54",
+     "$56",
+     "$72"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "14 GB - 10 GB = 4 extra GB; 4 x $8 = $32; $40 + $32 = $72."
+   },
+   {
+    "q": "Blank 5",
+    "o": [
+     "$15",
+     "$22.50",
+     "$17",
+     "$32"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "Priya is not a student, so Unlimited is $55 at full price. $72 - $55 = $17."
+   }
+  ]
+ },
+ {
+  "id": "R2-3",
+  "part": 2,
+  "type": "Reading to Apply a Diagram",
+  "difficulty": "Intermediate",
+  "timeLimit": 540,
+  "title": "Fitness classes after work",
+  "diagram": {
+   "caption": "Riverside Recreation Centre: weekly fitness classes",
+   "headers": [
+    "",
+    "Yoga Flow",
+    "Spin Express",
+    "Aqua Fit",
+    "Zumba Fun"
+   ],
+   "rows": [
+    [
+     "Day",
+     "Tuesday",
+     "Wednesday",
+     "Thursday",
+     "Saturday"
+    ],
+    [
+     "Time",
+     "6:30 to 7:45 p.m.",
+     "7:00 to 7:45 p.m.",
+     "6:00 to 7:00 p.m.",
+     "9:00 to 10:15 a.m."
+    ],
+    [
+     "Drop-in price",
+     "$14",
+     "$16",
+     "$12",
+     "$12"
+    ],
+    [
+     "10-class pass",
+     "$110",
+     "$130",
+     "$95",
+     "$95"
+    ],
+    [
+     "Level",
+     "All levels",
+     "Intermediate",
+     "Beginner",
+     "All levels"
+    ]
+   ]
+  },
+  "passage": [
+   "Hi Jordan,",
+   "Thanks for asking about the Riverside classes! Because you work until 7:30 on weekdays, the only class you could attend is __1__. I’ll probably go to Yoga Flow on Tuesdays, which lasts __2__.",
+   "I’m also thinking about Aqua Fit. If I went every Thursday for ten weeks, buying the pass would save me __3__ compared with paying the drop-in price each time. Last month I tried Spin Express twice and Yoga Flow once, paying drop-in each time, so that cost me __4__ altogether.",
+   "I would have liked an earlier class, but the weekday classes that begin before 6:00 p.m. are __5__.",
+   "Anyway, it would be great to have a friend there, and I think trying a class together is a good way to start the new year. Let me know which one you would like to try first.",
+   "See you soon,",
+   "Mei"
+  ],
+  "questions": [
+   {
+    "q": "Blank 1",
+    "o": [
+     "Yoga Flow",
+     "Zumba Fun",
+     "Spin Express",
+     "Aqua Fit"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "Jordan finishes at 7:30 on weekdays, and all weekday classes start by 7:00, so only the Saturday morning class works."
+   },
+   {
+    "q": "Blank 2",
+    "o": [
+     "60 minutes",
+     "75 minutes",
+     "90 minutes",
+     "45 minutes"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "6:30 to 7:45 p.m. is 1 hour 15 minutes, or 75 minutes."
+   },
+   {
+    "q": "Blank 3",
+    "o": [
+     "$25",
+     "$15",
+     "$30",
+     "$35"
+    ],
+    "a": 0,
+    "cat": "inference",
+    "e": "Ten drop-ins cost 10 x $12 = $120. The pass costs $95, so she saves $120 - $95 = $25."
+   },
+   {
+    "q": "Blank 4",
+    "o": [
+     "$44",
+     "$30",
+     "$48",
+     "$46"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "Two Spin Express drop-ins are 2 x $16 = $32, plus one Yoga Flow at $14, for $46."
+   },
+   {
+    "q": "Blank 5",
+    "o": [
+     "Yoga Flow and Aqua Fit",
+     "Spin Express only",
+     "Aqua Fit only",
+     "none of them"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Yoga Flow starts at 6:30, Spin at 7:00 and Aqua Fit at exactly 6:00, so no weekday class begins before 6:00 p.m."
+   }
+  ]
+ },
+ {
+  "id": "R2-4",
+  "part": 2,
+  "type": "Reading to Apply a Diagram",
+  "difficulty": "Advanced",
+  "timeLimit": 540,
+  "title": "Shipping soap to Winnipeg",
+  "diagram": {
+   "caption": "Couriers for parcels from Calgary to Winnipeg",
+   "headers": [
+    "",
+    "Swift Post",
+    "MapleExpress",
+    "NorthStar Freight"
+   ],
+   "rows": [
+    [
+     "Delivery time",
+     "1 business day",
+     "2 to 3 business days",
+     "5 to 7 business days"
+    ],
+    [
+     "Price, up to 2 kg",
+     "$22.00",
+     "$13.50",
+     "$8.00"
+    ],
+    [
+     "Each extra kg",
+     "$3.50",
+     "$2.00",
+     "$1.25"
+    ],
+    [
+     "Insurance",
+     "Included up to $200",
+     "Included up to $100",
+     "Not available"
+    ],
+    [
+     "Pickup",
+     "Free",
+     "$4.00 per pickup",
+     "Drop-off only"
+    ],
+    [
+     "Bulk discount",
+     "None",
+     "10% off shipping if 4 or more parcels are sent the same day (pickup fee not discounted)",
+     "None"
+    ]
+   ]
+  },
+  "passage": [
+   "Hi Keisha,",
+   "Our Winnipeg customer needs her soap by Friday. Since it’s Tuesday morning and the parcel goes out today, the cheapest service that can still deliver on time is __1__. The parcel weighs 6 kg, and with the pickup fee, it would cost __2__.",
+   "If we ship all five of today’s two-kilogram orders with that same service, the total, including one pickup, comes to __3__.",
+   "One more thing: the gift set is worth $250, and the service that would cover its full value is __4__. If I used Swift Post for the 6 kg parcel instead, I’d pay __5__ more than I would with the cheapest service that arrives on time, pickup fee included.",
+   "Thanks,",
+   "Ravi"
+  ],
+  "questions": [
+   {
+    "q": "Blank 1",
+    "o": [
+     "Swift Post",
+     "NorthStar Freight",
+     "MapleExpress",
+     "none of the services"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "Sent Tuesday, 2 to 3 business days means arrival by Friday at the latest. NorthStar takes 5 to 7 days, and MapleExpress is cheaper than Swift Post."
+   },
+   {
+    "q": "Blank 2",
+    "o": [
+     "$21.50",
+     "$29.50",
+     "$25.50",
+     "$36.00"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "Base $13.50 plus 4 extra kg x $2.00 = $8.00 gives $21.50; adding the $4.00 pickup gives $25.50."
+   },
+   {
+    "q": "Blank 3",
+    "o": [
+     "$67.50",
+     "$64.75",
+     "$60.75",
+     "$71.50"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "Five parcels at $13.50 = $67.50; 10% off is $60.75; adding one $4.00 pickup gives $64.75."
+   },
+   {
+    "q": "Blank 4",
+    "o": [
+     "Swift Post",
+     "MapleExpress",
+     "NorthStar Freight",
+     "none of the services"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "Swift Post insures only up to $200 and MapleExpress up to $100, while NorthStar has no insurance, so none covers $250."
+   },
+   {
+    "q": "Blank 5",
+    "o": [
+     "$10.50",
+     "$14.50",
+     "$8.50",
+     "$12.50"
+    ],
+    "a": 0,
+    "cat": "inference",
+    "e": "Swift Post: $22.00 + 4 x $3.50 = $36.00 with free pickup. MapleExpress with pickup is $25.50, and $36.00 - $25.50 = $10.50."
+   }
+  ]
+ },
+ {
+  "id": "R2-5",
+  "part": 2,
+  "type": "Reading to Apply a Diagram",
+  "difficulty": "Advanced",
+  "timeLimit": 540,
+  "title": "Choosing a gym membership",
+  "diagram": {
+   "caption": "Pinecrest Fitness: membership options",
+   "headers": [
+    "",
+    "Standard",
+    "Premium",
+    "Family"
+   ],
+   "rows": [
+    [
+     "Monthly fee",
+     "$35",
+     "$55",
+     "$95"
+    ],
+    [
+     "Joining fee",
+     "$50",
+     "$50",
+     "$75"
+    ],
+    [
+     "Contract",
+     "Month to month",
+     "12 months",
+     "12 months"
+    ],
+    [
+     "Includes",
+     "Gym floor only",
+     "Gym floor, pool and classes",
+     "Gym, pool and classes for 2 adults and 2 children"
+    ],
+    [
+     "Guest passes",
+     "None",
+     "2 per month",
+     "4 per month"
+    ],
+    [
+     "Annual prepayment",
+     "Not available",
+     "Pay for 10 months, joining fee waived",
+     "Pay for 10 months, joining fee waived"
+    ]
+   ]
+  },
+  "passage": [
+   "Hi Marco,",
+   "I looked at the Pinecrest memberships. I’ll go with Premium, because it includes __1__. If I paid monthly, my first year would cost __2__ in total, including the joining fee.",
+   "However, if I prepay for the year, I’d pay only __3__, which saves me __4__ compared with paying monthly.",
+   "You’re only in town for four months, so Standard makes more sense for you since there’s no contract. With the joining fee, it would cost you __5__ altogether.",
+   "I’m planning to sign up this weekend, so tell me if you would like me to ask the front desk about a short trial week for you. They were friendly when I phoned, and I think they would be happy to help a visitor.",
+   "Talk soon,",
+   "Elena"
+  ],
+  "questions": [
+   {
+    "q": "Blank 1",
+    "o": [
+     "gym floor access only",
+     "pool, classes and two guest passes a month",
+     "four guest passes a month and family access",
+     "none of these"
+    ],
+    "a": 1,
+    "cat": "detail",
+    "e": "The Premium column lists gym floor, pool and classes, with 2 guest passes per month."
+   },
+   {
+    "q": "Blank 2",
+    "o": [
+     "$660",
+     "$610",
+     "$765",
+     "$710"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "12 x $55 = $660, plus the $50 joining fee = $710."
+   },
+   {
+    "q": "Blank 3",
+    "o": [
+     "$605",
+     "$660",
+     "$500",
+     "$550"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "Prepaying means paying for 10 months: 10 x $55 = $550, with no joining fee."
+   },
+   {
+    "q": "Blank 4",
+    "o": [
+     "$110",
+     "$50",
+     "$160",
+     "$55"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "$710 - $550 = $160. She saves two months’ fees ($110) plus the $50 joining fee."
+   },
+   {
+    "q": "Blank 5",
+    "o": [
+     "$140",
+     "$190",
+     "$215",
+     "$230"
+    ],
+    "a": 1,
+    "cat": "inference",
+    "e": "Four months at $35 = $140, plus the $50 joining fee = $190. Prepayment is not available for Standard."
+   }
+  ]
+ },
+ {
+  "id": "R2-6",
+  "part": 2,
+  "type": "Reading to Apply a Diagram",
+  "difficulty": "Advanced",
+  "timeLimit": 540,
+  "title": "Getting to the airport",
+  "diagram": {
+   "caption": "Lakeshore Transit: Saturday morning service to the airport",
+   "headers": [
+    "",
+    "Route 12 Express",
+    "Route 7 Local",
+    "Airport Shuttle"
+   ],
+   "rows": [
+    [
+     "Leaves Oakridge",
+     "7:10 a.m.",
+     "7:00 a.m.",
+     "7:25 a.m."
+    ],
+    [
+     "Arrives at airport",
+     "7:58 a.m.",
+     "8:20 a.m.",
+     "8:05 a.m."
+    ],
+    [
+     "Fare per person",
+     "$3.50",
+     "$3.50",
+     "$9.00"
+    ],
+    [
+     "Transfers",
+     "None",
+     "One, at Dunmore Station",
+     "None"
+    ],
+    [
+     "Luggage",
+     "Small bag only",
+     "Small bag only",
+     "Up to two large bags"
+    ]
+   ]
+  },
+  "passage": [
+   "Hi Tom,",
+   "I’m taking a large suitcase, so the only route I can use is the __1__. It leaves at 7:25, and the trip takes __2__.",
+   "You’re travelling light, so you could also take Route 12 Express, which is __3__ faster than Route 7 Local. If you and your sister both take Route 12 there and back, the fares will come to __4__ in total.",
+   "You said you’d like to be at the airport by 7:45, but the routes that can get you there are __5__.",
+   "Whichever way we go, let’s message each other when we are on the bus so we can find each other at the terminal. I’ll bring snacks for the wait at the gate, since the food court there is always expensive.",
+   "See you Saturday,",
+   "Anika"
+  ],
+  "questions": [
+   {
+    "q": "Blank 1",
+    "o": [
+     "Airport Shuttle",
+     "Route 12 Express",
+     "Route 7 Local",
+     "none of the routes"
+    ],
+    "a": 0,
+    "cat": "detail",
+    "e": "Only the Airport Shuttle allows large bags; the other two routes are limited to a small bag."
+   },
+   {
+    "q": "Blank 2",
+    "o": [
+     "40 minutes",
+     "35 minutes",
+     "48 minutes",
+     "45 minutes"
+    ],
+    "a": 0,
+    "cat": "inference",
+    "e": "Leaving at 7:25 and arriving at 8:05 is 40 minutes."
+   },
+   {
+    "q": "Blank 3",
+    "o": [
+     "22 minutes",
+     "12 minutes",
+     "42 minutes",
+     "32 minutes"
+    ],
+    "a": 3,
+    "cat": "inference",
+    "e": "Route 12 takes 7:10 to 7:58 = 48 minutes; Route 7 takes 7:00 to 8:20 = 80 minutes. 80 - 48 = 32."
+   },
+   {
+    "q": "Blank 4",
+    "o": [
+     "$7.00",
+     "$28.00",
+     "$14.00",
+     "$10.50"
+    ],
+    "a": 2,
+    "cat": "inference",
+    "e": "Two people x 2 trips x $3.50 = 4 x $3.50 = $14.00."
+   },
+   {
+    "q": "Blank 5",
+    "o": [
+     "Route 12 Express only",
+     "Route 7 Local and the Airport Shuttle",
+     "all three routes",
+     "none of the routes"
+    ],
+    "a": 3,
+    "cat": "detail",
+    "e": "The earliest arrival is 7:58 a.m. on Route 12, so no route reaches the airport by 7:45."
+   }
+  ]
+ }
+]

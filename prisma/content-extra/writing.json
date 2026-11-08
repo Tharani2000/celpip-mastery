@@ -1,0 +1,332 @@
+[
+ {
+  "id": "W9",
+  "task": 1,
+  "kind": "email",
+  "title": "A damaged sofa delivery",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "You ordered a sofa from an online furniture store. It arrived last week with a deep tear in the fabric, and the delivery driver would not take it back. You have called the store twice without a clear answer. Write an email to the store’s customer relations department in about 150 to 200 words.",
+  "points": [
+   "Describe the damage and what happened at delivery",
+   "Explain what you have already done to solve the problem",
+   "Say whether you want a replacement or a refund, and by when"
+  ],
+  "register": "Formal"
+ },
+ {
+  "id": "W10",
+  "task": 1,
+  "kind": "email",
+  "title": "Heating repair request",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "The heating in your apartment has been working poorly for two weeks, and nights are now close to freezing. You mentioned it once to the building superintendent, but nothing has been done. Write an email to your landlord in about 150 to 200 words.",
+  "points": [
+   "Describe the problem and how long it has lasted",
+   "Explain how it is affecting your daily life",
+   "Ask for a repair date and suggest a time when you will be home"
+  ],
+  "register": "Formal"
+ },
+ {
+  "id": "W11",
+  "task": 1,
+  "kind": "email",
+  "title": "Covering a shift",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "You have been invited to a family event out of town next Saturday, but you are scheduled to work that day at the café where you work part-time. You would like a coworker to take your shift. Write an email to a coworker you get along with but do not know very well in about 150 to 200 words.",
+  "points": [
+   "Explain why you need the day off",
+   "Offer something in return, such as covering a future shift",
+   "Say how and when they can let you know"
+  ],
+  "register": "Semi-formal"
+ },
+ {
+  "id": "W12",
+  "task": 1,
+  "kind": "email",
+  "title": "Housewarming invitation",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "You have just moved into a new apartment and want to celebrate with your friends. Write an email to a group of close friends in about 150 to 200 words.",
+  "points": [
+   "Give the date, time and place of the party",
+   "Tell them what food and drinks there will be and what they could bring",
+   "Explain how to get to your new place by transit or car"
+  ],
+  "register": "Informal"
+ },
+ {
+  "id": "W13",
+  "task": 1,
+  "kind": "email",
+  "title": "Thank you to a mentor",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "A senior colleague spent several months guiding you through a difficult project at work. The project finished successfully last week, and you are about to move to a different team. Write an email to your mentor in about 150 to 200 words.",
+  "points": [
+   "Thank them and describe one specific way they helped",
+   "Explain what you learned from the experience",
+   "Suggest keeping in touch, for example over coffee"
+  ],
+  "register": "Semi-formal"
+ },
+ {
+  "id": "W14",
+  "task": 1,
+  "kind": "email",
+  "title": "Registering a child at school",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your family is moving to a new neighbourhood in Calgary next month, and you want to register your ten-year-old child at the local elementary school. The school’s website has little information. Write an email to the school’s office administrator in about 150 to 200 words.",
+  "points": [
+   "Introduce yourself and explain your situation",
+   "Ask which documents you need and what the registration deadline is",
+   "Ask about before-school and after-school care"
+  ],
+  "register": "Formal"
+ },
+ {
+  "id": "W15",
+  "task": 1,
+  "kind": "email",
+  "title": "Missed garbage collection",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "The city has not collected the garbage or recycling on your street for two weeks in a row. Bags are piling up outside several homes, and your neighbours are starting to complain. Write an email to the city’s waste services department in about 150 to 200 words.",
+  "points": [
+   "Describe the problem and when it began",
+   "Explain why it is a concern for residents",
+   "Ask when collection will resume and how the missed pickups will be made up"
+  ],
+  "register": "Formal"
+ },
+ {
+  "id": "W16",
+  "task": 1,
+  "kind": "email",
+  "title": "A cabin weekend",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "You and five friends have been talking about a weekend away. You have found a cabin near a lake that could work, but it costs more than you expected and you need everyone’s agreement soon. Write an email to your friends in about 150 to 200 words.",
+  "points": [
+   "Describe the cabin, the dates and the total price",
+   "Suggest how to share the costs and the driving",
+   "Ask everyone to reply with their availability by a specific day"
+  ],
+  "register": "Informal"
+ },
+ {
+  "id": "W17",
+  "task": 1,
+  "kind": "email",
+  "title": "Saying no to a party",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "A friend has invited you to a big birthday party on a weekend when you must prepare for an important exam. You really want to go but cannot. Write an email to your friend in about 150 to 200 words.",
+  "points": [
+   "Thank them for the invitation and show you care about the event",
+   "Explain honestly why you cannot attend",
+   "Suggest another time to celebrate together"
+  ],
+  "register": "Informal"
+ },
+ {
+  "id": "W18",
+  "task": 1,
+  "kind": "email",
+  "title": "Feedback on a course",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "You have just finished a ten-week English communication course at a community college. Overall it was useful, but there were some problems, such as unclear assignments and a very crowded classroom. Write an email to the program director in about 150 to 200 words.",
+  "points": [
+   "Say what you liked most about the course",
+   "Describe two things that could be improved",
+   "Suggest specific changes for future students"
+  ],
+  "register": "Formal"
+ },
+ {
+  "id": "W19",
+  "task": 1,
+  "kind": "email",
+  "title": "Meeting your new neighbour",
+  "minutes": 27,
+  "min": 150,
+  "max": 200,
+  "prompt": "A new family has moved into the apartment next to yours. You have only said hello in the hallway, and you would like to start a friendly relationship. Write an email to your new neighbour in about 150 to 200 words.",
+  "points": [
+   "Introduce yourself and welcome them to the building",
+   "Share some useful information about the area or the building",
+   "Invite them to a short get-together or offer your help"
+  ],
+  "register": "Semi-formal"
+ },
+ {
+  "id": "W20",
+  "task": 2,
+  "kind": "survey",
+  "title": "Downtown pool or park",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your city has received a one-time grant of $5 million and is asking residents how to spend it. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: Build a new indoor community pool and fitness centre",
+   "Option B: Redesign the central park with new trails, gardens and a stage"
+  ]
+ },
+ {
+  "id": "W21",
+  "task": 2,
+  "kind": "survey",
+  "title": "Four-day work week",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your company is testing a new schedule and has asked employees for their views. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: A four-day week with ten-hour days and every Friday off",
+   "Option B: A five-day week with flexible start and finish times each day"
+  ]
+ },
+ {
+  "id": "W22",
+  "task": 2,
+  "kind": "survey",
+  "title": "College work placements",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your college is revising its business diploma and is asking students for input. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: Make a four-month paid work placement mandatory for every student",
+   "Option B: Keep placements optional and add more elective courses instead"
+  ]
+ },
+ {
+  "id": "W23",
+  "task": 2,
+  "kind": "survey",
+  "title": "Summer street festival",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your neighbourhood association has funds for one big event this summer and wants to hear from residents. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: A weekend street festival with live music and food trucks",
+   "Option B: A weekly farmers’ market with local crafts and small family activities"
+  ]
+ },
+ {
+  "id": "W24",
+  "task": 2,
+  "kind": "survey",
+  "title": "Bike lanes or parking",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your city is redesigning a busy main street and is asking residents for their opinions. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: Replace street parking with protected bike lanes",
+   "Option B: Keep street parking and build a new parking garage nearby"
+  ]
+ },
+ {
+  "id": "W25",
+  "task": 2,
+  "kind": "survey",
+  "title": "Where to live",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "A housing agency is asking newcomers to your city where they would prefer to live. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: Rent a small apartment close to downtown, work and transit",
+   "Option B: Rent a larger house in the suburbs with a longer commute"
+  ]
+ },
+ {
+  "id": "W26",
+  "task": 2,
+  "kind": "survey",
+  "title": "Self-checkout tills",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "A large grocery store chain is deciding how to organize its stores and has sent customers a survey. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: Replace most cashiers with self-checkout machines to keep prices lower",
+   "Option B: Keep staffed checkouts and offer self-checkout only as an extra choice"
+  ]
+ },
+ {
+  "id": "W27",
+  "task": 2,
+  "kind": "survey",
+  "title": "Workplace wellness",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your employer will start a wellness benefit and wants to know which one staff would value more. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: A yearly allowance for gym memberships and sports equipment",
+   "Option B: Three extra paid days per year for mental health and rest"
+  ]
+ },
+ {
+  "id": "W28",
+  "task": 2,
+  "kind": "survey",
+  "title": "Charity choice",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your office raises money together each year and is voting on where the donation should go. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: A local food bank that supports families in your city",
+   "Option B: An international organization that provides clean water to villages"
+  ]
+ },
+ {
+  "id": "W29",
+  "task": 2,
+  "kind": "survey",
+  "title": "Holiday style",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "A travel agency is asking customers how they prefer to take a week-long holiday. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: An all-inclusive resort where meals and activities are organized",
+   "Option B: An independent trip where you plan your own routes and stay in small guesthouses"
+  ]
+ },
+ {
+  "id": "W30",
+  "task": 2,
+  "kind": "survey",
+  "title": "Neighbourhood improvement",
+  "minutes": 26,
+  "min": 150,
+  "max": 200,
+  "prompt": "Your local council has a small budget to improve your neighbourhood and is asking residents to choose. Choose the option you prefer and explain your reasons in about 150 to 200 words.",
+  "options": [
+   "Option A: Install brighter street lighting and more security cameras",
+   "Option B: Create a community garden and a new playground in the empty lot"
+  ]
+ }
+]
