@@ -1,7 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
-  experimental: { serverComponentsExternalPackages: ["@prisma/client", "@prisma/adapter-pg", "pg", "bcryptjs"] },
+  experimental: {
+    serverComponentsExternalPackages: ["@prisma/client", "@prisma/adapter-pg", "pg", "bcryptjs"],
+    outputFileTracingIncludes: {
+      "/api/**": ["./node_modules/.prisma/client/**/*.wasm"]
+    }
+  },
   async headers() {
     return [{
       source: "/(.*)",
